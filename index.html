@@ -30,13 +30,8 @@
 html{scroll-behavior:smooth;}
 body{font-family:'Space Grotesk','DM Sans',sans-serif;font-weight:300;background:var(--bg);color:var(--ink);padding-bottom:60px;}
 
-/* ── CURSOR ── */
-#cur{display:none;}
-@media(min-width:768px){
-  #cur{display:block;width:12px;height:12px;background:var(--pink);border-radius:50%;position:fixed;top:0;left:0;pointer-events:none;z-index:9999;transition:transform .15s,width .2s,height .2s,background .2s;transform:translate(-50%,-50%);box-shadow:0 0 12px rgba(255,107,157,.4);}
-  #cur.h{width:32px;height:32px;background:transparent;border:2px solid var(--pink);box-shadow:0 0 20px rgba(255,107,157,.3);}
-  body{cursor:none;padding-bottom:0;}
-}
+/* ── CURSOR — custom dot removed, use OS default ── */
+#cur{display:none!important;}
 
 /* ── PUSH NOTIF BANNER ── */
 #push-banner{display:none;position:fixed;top:0;left:0;right:0;z-index:500;background:var(--grad);padding:10px 1rem;text-align:center;font-size:12px;color:#fff;font-weight:500;letter-spacing:.02em;}
@@ -380,8 +375,7 @@ footer{margin-top:3rem;border-top:1px solid var(--li);padding:2rem 1rem;display:
 .flo{font-family:'DM Serif Display',serif;font-size:18px;background:var(--grad);-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text;}
 .fco{font-size:10px;color:var(--mu);}
 
-#cur{display:none;}
-@media(min-width:768px){#cur{display:block;width:8px;height:8px;background:var(--ink);border-radius:50%;position:fixed;top:0;left:0;pointer-events:none;z-index:9999;transition:transform .15s,width .2s,height .2s;transform:translate(-50%,-50%);}#cur.h{width:26px;height:26px;background:transparent;border:1px solid var(--ink);}body{cursor:none;padding-bottom:0;}}
+/* cursor:none removed — OS default cursor restored */
 .tk{background:var(--ink);overflow:hidden;height:32px;display:flex;align-items:center;}
 .tt{display:inline-flex;animation:tick 60s linear infinite;white-space:nowrap;}
 .tt:hover{animation-play-state:paused;}
