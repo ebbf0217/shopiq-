@@ -2163,7 +2163,22 @@ updateWishUI();
 renderCal();
 loadReddit();
 
-// ── SEEN ON ──
+// ── SEEN ON ──────────────────────────────────────────────────────────────────
+// IMAGE POLICY: ALL img fields must use official brand CDN or press outlet URLs.
+// NEVER use Unsplash, Pexels, or stock photos.
+//
+// Approved sources:
+//   Brand CDN  → brand.com/cdn/shop/files/ (Shopify), brand.imgix.net, media.brand.com
+//   Press CDN  → wwd.com/wp-content/uploads/, theimpression.com/wp-content/uploads/
+//              → image-cdn.hypb.st/ (Hypebeast), allkpop.com/upload/
+//              → culted.com/api/media/, bae.hypebeast.com/files/
+//
+// UPDATE CADENCE: Update seenData weekly — only 2026 content.
+// Set date: field to actual spotted date (YYYY-MM-DD).
+// Posts older than 14 days are auto-hidden by renderSeenOn().
+// Target audience: 20-30s US women + Korean-Americans (K-Pop AND Western celebs).
+// ─────────────────────────────────────────────────────────────────────────────
+const DATA_LAST_UPDATED = '2026-06-02'; // Update this when adding new entries
 const seenData = [
   {id:1,  who:'Hailey Bieber', handle:'@haileybieber', cat:'model', brand:'Toteme', item:'Twisted Seam Trousers — Ivory', context:'Spotted LAX May 2026. Toteme kitten heels at Zoe Kravitz dinner Feb 2026', retail:390, resale:290, salePrice:null, saleNote:'Grailed below retail — good buy', url:'https://www.toteme-studio.com', itemCat:'denim', img:'https://www.toteme-studio.com/cdn/shop/files/TOTEME_SS26_Campaign_01.jpg?v=1740000000', date:'2026-06-01', campaign:'https://www.toteme-studio.com/collections/all', likes:'684K', comments:'4.2K', loc:'LAX Airport', likes:'684K', comments:'4.2K', loc:'LAX Airport'},
   {id:2,  who:'Bella Hadid', handle:'@bellahadid', cat:'model', brand:'By Far', item:'Rachel Bag — Cream', context:'Summer 2026 dress + woven bag combo. Paris PFW night out with Hailey Bieber', retail:520, resale:null, salePrice:312, saleNote:'Shopbop 40% off now', url:'https://www.byfar.com', itemCat:'bag', img:'https://www.byfar.com/cdn/shop/files/SS26-Campaign-Rachel-Cream-01.jpg?v=1760000000&width=1200', date:'2026-06-01', campaign:'https://www.byfar.com/collections/all', likes:'822K', comments:'6.8K', loc:'Paris, France', likes:'822K', comments:'6.8K', loc:'Paris, France'},
@@ -2233,18 +2248,25 @@ const catGrad={kpop:'linear-gradient(135deg,#ff6b9d,#ff4d8d)',model:'linear-grad
 const catLabel={kpop:'K-Pop ✦',model:'Model',influencer:'Influencer'};
 
 function renderSeenOn(filter='all'){
-  let data=seenData;
-  if(filter==='kpop') data=seenData.filter(s=>s.cat==='kpop');
-  else if(filter==='model') data=seenData.filter(s=>s.cat==='model');
-  else if(filter==='influencer') data=seenData.filter(s=>s.cat==='influencer');
-  else if(filter==='bag') data=seenData.filter(s=>s.itemCat==='bag');
-  else if(filter==='denim') data=seenData.filter(s=>s.itemCat==='denim');
-  else if(filter==='active') data=seenData.filter(s=>s.itemCat==='active');
-  else if(filter==='dress') data=seenData.filter(s=>s.itemCat==='dress');
-  else if(filter==='shoes') data=seenData.filter(s=>s.itemCat==='shoes');
-  else if(filter==='skims') data=seenData.filter(s=>s.brand==='SKIMS');
-  else if(filter==='therow') data=seenData.filter(s=>s.brand==='The Row');
-  else if(filter==='sale') data=seenData.filter(s=>s.salePrice||s.saleNote);
+  // Auto-hide posts older than 14 days
+  const todayMs = new Date(); todayMs.setHours(0,0,0,0);
+  const MAX_DAYS = 14;
+  let data = seenData.filter(s => {
+    const d = new Date(s.date + 'T00:00:00');
+    return Math.round((todayMs - d) / 86400000) <= MAX_DAYS;
+  });
+
+  if(filter==='kpop') data=data.filter(s=>s.cat==='kpop');
+  else if(filter==='model') data=data.filter(s=>s.cat==='model');
+  else if(filter==='influencer') data=data.filter(s=>s.cat==='influencer');
+  else if(filter==='bag') data=data.filter(s=>s.itemCat==='bag');
+  else if(filter==='denim') data=data.filter(s=>s.itemCat==='denim');
+  else if(filter==='active') data=data.filter(s=>s.itemCat==='active');
+  else if(filter==='dress') data=data.filter(s=>s.itemCat==='dress');
+  else if(filter==='shoes') data=data.filter(s=>s.itemCat==='shoes');
+  else if(filter==='skims') data=data.filter(s=>s.brand==='SKIMS');
+  else if(filter==='therow') data=data.filter(s=>s.brand==='The Row');
+  else if(filter==='sale') data=data.filter(s=>s.salePrice||s.saleNote);
 
   const cnt=document.getElementById('seen-count');
   if(cnt) cnt.textContent=data.length;
@@ -2370,17 +2392,40 @@ if(typeof SHOPIQ!=='undefined'){
   }).catch(()=>{});
 }
 
-// ── AUTO-REFRESH every 60 minutes ──
+// ── AUTO-REFRESH every 60 minutes ─────────────────────────────────────────
+// What refreshes automatically:
+//   - Reddit live trends (API call)
+//   - Exchange rate (USD/KRW)
+//   - All display timestamps
+//   - seenData: posts older than 14 days auto-hidden (no new API call needed)
+//
+// What requires MANUAL update (edit seenData in code):
+//   - New celeb outfit sightings → add entries with today's date
+//   - IMAGE RULE: img field must use official brand CDN or press outlet
+//     Never Unsplash. Sources: WWD, Hypebeast, TheImpression, AllKPop, brand CDNs
+// ──────────────────────────────────────────────────────────────────────────
 const _REFRESH_MS = 60 * 60 * 1000;
 let _nextRefresh = Date.now() + _REFRESH_MS;
 setInterval(async function() {
   _nextRefresh = Date.now() + _REFRESH_MS;
   updateTimestamps();
+  // Re-render seen on to re-apply the 14-day filter with updated today's date
+  if (document.querySelector('#pg-seenon.on')) renderSeenOn();
   try {
     const rd = await SHOPIQ.aggregateRedditTrends();
     const el = document.getElementById('rstat');
     if (el && rd && rd.total_posts > 0)
       el.textContent = 'Reddit live · ' + rd.total_posts + ' posts · ' + rd.brand_rankings.length + ' brands ranked';
+  } catch(e) {}
+  // Refresh exchange rate
+  try {
+    const r = await fetch('https://open.er-api.com/v6/latest/USD');
+    const d = await r.json();
+    if (d.rates && d.rates.KRW) {
+      window.SQ.rate = d.rates.KRW;
+      const el = document.getElementById('krw-rate-disp');
+      if (el) el.textContent = '₩' + Math.round(d.rates.KRW).toLocaleString('ko-KR');
+    }
   } catch(e) {}
 }, _REFRESH_MS);
 setInterval(() => {
@@ -2673,6 +2718,11 @@ window.SQ_closeMore = function() {
   const el = document.getElementById('more-panel');
   if (el) el.style.display = 'none';
 };
+
+
+
+
+
 
 </script>
 </body>
