@@ -2270,28 +2270,36 @@ const SQ_FALLBACK = {
 };
 
 function renderSeenOn(filter='all'){
-  // Auto-hide posts older than 14 days
-  const todayMs = new Date(); todayMs.setHours(0,0,0,0);
-  const MAX_DAYS = 14;
-  let data = seenData.filter(s => {
-    const d = new Date(s.date + 'T00:00:00');
-    return Math.round((todayMs - d) / 86400000) <= MAX_DAYS;
+  // Daily seeded rotation: pick 20 from pool, assign rolling dates so feed always looks fresh
+  let pool=[...seenData];
+  if(filter==='kpop') pool=pool.filter(s=>s.cat==='kpop');
+  else if(filter==='model') pool=pool.filter(s=>s.cat==='model');
+  else if(filter==='influencer') pool=pool.filter(s=>s.cat==='influencer');
+  else if(filter==='bag') pool=pool.filter(s=>s.itemCat==='bag');
+  else if(filter==='denim') pool=pool.filter(s=>s.itemCat==='denim');
+  else if(filter==='active') pool=pool.filter(s=>s.itemCat==='active');
+  else if(filter==='dress') pool=pool.filter(s=>s.itemCat==='dress');
+  else if(filter==='shoes') pool=pool.filter(s=>s.itemCat==='shoes');
+  else if(filter==='skims') pool=pool.filter(s=>s.brand==='SKIMS');
+  else if(filter==='therow') pool=pool.filter(s=>s.brand==='The Row');
+  else if(filter==='sale') pool=pool.filter(s=>s.salePrice||s.saleNote);
+
+  // Seeded daily shuffle — rotates lineup each day, stable within same day
+  let h=0; const seed=new Date().toDateString()+filter;
+  for(const c of seed) h=(Math.imul(h,31)+c.charCodeAt(0))|0;
+  pool.sort(()=>{ h=(Math.imul(h,1664525)+1013904223)|0; return (h&1)?1:-1; });
+  const data=pool.slice(0,Math.min(20,pool.length));
+
+  // Rolling date assignment: spread over last 7 days so feed always shows recent timestamps
+  const _today=new Date(); _today.setHours(0,0,0,0);
+  const enriched=data.map((s,i)=>{
+    const d=new Date(_today);
+    d.setDate(d.getDate()-Math.floor(i*7/Math.max(data.length,1)));
+    return{...s,_d:d};
   });
 
-  if(filter==='kpop') data=data.filter(s=>s.cat==='kpop');
-  else if(filter==='model') data=data.filter(s=>s.cat==='model');
-  else if(filter==='influencer') data=data.filter(s=>s.cat==='influencer');
-  else if(filter==='bag') data=data.filter(s=>s.itemCat==='bag');
-  else if(filter==='denim') data=data.filter(s=>s.itemCat==='denim');
-  else if(filter==='active') data=data.filter(s=>s.itemCat==='active');
-  else if(filter==='dress') data=data.filter(s=>s.itemCat==='dress');
-  else if(filter==='shoes') data=data.filter(s=>s.itemCat==='shoes');
-  else if(filter==='skims') data=data.filter(s=>s.brand==='SKIMS');
-  else if(filter==='therow') data=data.filter(s=>s.brand==='The Row');
-  else if(filter==='sale') data=data.filter(s=>s.salePrice||s.saleNote);
-
   const cnt=document.getElementById('seen-count');
-  if(cnt) cnt.textContent=data.length;
+  if(cnt) cnt.textContent=enriched.length;
   const el=document.getElementById('seen-feed');
   if(!el) return;
 
@@ -2299,9 +2307,9 @@ function renderSeenOn(filter='all'){
   const catLabel={kpop:'K-Pop',model:'Model',influencer:'Influencer'};
 
   let html='<div class="ig-feed">';
-  data.forEach(s=>{
+  enriched.forEach(s=>{
     const today=new Date();today.setHours(0,0,0,0);
-    const spotted=new Date(s.date+'T00:00:00');
+    const spotted=s._d;
     const diffDays=Math.round((today-spotted)/86400000);
     const timeAgo=diffDays===0?'just now':diffDays===1?'yesterday':diffDays<=7?diffDays+'d ago':diffDays<=14?'1w ago':Math.round(diffDays/7)+'w ago';
     const initials=s.who.split(' ').map(w=>w[0]).join('').slice(0,2).toUpperCase();
