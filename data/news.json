@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-24T07:06:50+00:00",
+ "fetched_at": "2026-11-24T07:10:30+00:00",
  "articles": [
   {
    "title": "Stine Goya Pre-Fall 2027",
    "source": "Vogue",
    "url": "https://www.vogue.com/fashion-shows/pre-fall-2027/stine-goya",
-   "date": "2026-11-24T07:04:05+00:00",
+   "date": "2026-11-24T07:05:39+00:00",
    "brands": [
     "Stine Goya"
    ],
@@ -825,11 +825,13 @@
    ]
   },
   {
-   "title": "ICYMI: Kristin Ess Launches Otherwise, Macy Grimshaw Wins the 2026 H&amp;M Design Award &amp; Fashion Books Worth Gifting",
+   "title": "ICYMI: Kristin Ess Launches Otherwise, Macy Grimshaw Wins the 2026 H&M Design Award & Fashion Books Worth Gifting",
    "source": "Fashionista",
    "url": "https://fashionista.com/2026/11/fashion-news-you-need-to-know-november-21",
    "date": "2026-11-21T13:00:00+00:00",
-   "brands": [],
+   "brands": [
+    "H&M"
+   ],
    "topics": [
     "collab"
    ]
