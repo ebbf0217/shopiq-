@@ -1006,16 +1006,17 @@ a.so-row:hover .so-who{text-decoration:underline}
     <div class="dt on" id="dt-home" onclick="showPage('home')">Home</div>
     <div class="dt" id="dt-drops" onclick="showPage('drops')">New In</div>
     <div class="dt" id="dt-calendar" onclick="showPage('calendar')">Timeline</div>
+    <div class="dt" id="dt-resale" onclick="showPage('resale')">Price Drops</div>
     <div class="dt" id="dt-seenon" onclick="showPage('seenon')">News</div>
     <div class="dt" id="dt-sale" onclick="showPage('sale')">Sale</div>
-    <div class="dt" id="dt-trend" onclick="showPage('trend')">Trends</div>
+    <div class="dt" style="display:none" id="dt-trend" onclick="showPage('trend')">Trends</div>
     <div class="dt" id="dt-korea" onclick="showPage('korea')">KR Ship</div>
-    <div class="dt" id="dt-brands" onclick="showPage('brands')">Brands</div>
-    <div class="dt" id="dt-wardrobe" onclick="showPage('wardrobe')">Wardrobe</div>
-    <div class="dt" id="dt-size" onclick="showPage('size')">Size Guide</div>
+    <div class="dt" style="display:none" id="dt-brands" onclick="showPage('brands')">Brands</div>
+    <div class="dt" style="display:none" id="dt-wardrobe" onclick="showPage('wardrobe')">Wardrobe</div>
+    <div class="dt" style="display:none" id="dt-size" onclick="showPage('size')">Size Guide</div>
     <div class="dt" id="dt-calc" onclick="showPage('calc')">Cost Calc</div>
-    <div class="dt" id="dt-seoul" onclick="showPage('seoul')">Seoul Spots</div>
-    <div class="dt" id="dt-editorial" onclick="showPage('editorial')">Editorial</div>
+    <div class="dt" style="display:none" id="dt-seoul" onclick="showPage('seoul')">Seoul Spots</div>
+    <div class="dt" style="display:none" id="dt-editorial" onclick="showPage('editorial')">Editorial</div>
     <div class="dt" id="dt-about" onclick="showPage('about')">About</div>
   </div>
   <div class="nr">
@@ -1643,7 +1644,7 @@ a.so-row:hover .so-who{text-decoration:underline}
         <div style="font-size:11px;color:var(--mu);margin-top:1rem;">An independent, non-commercial project.</div>
         <div style="margin-top:1.5rem;display:flex;gap:.6rem;justify-content:center;flex-wrap:wrap;">
           <button onclick="showPage('drops')" style="font-family:'Outfit',sans-serif;font-size:11px;letter-spacing:.08em;text-transform:uppercase;background:var(--ink);color:var(--bg);border:none;padding:9px 20px;cursor:pointer;">View Drops →</button>
-          <button onclick="showPage('brands')" style="font-family:'Outfit',sans-serif;font-size:11px;letter-spacing:.08em;text-transform:uppercase;background:transparent;border:.5px solid var(--li);color:var(--ink2);padding:9px 20px;cursor:pointer;">Brand Directory</button>
+          <button style="display:none"  onclick="showPage('brands')" style="font-family:'Outfit',sans-serif;font-size:11px;letter-spacing:.08em;text-transform:uppercase;background:transparent;border:.5px solid var(--li);color:var(--ink2);padding:9px 20px;cursor:pointer;">Brand Directory</button>
         </div>
       </div>
     </div>
@@ -1750,13 +1751,13 @@ a.so-row:hover .so-who{text-decoration:underline}
     </div>
     <div style="display:grid;grid-template-columns:repeat(4,1fr);gap:8px;">
       <button class="more-grid-btn" onclick="showPage('calendar');SQ_closeMore()" style="background:var(--wh);border:1px solid var(--li);padding:14px 4px;font-size:10px;font-weight:500;color:var(--ink);cursor:pointer;text-align:center;"><div style="font-size:20px;margin-bottom:4px">▦</div>Calendar</button>
-      <button class="more-grid-btn" onclick="showPage('trend');SQ_closeMore()" style="background:var(--wh);border:1px solid var(--li);padding:14px 4px;font-size:10px;font-weight:500;color:var(--ink);cursor:pointer;text-align:center;"><div style="font-size:20px;margin-bottom:4px">↑</div>Trends</button>
+      <button style="display:none"  class="more-grid-btn" onclick="showPage('trend');SQ_closeMore()" style="background:var(--wh);border:1px solid var(--li);padding:14px 4px;font-size:10px;font-weight:500;color:var(--ink);cursor:pointer;text-align:center;"><div style="font-size:20px;margin-bottom:4px">↑</div>Trends</button>
       <button class="more-grid-btn" onclick="showPage('korea');SQ_closeMore()" style="background:var(--wh);border:1px solid var(--li);padding:14px 4px;font-size:10px;font-weight:500;color:var(--ink);cursor:pointer;text-align:center;"><div style="font-size:20px;margin-bottom:4px">✈</div>KR Ship</button>
-      <button class="more-grid-btn" onclick="showPage('brands');SQ_closeMore()" style="background:var(--wh);border:1px solid var(--li);padding:14px 4px;font-size:10px;font-weight:500;color:var(--ink);cursor:pointer;text-align:center;"><div style="font-size:20px;margin-bottom:4px">⊞</div>Brands</button>
-      <button class="more-grid-btn" onclick="showPage('editorial');SQ_closeMore()" style="background:var(--wh);border:1px solid var(--li);padding:14px 4px;font-size:10px;font-weight:500;color:var(--ink);cursor:pointer;text-align:center;"><div style="font-size:20px;margin-bottom:4px">◎</div>Editorial</button>
-      <button class="more-grid-btn" onclick="showPage('wardrobe');SQ_closeMore()" style="background:var(--wh);border:1px solid var(--li);padding:14px 4px;font-size:10px;font-weight:500;color:var(--ink);cursor:pointer;text-align:center;"><div style="font-size:20px;margin-bottom:4px">♡</div>Wardrobe</button>
+      <button style="display:none"  class="more-grid-btn" onclick="showPage('brands');SQ_closeMore()" style="background:var(--wh);border:1px solid var(--li);padding:14px 4px;font-size:10px;font-weight:500;color:var(--ink);cursor:pointer;text-align:center;"><div style="font-size:20px;margin-bottom:4px">⊞</div>Brands</button>
+      <button style="display:none"  class="more-grid-btn" onclick="showPage('editorial');SQ_closeMore()" style="background:var(--wh);border:1px solid var(--li);padding:14px 4px;font-size:10px;font-weight:500;color:var(--ink);cursor:pointer;text-align:center;"><div style="font-size:20px;margin-bottom:4px">◎</div>Editorial</button>
+      <button style="display:none"  class="more-grid-btn" onclick="showPage('wardrobe');SQ_closeMore()" style="background:var(--wh);border:1px solid var(--li);padding:14px 4px;font-size:10px;font-weight:500;color:var(--ink);cursor:pointer;text-align:center;"><div style="font-size:20px;margin-bottom:4px">♡</div>Wardrobe</button>
       <button class="more-grid-btn" onclick="showPage('calc');SQ_closeMore()" style="background:var(--wh);border:1px solid var(--li);padding:14px 4px;font-size:10px;font-weight:500;color:var(--ink);cursor:pointer;text-align:center;"><div style="font-size:20px;margin-bottom:4px">₩</div>Duty Calc</button>
-      <button class="more-grid-btn" onclick="showPage('seoul');SQ_closeMore()" style="background:var(--wh);border:1px solid var(--li);padding:14px 4px;font-size:10px;font-weight:500;color:var(--ink);cursor:pointer;text-align:center;"><div style="font-size:20px;margin-bottom:4px">★</div>Seoul</button>
+      <button style="display:none"  class="more-grid-btn" onclick="showPage('seoul');SQ_closeMore()" style="background:var(--wh);border:1px solid var(--li);padding:14px 4px;font-size:10px;font-weight:500;color:var(--ink);cursor:pointer;text-align:center;"><div style="font-size:20px;margin-bottom:4px">★</div>Seoul</button>
     </div>
   </div>
 </div>
