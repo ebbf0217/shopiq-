@@ -37,5 +37,6 @@ jobs:
             echo "No changes"
           else
             git commit -m "Update sale data $(date -u +%Y-%m-%dT%H:%MZ)"
+            git pull --rebase
             git push
           fi
