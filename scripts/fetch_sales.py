@@ -22,7 +22,6 @@ STORES = [
     ("www.stinegoya.com", "scandi"),
     ("www.apc.fr", "french"),
     ("www.rouje.com", "french"),
-    ("www.sezane.com", "french"),
     ("www.agolde.com", "designer"),
     ("www.r13denim.com", "designer"),
     ("www.citizensofhumanity.com", "designer"),
@@ -35,17 +34,13 @@ STORES = [
     ("www.rowingblazers.com", "american"),
     ("www.kith.com", "multi"),
     ("www.everlane.com", "american"),
-    ("www.vuoriclothing.com", "active"),
     ("www.outdoorvoices.com", "active"),
-    ("www.gymshark.com", "active"),
     ("www.allbirds.com", "american"),
     ("www.cuyana.com", "american"),
     ("www.loefflerrandall.com", "designer"),
     ("www.ullajohnson.com", "designer"),
     ("www.loveshackfancy.com", "american"),
-    ("www.realisationpar.com", "designer"),
     ("www.faithfullthebrand.com", "american"),
-    ("www.djerfavenue.com", "scandi"),
     ("www.hommegirls.com", "american"),
 ]
 
@@ -101,7 +96,7 @@ def scan(domain, cat):
     items.sort(key=lambda x: -x["pct"])
     pcts = sorted(i["pct"] for i in items)
     return {
-        "brand": meta.get("name") or domain.replace("www.", ""),
+        "brand": (meta.get("name") or domain.replace("www.", "")).split("|")[0].split(" - ")[0].strip(),
         "domain": domain,
         "cat": cat,
         "currency": meta.get("currency", ""),
