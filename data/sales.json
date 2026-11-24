@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-24T06:31:21+00:00",
+ "fetched_at": "2026-11-24T06:38:04+00:00",
  "min_pct": 20,
  "brands": [
   {
@@ -231,7 +231,7 @@
    ]
   },
   {
-   "brand": "KHAITE ",
+   "brand": "KHAITE",
    "domain": "www.khaite.com",
    "cat": "designer",
    "currency": "USD",
@@ -839,7 +839,7 @@
    ]
   },
   {
-   "brand": "BY FAR | Iconic Leather Shoes & Bags",
+   "brand": "BY FAR",
    "domain": "www.byfar.com",
    "cat": "designer",
    "currency": "EUR",
@@ -1215,11 +1215,5 @@
    "top": []
   }
  ],
- "failed": [
-  "www.sezane.com",
-  "www.vuoriclothing.com",
-  "www.gymshark.com",
-  "www.realisationpar.com",
-  "www.djerfavenue.com"
- ]
+ "failed": []
 }
