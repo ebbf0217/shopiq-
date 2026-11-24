@@ -1030,7 +1030,7 @@ a.so-row:hover .so-who{text-decoration:underline}
     <div>
       <div class="ey">Global Fashion Intelligence</div>
       <h1 class="ht">Too good<br><em>to miss out on.</em></h1>
-      <div style="margin-top:.8rem;font-size:13px;color:var(--mu);line-height:1.7">Collab drops · sales · resale · celeb fits — all in one place ✦</div>
+      <div style="margin-top:.8rem;font-size:13px;color:var(--mu);line-height:1.7">Live sales from 25 official stores · fashion news · collab drops (curated Jun 2026)</div>
     </div>
     <div class="sts"><div><div class="sn">85</div><div class="sl2">Brands</div></div><div><div class="sn">6h</div><div class="sl2">Refresh</div></div><div><div class="sn">4</div><div class="sl2">Platforms</div></div></div>
   </div>
@@ -1039,14 +1039,14 @@ a.so-row:hover .so-who{text-decoration:underline}
   <!-- Visual strip — 4 campaign tiles -->
   <div class="vis-strip">
     <div class="vis-card" onclick="openDrop('ckjk')">
-      <img src="https://media1.calvinklein.com/images/20260520/Nav/NavDropdown_V_Rebel_2.jpg" alt="CKJK campaign" loading="lazy">
+      <img src="https://media1.calvinklein.com/images/20260520/Nav/NavDropdown_V_Rebel_2.jpg" alt="CKJK campaign" loading="lazy" onerror="this.style.display='none'">
       <div class="vis-card-ov"></div>
-      <div class="vis-card-info"><span class="vis-card-bdg">LIVE NOW</span><div class="vis-card-name">JK × Calvin Klein</div></div>
+      <div class="vis-card-info"><span class="vis-card-bdg">JUN 2026</span><div class="vis-card-name">JK × Calvin Klein</div></div>
     </div>
     <div class="vis-card" onclick="showPage('sale')">
-      <img src="https://media.thereformation.com/image/upload/f_auto,q_auto:eco,dpr_auto/w_800/v1/Reformation/Campaign/2025/core/dresses/Cynthia-Midi-SS26-Campaign-01.jpg" alt="Sale" loading="lazy">
+      <img src="https://media.thereformation.com/image/upload/f_auto,q_auto:eco,dpr_auto/w_800/v1/Reformation/Campaign/2025/core/dresses/Cynthia-Midi-SS26-Campaign-01.jpg" alt="Sale" id="vis-sale-img" loading="lazy">
       <div class="vis-card-ov"></div>
-      <div class="vis-card-info"><span class="vis-card-bdg">UP TO 70%</span><div class="vis-card-name">Sales Live</div></div>
+      <div class="vis-card-info"><span class="vis-card-bdg" id="vis-sale-bdg">LIVE</span><div class="vis-card-name">Sales Live</div></div>
     </div>
     <div class="vis-card" onclick="showPage('seenon')">
       <img src="https://www.ganni.com/dw/image/v2/AAWT_PRD/on/demandware.static/-/Library-Sites-ganni-shared/default/dwc0c2ed66/images/SS26-campaign/SS26-HEADER-MB.jpg" alt="Brand news" loading="lazy">
@@ -1066,7 +1066,7 @@ a.so-row:hover .so-who{text-decoration:underline}
       <img class="cc-img-photo" src="https://media1.calvinklein.com/images/20260520/Nav/NavDropdown_V_Rebel_2.jpg" alt="Jung Kook × Calvin Klein CKJK campaign" loading="lazy" onerror="this.onerror=null;this.style.display='none';" style="object-position:center 20%;">
       <div class="cc-img-overlay" style="background:linear-gradient(to top,rgba(26,26,46,.95) 0%,rgba(26,26,46,.2) 50%,transparent 100%);"></div>
       <div class="cc-img-content">
-        <span class="bdg bc">K-Pop × Fashion · Live Now</span>
+        <span class="bdg bc">K-Pop × Fashion · June 2026</span>
         <div class="cb">Jung Kook × Calvin Klein</div>
         <div class="ct" style="font-size:28px;">"CKJK" — First Fashion Collab</div>
         <div class="cd">40 pieces co-designed by Jung Kook. Biker aesthetic — trucker jackets, low-rise denim, racer jackets. $29–$699. Limited flagship exclusives at Harajuku, Soho, Champs-Élysées.</div>
@@ -2266,6 +2266,7 @@ function renderLiveSales(d){
   n('sale-n-stores',brands.length);
   n('sale-n-items',total);
   n('rstat',brands.length+' stores · '+total+' items 20%+ off');
+  if(items[0]){const im=document.getElementById('vis-sale-img');if(im&&items[0].img)im.src=items[0].img;n('vis-sale-bdg','UP TO '+items[0].pct+'%');}
   updateTimestamps(d.fetched_at);
 }
 fetch('data/sales.json',{cache:'no-store'}).then(r=>r.json()).then(renderLiveSales).catch(()=>{updateTimestamps(null);const el=document.getElementById('rstat');if(el)el.textContent='unavailable';});
