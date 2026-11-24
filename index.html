@@ -1039,7 +1039,7 @@ a.so-row:hover .so-who{text-decoration:underline}
       <h1 class="ht">Too good<br><em>to miss out on.</em></h1>
       <div style="margin-top:.8rem;font-size:13px;color:var(--mu);line-height:1.7">Live sales, new arrivals and price drops from 25 official stores · fashion news</div>
     </div>
-    <div class="sts"><div><div class="sn">85</div><div class="sl2">Brands</div></div><div><div class="sn">6h</div><div class="sl2">Refresh</div></div><div><div class="sn">4</div><div class="sl2">Platforms</div></div></div>
+    <div class="sts"><div><div class="sn">25</div><div class="sl2">Stores</div></div><div><div class="sn">10</div><div class="sl2">News sources</div></div><div><div class="sn">6h</div><div class="sl2">Refresh</div></div></div>
   </div>
   <div class="sl">Right now</div>
   <div class="vis-strip">
@@ -1235,7 +1235,7 @@ a.so-row:hover .so-who{text-decoration:underline}
 <div class="pg" id="pg-brands">
   <div class="hero">
     <div><div class="ey">Brand Directory — International direct ship only · No Korea official stores</div><h1 class="ht">85 brands.<br><em>All ship to Korea.</em></h1></div>
-    <div class="sts"><div><div class="sn">85</div><div class="sl2">Brands</div></div><div><div class="sn">37</div><div class="sl2">Shopify API</div></div></div>
+    <div class="sts"><div><div class="sn">85</div><div class="sl2">Brands</div></div><div><div class="sn">25</div><div class="sl2">Tracked live</div></div></div>
   </div>
   <div class="inn">
     <div class="sl" style="padding-left:0">Collab-First · Drop Culture</div>
@@ -1772,11 +1772,10 @@ a.so-row:hover .so-who{text-decoration:underline}
     <span class="fl">KR Ship — customs calculator + forwarding guide</span>
   </div>
   <div><div class="fc">Data sources</div>
-    <span class="fl">Reddit API — r/femalefashionadvice & more, live</span>
-    <span class="fl">Pinterest Trends — save volume tracking</span>
-    <span class="fl">TikTok Research API — hashtag view counts</span>
-    <span class="fl">Shopify /products.json — 32 brands monitored</span>
-    <span class="fl">StockX + Grailed — resale prices via Apify</span>
+    <span class="fl">Official store catalogs (Shopify) — 25 stores, every 6h</span>
+    <span class="fl">News RSS — WWD, BoF, Vogue, Hypebeast + 6 more</span>
+    <span class="fl">Exchange rate — open.er-api.com</span>
+    <span class="fl">Collected by GitHub Actions, stored as JSON in this repo</span>
   </div>
   <div><div class="fc">Drop Alerts</div>
     <input type="email" id="fe" placeholder="your@email.com" style="width:100%;padding:7px 9px;font-size:12px;border:.5px solid var(--li);background:var(--bg);font-family:'Outfit',sans-serif;color:var(--ink);outline:none;margin-bottom:8px;">
@@ -2092,8 +2091,8 @@ fetch('data/arrivals.json',{cache:'no-store'}).then(r=>r.json()).then(a=>{
   const f=document.getElementById('new-filter');
   if(f) f.innerHTML=`<button class="fb on" onclick="sqNewFilter('all',this)">All</button>`+brands.map(b=>`<button class="fb" onclick="sqNewFilter(this.dataset.b,this)" data-b="${sqEsc(b)}">${sqEsc(b)}</button>`).join('');
   renderArrivals(); renderTimeline();
-  const hn=document.getElementById('home-new'); if(hn) hn.innerHTML=a.items.slice(0,6).map(sqCard).join('');
-  if(a.items[0]){const im=document.getElementById('vis-new-img');if(im&&a.items[0].img)im.src=a.items[0].img;n('vis-new-bdg',a.items.length+' NEW');}
+  const hn=document.getElementById('home-new'); if(hn) hn.innerHTML=a.items.filter(x=>x.img).slice(0,6).map(sqCard).join('');
+  {const f=a.items.find(x=>x.img);const im=document.getElementById('vis-new-img');if(im&&f)im.src=f.img;n('vis-new-bdg',a.items.length+' NEW');}
 }).catch(()=>{});
 function sqNewFilter(b,btn){document.querySelectorAll('#new-filter .fb').forEach(x=>x.classList.remove('on'));btn.classList.add('on');renderArrivals(b);}
 fetch('data/news.json',{cache:'no-store'}).then(r=>r.json()).then(d=>{
@@ -2110,7 +2109,7 @@ fetch('data/price_drops.json',{cache:'no-store'}).then(r=>r.json()).then(d=>{
   const g=document.getElementById('drop-grid');
   if(g) g.innerHTML=d.items.length?d.items.slice(0,60).map(sqCard).join('')
     :`<div class="se" style="padding:1rem">${d.compared_with_previous?'No price drops in the last 7 days.':'Tracking started — drops appear after the next collection.'}</div>`;
-  if(d.items[0]){const im=document.getElementById('vis-drop-img');if(im&&d.items[0].img)im.src=d.items[0].img;n('vis-drop-bdg',d.items.length+' DROPS');}
+  if(d.items[0]){const f=d.items.find(x=>x.img);const im=document.getElementById('vis-drop-img');if(im&&f)im.src=f.img;n('vis-drop-bdg',d.items.length+' DROPS');}
 }).catch(()=>{});
 
 fetch('data/sales.json',{cache:'no-store'}).then(r=>r.json()).then(renderLiveSales).catch(()=>{updateTimestamps(null);const el=document.getElementById('rstat');if(el)el.textContent='unavailable';});

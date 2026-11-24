@@ -111,7 +111,8 @@ def scan(domain, cat, now):
                     best = (pct, price, compare)
         if vprices:
             prices[url] = min(vprices)
-        pub = parse_ts(p.get("published_at") or "")
+        # created_at = when the product was first made; published_at resets when a store re-publishes its catalog
+        pub = parse_ts(p.get("created_at") or p.get("published_at") or "")
         if pub and (now - pub).days < ARRIVAL_DAYS and vprices:
             arrivals.append({
                 "title": p.get("title", ""), "brand": brand, "cat": cat, "currency": currency,
@@ -207,7 +208,7 @@ def main():
     save("prices.json", prices, compact=True)
 
     arrivals.sort(key=lambda a: a["published_at"], reverse=True)
-    save("arrivals.json", {"fetched_at": now, "days": ARRIVAL_DAYS, "items": arrivals[:400]})
+    save("arrivals.json", {"fetched_at": now, "days": ARRIVAL_DAYS, "items": arrivals[:800]})
 
     snapshot = {"fetched_at": now, "min_pct": MIN_PCT, "brands": brands, "failed": failed}
     with open(os.path.join(ROOT, "data", "sales.json"), "w", encoding="utf-8") as f:

@@ -6,6 +6,7 @@ brands SHOPIQ follows that the headline mentions, and a topic
 (sale/retail, collab/launch). Output: data/news.json.
 """
 import email.utils
+import html
 import json
 import os
 import re
@@ -76,7 +77,7 @@ def main():
             print(f"skip {source}: {e}", file=sys.stderr)
             continue
         for it in root.findall(".//item"):
-            title = re.sub(r"\s+", " ", (it.findtext("title") or "")).strip()
+            title = html.unescape(re.sub(r"\s+", " ", (it.findtext("title") or ""))).strip()
             link = (it.findtext("link") or "").strip()
             dt = parse_date(it.findtext("pubDate") or "")
             if not title or not link or not dt or link in seen:
