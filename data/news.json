@@ -1,24 +1,22 @@
 {
- "fetched_at": "2026-11-24T06:28:39+00:00",
+ "fetched_at": "2026-11-24T06:32:41+00:00",
  "articles": [
   {
    "title": "Stine Goya Pre-Fall 2027",
    "source": "Vogue",
    "url": "https://www.vogue.com/fashion-shows/pre-fall-2027/stine-goya",
-   "date": "2026-11-24T06:25:46+00:00",
+   "date": "2026-11-24T06:32:40+00:00",
    "brands": [
     "Stine Goya"
    ],
    "topics": []
   },
   {
-   "title": "Have We Reached Peak Louis Vuitton?",
-   "source": "Business of Fashion",
-   "url": "https://www.businessoffashion.com/articles/luxury/have-we-reached-peak-louis-vuitton/",
-   "date": "2026-11-24T06:00:01+00:00",
-   "brands": [
-    "Louis Vuitton"
-   ],
+   "title": "Meet ‘Dune: Part Three’’s Ida Brooke, the Young Brit Denis Villeneuve Picked to Play Zendaya’s Daughter",
+   "source": "Vogue",
+   "url": "https://www.vogue.com/article/ida-brooke-dune-3-interview",
+   "date": "2026-11-24T06:28:06+00:00",
+   "brands": [],
    "topics": []
   },
   {
@@ -131,14 +129,6 @@
    "source": "WWD",
    "url": "https://wwd.com/beauty-industry-news/beauty-features/sephora-beauty-retail-innovation-ceo-digital-1239428694/",
    "date": "2026-11-24T05:01:00+00:00",
-   "brands": [],
-   "topics": []
-  },
-  {
-   "title": "How Cosmoprof Worldwide Bologna Facilitates Global Beauty Expansion",
-   "source": "Business of Fashion",
-   "url": "https://www.businessoffashion.com/articles/beauty/cosmoprof-worldwide-bologna-global-expansion-strategy/",
-   "date": "2026-11-24T05:00:00+00:00",
    "brands": [],
    "topics": []
   },
@@ -657,14 +647,6 @@
    "topics": []
   },
   {
-   "title": "Vogue’s Best Dressed People of 2026",
-   "source": "Vogue",
-   "url": "https://www.vogue.com/article/best-dressed-2026",
-   "date": "2026-11-23T16:00:00+00:00",
-   "brands": [],
-   "topics": []
-  },
-  {
    "title": "Meet the Stylists Who Shaped Vogue’s Best-Dressed List",
    "source": "Vogue",
    "url": "https://www.vogue.com/article/meet-the-stylists-who-shaped-vogue-2026-best-dressed-list",
@@ -717,24 +699,6 @@
    ]
   },
   {
-   "title": "AI Tools Help Brands Curb Black Friday Deals, From Clothes to Skincare",
-   "source": "Business of Fashion",
-   "url": "https://www.businessoffashion.com/news/retail/ai-tools-help-brands-curb-black-friday-deals-from-clothes-to-skincare/",
-   "date": "2026-11-23T14:19:22+00:00",
-   "brands": [],
-   "topics": [
-    "sale"
-   ]
-  },
-  {
-   "title": "Next Supplier Hit by Cyberattack",
-   "source": "Business of Fashion",
-   "url": "https://www.businessoffashion.com/news/retail/next-supplier-hit-by-cyberattack/",
-   "date": "2026-11-23T13:34:13+00:00",
-   "brands": [],
-   "topics": []
-  },
-  {
    "title": "TOMORROW X TOGETHER Find Upheaval Worth Running Toward on 'PERFECT STORM'",
    "source": "Hypebeast",
    "url": "https://hypebeast.com/2026/11/tomorrow-x-together-perfect-storm-new-mini-album-interview",
@@ -751,16 +715,6 @@
    "date": "2026-11-23T13:00:33+00:00",
    "brands": [],
    "topics": []
-  },
-  {
-   "title": "Luckyscent Appoints Bernard Zion as CEO",
-   "source": "Business of Fashion",
-   "url": "https://www.businessoffashion.com/news/fragrance/luckyscent-appoints-bernard-zion-as-ceo/",
-   "date": "2026-11-23T13:00:00+00:00",
-   "brands": [],
-   "topics": [
-    "business"
-   ]
   },
   {
    "title": "$200 Goes a Long Way When You Skip the Boring Gifts",
@@ -786,22 +740,6 @@
    "brands": [
     "Supreme"
    ],
-   "topics": []
-  },
-  {
-   "title": "Inside Mike Ashley’s Harvey Nichols Makeover",
-   "source": "Business of Fashion",
-   "url": "https://www.businessoffashion.com/news/retail/mike-ashleys-harvey-nichols-makeover/",
-   "date": "2026-11-23T11:26:14+00:00",
-   "brands": [],
-   "topics": []
-  },
-  {
-   "title": "How the Wellness Industry Is Exploiting Menopause",
-   "source": "Business of Fashion",
-   "url": "https://www.businessoffashion.com/articles/beauty/wellness-industry-menopause-mushroom-supplements/",
-   "date": "2026-11-23T11:12:12+00:00",
-   "brands": [],
    "topics": []
   },
   {
@@ -853,30 +791,6 @@
    "topics": []
   },
   {
-   "title": "Four Shifts Reshaping Fashion and What They Mean for the US Cotton Industry",
-   "source": "Business of Fashion",
-   "url": "https://www.businessoffashion.com/articles/materials/shifts-reshaping-fashion-what-they-mean-for-us-cotton/",
-   "date": "2026-11-23T06:00:00+00:00",
-   "brands": [],
-   "topics": []
-  },
-  {
-   "title": "Can Fantasy Fandoms Convert Beauty Shoppers?",
-   "source": "Business of Fashion",
-   "url": "https://www.businessoffashion.com/articles/beauty/stila-hunger-games-collaboration-harry-potter-beauty/",
-   "date": "2026-11-23T05:30:00+00:00",
-   "brands": [],
-   "topics": []
-  },
-  {
-   "title": "The Marketing Metrics That Matter",
-   "source": "Business of Fashion",
-   "url": "https://www.businessoffashion.com/executive-memos/marketing-pr/measuring-fashion-marketing-business-impact/",
-   "date": "2026-11-23T05:30:00+00:00",
-   "brands": [],
-   "topics": []
-  },
-  {
    "title": "Why On gave running shops first dibs on the Cloudsurfer 3",
    "source": "Glossy",
    "url": "https://www.glossy.co/fashion/on-cloudsurfer-3-specialty-running-retail/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
@@ -911,32 +825,6 @@
    ]
   },
   {
-   "title": "Paolo Bulgari, Architect of Jeweller’s Rise to Global Luxury Brand, Dies at 89",
-   "source": "Business of Fashion",
-   "url": "https://www.businessoffashion.com/news/luxury/paolo-bulgari-death/",
-   "date": "2026-11-22T16:35:50+00:00",
-   "brands": [],
-   "topics": []
-  },
-  {
-   "title": "UN Climate Talks Collapse",
-   "source": "Business of Fashion",
-   "url": "https://www.businessoffashion.com/news/sustainability/un-climate-talks-collapse/",
-   "date": "2026-11-22T16:21:14+00:00",
-   "brands": [],
-   "topics": []
-  },
-  {
-   "title": "Black Friday Is a Big Deal for Luxury, Just Don’t Call It Black Friday",
-   "source": "Business of Fashion",
-   "url": "https://www.businessoffashion.com/briefings/retail/black-friday-is-a-big-deal-for-luxury-just-dont-call-it-black-friday/",
-   "date": "2026-11-22T13:00:00+00:00",
-   "brands": [],
-   "topics": [
-    "sale"
-   ]
-  },
-  {
    "title": "ICYMI: Kristin Ess Launches Otherwise, Macy Grimshaw Wins the 2026 H&amp;M Design Award &amp; Fashion Books Worth Gifting",
    "source": "Fashionista",
    "url": "https://fashionista.com/2026/11/fashion-news-you-need-to-know-november-21",
@@ -951,22 +839,6 @@
    "source": "Modern Retail",
    "url": "https://www.modernretail.co/podcasts/2026-artificial-dye-removal-from-food/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
    "date": "2026-11-21T05:00:00+00:00",
-   "brands": [],
-   "topics": []
-  },
-  {
-   "title": "Fashion’s ‘Grand Theft Auto VI’ Opportunity",
-   "source": "Business of Fashion",
-   "url": "https://www.businessoffashion.com/briefings/technology/gta-vi-fashion-brands-marketing/",
-   "date": "2026-11-20T20:00:00+00:00",
-   "brands": [],
-   "topics": []
-  },
-  {
-   "title": "Breakout Model Jacqui Hooper on Reading the Room",
-   "source": "Business of Fashion",
-   "url": "https://www.businessoffashion.com/podcasts/creative-class/breakout-model-jacqui-hooper-on-reading-the-room/",
-   "date": "2026-11-20T17:46:22+00:00",
    "brands": [],
    "topics": []
   },
@@ -1000,16 +872,6 @@
    ]
   },
   {
-   "title": "Nike Still Has One Big Question to Answer After Investor Day",
-   "source": "Business of Fashion",
-   "url": "https://www.businessoffashion.com/briefings/sports/nike-still-has-one-big-question-to-answer-after-investor-day/",
-   "date": "2026-11-20T16:00:29+00:00",
-   "brands": [
-    "Nike"
-   ],
-   "topics": []
-  },
-  {
    "title": "Weekly Drop Watch: Gap Studio, Dairy Boy x Hanes, Rhode and More",
    "source": "Fashionista",
    "url": "https://fashionista.com/2026/11/best-fashion-beauty-launches-collaborations-november-20",
@@ -1026,7 +888,143 @@
    "date": "2026-11-20T15:00:00+00:00",
    "brands": [],
    "topics": []
+  },
+  {
+   "title": "Big-Box Briefing: Target faces off with Trader Joe’s, Quince and HomeGoods",
+   "source": "Modern Retail",
+   "url": "https://www.modernretail.co/operations/big-box-briefing-targets-retail-reset-means-facing-off-with-trader-joes-quince-and-homegoods/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+   "date": "2026-11-20T14:30:00+00:00",
+   "brands": [],
+   "topics": []
+  },
+  {
+   "title": "The 2026 Black Friday and Cyber Monday Sales We've Already Bookmarked",
+   "source": "Fashionista",
+   "url": "https://fashionista.com/2026/11/black-friday-cyber-monday-fashion-beauty-sales-deals-2026",
+   "date": "2026-11-20T13:30:00+00:00",
+   "brands": [],
+   "topics": [
+    "sale"
+   ]
+  },
+  {
+   "title": "How Shopbop's Senior Fashion Director Manages Her Super Busy, Cross-Functional Role",
+   "source": "Fashionista",
+   "url": "https://fashionista.com/2026/11/caroline-maguire-shopbop-career-interview",
+   "date": "2026-11-20T13:00:00+00:00",
+   "brands": [],
+   "topics": []
+  },
+  {
+   "title": "Get it while it’s hot: The bakeries snagging major beauty and fashion collaborations",
+   "source": "Glossy",
+   "url": "https://www.glossy.co/pop/get-it-while-its-hot-the-bakeries-snagging-major-beauty-and-fashion-collaborations/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
+   "date": "2026-11-20T05:00:00+00:00",
+   "brands": [],
+   "topics": [
+    "collab"
+   ]
+  },
+  {
+   "title": "Luxury Briefing: How do you measure loyalty when a customer buys once a decade?",
+   "source": "Glossy",
+   "url": "https://www.glossy.co/fashion/luxury/luxury-briefing-jewelry-customer-loyalty/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
+   "date": "2026-11-20T05:00:00+00:00",
+   "brands": [],
+   "topics": []
+  },
+  {
+   "title": "Glossy Podcast: The new James Bond’s greatest threat may be conflicting brand deals",
+   "source": "Glossy",
+   "url": "https://www.glossy.co/podcasts/glossy-podcast-the-new-james-bonds-greatest-threat-may-be-conflicting-brand-deals/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
+   "date": "2026-11-20T05:00:00+00:00",
+   "brands": [],
+   "topics": []
+  },
+  {
+   "title": "On is making a bigger play for American shoppers, one store at a time",
+   "source": "Modern Retail",
+   "url": "https://www.modernretail.co/operations/on-is-making-a-bigger-play-for-american-shoppers-one-store-at-a-time/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+   "date": "2026-11-20T05:00:00+00:00",
+   "brands": [],
+   "topics": []
+  },
+  {
+   "title": "Walmart’s convenience lures high-income shoppers",
+   "source": "Modern Retail",
+   "url": "https://www.modernretail.co/operations/walmarts-convenience-lures-high-income-shoppers/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+   "date": "2026-11-20T05:00:00+00:00",
+   "brands": [],
+   "topics": []
+  },
+  {
+   "title": "Gap Inc. is betting on ‘fashiontainment’ to fuel growth",
+   "source": "Glossy",
+   "url": "https://www.glossy.co/fashion/gap-inc-is-betting-on-fashiontainment-to-fuel-growth/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
+   "date": "2026-11-19T23:44:49+00:00",
+   "brands": [],
+   "topics": []
+  },
+  {
+   "title": "Tony Bianco Opens First L.A. Pop-Up",
+   "source": "Fashionista",
+   "url": "https://fashionista.com/2026/11/tony-bianco-los-angeles-pop-up",
+   "date": "2026-11-19T21:20:13+00:00",
+   "brands": [],
+   "topics": []
+  },
+  {
+   "title": "Must Read: Inside the Hidden Costs of a Viral Product, The Wave of Contemporary Brands Offering More Accessible Luxury",
+   "source": "Fashionista",
+   "url": "https://fashionista.com/2026/11/viral-product-hidden-costs",
+   "date": "2026-11-19T17:00:00+00:00",
+   "brands": [],
+   "topics": []
+  },
+  {
+   "title": "What It Takes to Become a Retail Fashion Director",
+   "source": "Fashionista",
+   "url": "https://fashionista.com/2026/11/how-to-become-a-fashion-director-career",
+   "date": "2026-11-19T13:30:00+00:00",
+   "brands": [],
+   "topics": []
+  },
+  {
+   "title": "58 Fashion, Beauty and Wellness Gifts for the Millennial In Your Life",
+   "source": "Fashionista",
+   "url": "https://fashionista.com/2026/11/best-fashion-beauty-gifts-millennials-2026",
+   "date": "2026-11-19T13:00:00+00:00",
+   "brands": [],
+   "topics": []
+  },
+  {
+   "title": "Inside the 2026 H&M Design Award Ceremony",
+   "source": "Fashionista",
+   "url": "https://fashionista.com/2026/11/hm-design-award-2026-ceremony-winner-macy-grimshaw",
+   "date": "2026-11-19T12:30:00+00:00",
+   "brands": [
+    "H&M"
+   ],
+   "topics": []
+  },
+  {
+   "title": "Inside Sally Beauty’s $4 billion beauty retail playbook",
+   "source": "Glossy",
+   "url": "https://www.glossy.co/beauty/inside-sally-beautys-4-billion-beauty-retail-playbook/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
+   "date": "2026-11-19T05:00:00+00:00",
+   "brands": [],
+   "topics": []
+  },
+  {
+   "title": "Fashion Briefing: Humberto Leon is revitalizing St. John, but can St. John revitalize Lanvin Group?",
+   "source": "Glossy",
+   "url": "https://www.glossy.co/fashion/fashion-briefing-humberto-leon-is-revitalizing-st-john-but-can-st-john-revitalize-lanvin-group/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
+   "date": "2026-11-19T05:00:00+00:00",
+   "brands": [],
+   "topics": []
   }
  ],
- "failed": []
+ "failed": [
+  "Business of Fashion"
+ ]
 }
