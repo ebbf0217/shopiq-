@@ -1,14 +1,22 @@
 {
- "fetched_at": "2026-11-24T06:39:07+00:00",
+ "fetched_at": "2026-11-24T07:04:48+00:00",
  "articles": [
   {
    "title": "Stine Goya Pre-Fall 2027",
    "source": "Vogue",
    "url": "https://www.vogue.com/fashion-shows/pre-fall-2027/stine-goya",
-   "date": "2026-11-24T06:37:51+00:00",
+   "date": "2026-11-24T07:04:05+00:00",
    "brands": [
     "Stine Goya"
    ],
+   "topics": []
+  },
+  {
+   "title": "BAPE® Re-Imagines Its Icons for Winter 2026",
+   "source": "Hypebeast",
+   "url": "https://hypebeast.com/2026/11/bape-re-imagines-its-icons-for-winter-2026",
+   "date": "2026-11-24T06:37:09+00:00",
+   "brands": [],
    "topics": []
   },
   {
@@ -16,6 +24,14 @@
    "source": "Vogue",
    "url": "https://www.vogue.com/article/ida-brooke-dune-3-interview",
    "date": "2026-11-24T06:28:06+00:00",
+   "brands": [],
+   "topics": []
+  },
+  {
+   "title": "Summer Walker Files a $20 Million USD Countersuit Against Interscope Records Over Digital Content Rights",
+   "source": "Hypebeast",
+   "url": "https://hypebeast.com/2026/11/summer-walker-files-20-million-usd-countersuit-against-interscope-records-over-digital-content-rights",
+   "date": "2026-11-24T06:17:59+00:00",
    "brands": [],
    "topics": []
   },
@@ -647,9 +663,9 @@
    "topics": []
   },
   {
-   "title": "Meet the Stylists Who Shaped Vogue’s Best-Dressed List",
+   "title": "Vogue’s Best Dressed People of 2026",
    "source": "Vogue",
-   "url": "https://www.vogue.com/article/meet-the-stylists-who-shaped-vogue-2026-best-dressed-list",
+   "url": "https://www.vogue.com/article/best-dressed-2026",
    "date": "2026-11-23T16:00:00+00:00",
    "brands": [],
    "topics": []
@@ -771,22 +787,6 @@
    "source": "Retail Dive",
    "url": "https://www.retaildive.com/spons/retails-fastest-ai-return-right-now-sits-behind-the-storefront/875359/",
    "date": "2026-11-23T10:00:00+00:00",
-   "brands": [],
-   "topics": []
-  },
-  {
-   "title": "Closer Look at Action Bronson's Bespoke Saint Jewels New York Knicks Championship Ring",
-   "source": "Hypebeast",
-   "url": "https://hypebeast.com/2026/11/action-bronson-bespoke-saint-jewels-new-york-knicks-championship-ring-closer-look",
-   "date": "2026-11-23T09:44:51+00:00",
-   "brands": [],
-   "topics": []
-  },
-  {
-   "title": "Jeff Staple Announces the Closure of Staple 21 Mercer in New York City",
-   "source": "Hypebeast",
-   "url": "https://hypebeast.com/2026/11/jeff-staple-closes-21-mercer-new-york-city-announcement",
-   "date": "2026-11-23T09:26:56+00:00",
    "brands": [],
    "topics": []
   },
