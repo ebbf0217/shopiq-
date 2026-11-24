@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-24T07:09:22+00:00",
+ "fetched_at": "2026-11-24T22:27:03+00:00",
  "min_pct": 20,
  "brands": [
   {
@@ -85,11 +85,19 @@
    "cat": "american",
    "currency": "USD",
    "checked": 250,
-   "on_sale": 243,
+   "on_sale": 240,
    "max_pct": 75,
    "median_pct": 60,
-   "new_14d": 1,
+   "new_14d": 2,
    "top": [
+    {
+     "title": "Deanna Halter Dress - BLACK",
+     "pct": 75,
+     "price": 87.0,
+     "compare": 345.0,
+     "url": "https://www.loveshackfancy.com/products/deanna-halter-dress-2-d1143-493-color-black",
+     "img": "https://cdn.shopify.com/s/files/1/0181/8457/files/DEANNA-HALTER-DRESS-BLACK-D1143-493-015_299292b6-81e3-41d6-9435-ea201a99b3ce.jpg?v=1745010980&width=400"
+    },
     {
      "title": "Liv Cotton Ruffled Heritage Dress",
      "pct": 75,
@@ -99,60 +107,52 @@
      "img": "https://cdn.shopify.com/s/files/1/0181/8457/files/LIV-DRESS-ANTIQUE-WHITE-LD275-289-061_2af40b6b-18c9-4908-b081-a8e8e42a0f48.jpg?v=1745249956&width=400"
     },
     {
-     "title": "Cecil & Lou Smocked Holiday Dress",
+     "title": "Coralyn Tweed Lace-Trimmed Shorts",
      "pct": 70,
-     "price": 27.0,
-     "compare": 90.0,
-     "url": "https://www.loveshackfancy.com/products/cecil-lou-smocked-ls-dress-cecillou16",
-     "img": "https://cdn.shopify.com/s/files/1/0181/8457/files/20251017_RE26_Cecil_Lou_Ecomm_SKomarovski_SMOCK-LS-DRESS-PINK-GREEN-030.jpg?v=1762292725&width=400"
+     "price": 104.0,
+     "compare": 345.0,
+     "url": "https://www.loveshackfancy.com/products/coralyn-short-lp177-2376",
+     "img": "https://cdn.shopify.com/s/files/1/0181/8457/files/CORALYNSHORTS-STRAWBERRYSPRITZ-LP177-2376_009.jpg?v=1740435635&width=400"
     },
     {
-     "title": "BOGNER FIRE+ICE x LoveShackFancy Farina3-D Ski Jacket",
+     "title": "Quindi Linen Crochet Lace Shorts",
      "pct": 70,
-     "price": 225.0,
-     "compare": 750.0,
-     "url": "https://www.loveshackfancy.com/products/farina3-d-ski-jacket-34841381",
-     "img": "https://cdn.shopify.com/s/files/1/0181/8457/files/FARINA-SKI-JACKET-SUMMIT-FROST-3486_ZULA-SKI-PANTS-CLOUD-DANCER-1477_007.jpg?v=1763674252&width=400"
+     "price": 105.0,
+     "compare": 345.0,
+     "url": "https://www.loveshackfancy.com/products/quindi-shorts-lp163-2530",
+     "img": "https://cdn.shopify.com/s/files/1/0181/8457/files/QUINDISHORTS-OPTICWHITE-LP163-2530_005.jpg?v=1748886631&width=400"
     },
     {
-     "title": "Walker Valentine Top Handled Cosmetic Case",
+     "title": "Klaudyna Polkadot Bikini",
      "pct": 70,
      "price": 59.0,
      "compare": 195.0,
-     "url": "https://www.loveshackfancy.com/products/walker-valentine-med-top-handled-zip-cosmetic-case-walker5",
-     "img": "https://cdn.shopify.com/s/files/1/0181/8457/files/tote1dustyrose.jpg?v=1755026754&width=400"
+     "url": "https://www.loveshackfancy.com/products/klaudyna-bikini-lw157-2616",
+     "img": "https://cdn.shopify.com/s/files/1/0181/8457/files/shellpink20250416_SU25_D1A_Ecomm_SKomarovski-KLAUDYNABIKINI-SHELLPINK-LW157-2616_019.jpg?v=1747327876&width=400"
     },
     {
-     "title": "Marigold Wreath Wallpaper",
+     "title": "Vreya Metallic Crochet Halter Dress",
      "pct": 70,
-     "price": 42.0,
-     "compare": 140.0,
-     "url": "https://www.loveshackfancy.com/products/marigold-wreath-wallpaper-ast4650",
-     "img": "https://cdn.shopify.com/s/files/1/0181/8457/products/AST4650-MARIGOLDWREATHWALLPAPER-BABYBLUERUSH-001.jpg?v=1718312186&width=400"
+     "price": 269.0,
+     "compare": 895.0,
+     "url": "https://www.loveshackfancy.com/products/vreya-dress-k1925-2597",
+     "img": "https://cdn.shopify.com/s/files/1/0181/8457/files/VREYADRESS-SUNBURST-K1925-2597_0030.jpg?v=1751046285&width=400"
     },
     {
-     "title": "Cailey Off-The-Shoulder Draped Mini Dress",
+     "title": "Vivaldina Sequin Tank Top",
      "pct": 70,
-     "price": 134.0,
-     "compare": 445.0,
-     "url": "https://www.loveshackfancy.com/products/cailey-dress-d2096-2021",
-     "img": "https://cdn.shopify.com/s/files/1/0181/8457/files/CAILEYDRESS_20240416_LSF_WestVillage_SHOT01_184.jpg?v=1724095519&width=400"
+     "price": 140.0,
+     "compare": 465.0,
+     "url": "https://www.loveshackfancy.com/products/vivaldina-top-t1440-2594",
+     "img": "https://cdn.shopify.com/s/files/1/0181/8457/files/AURORLIA_SKIRT-GOLD-LS977-2594_0076_e425ce13-9ef9-4610-8f00-2917cb0d2d70.jpg?v=1751046967&width=400"
     },
     {
-     "title": "Hali Beach Towel",
+     "title": "Dancia Printed Active Skort",
      "pct": 70,
-     "price": 38.0,
-     "compare": 125.0,
-     "url": "https://www.loveshackfancy.com/products/beach-towel-lh049-1603",
-     "img": "https://cdn.shopify.com/s/files/1/0181/8457/files/HALI_BEACH_TOWEL_-_Whisper_Blue.jpg?v=1754411583&width=400"
-    },
-    {
-     "title": "Quintelle Cotton Mixed Print Mini Dress",
-     "pct": 70,
-     "price": 119.0,
-     "compare": 395.0,
-     "url": "https://www.loveshackfancy.com/products/quintelle-dress-1-d2345-2385",
-     "img": "https://cdn.shopify.com/s/files/1/0181/8457/files/QUINTELLEDRESS_1_taffytwist.jpg?v=1743097178&width=400"
+     "price": 50.0,
+     "compare": 165.0,
+     "url": "https://www.loveshackfancy.com/products/dancia-skirt-k1962-2824",
+     "img": "https://cdn.shopify.com/s/files/1/0181/8457/files/DANCIASKIRT-PINKSPRINKLES-K1962-2604_042_07562abe-2835-4139-aae7-8c8b37a70009.jpg?v=1750170862&width=400"
     }
    ]
   },
@@ -234,91 +234,14 @@
    ]
   },
   {
-   "brand": "KHAITE",
-   "domain": "www.khaite.com",
-   "cat": "designer",
-   "currency": "USD",
-   "checked": 250,
-   "on_sale": 229,
-   "max_pct": 50,
-   "median_pct": 40,
-   "new_14d": 0,
-   "top": [
-    {
-     "title": "Harvey Over-the-Knee High Boot in Zebra Print Haircalf and Black Suede",
-     "pct": 50,
-     "price": 1600.0,
-     "compare": 3200.0,
-     "url": "https://www.khaite.com/products/harvey-otk-boot-85-in-black-white",
-     "img": "https://cdn.shopify.com/s/files/1/1519/7996/files/HARVEY-OTK-BOOT-85_BLACK-WHITE_F1119-997-294_A_jpg.jpg?v=1757969621&width=400"
-    },
-    {
-     "title": "Mia Pump in Bordeaux Patent Leather",
-     "pct": 50,
-     "price": 490.0,
-     "compare": 980.0,
-     "url": "https://www.khaite.com/products/mia-pump-45-in-bordeaux",
-     "img": "https://cdn.shopify.com/s/files/1/1519/7996/files/MIA-PUMP-45_BORDEAUX_F3085-938-531_A.jpg?v=1757083969&width=400"
-    },
-    {
-     "title": "Fallon Boot in Black Leather",
-     "pct": 50,
-     "price": 790.0,
-     "compare": 1580.0,
-     "url": "https://www.khaite.com/products/fallon-boot-35-in-black",
-     "img": "https://cdn.shopify.com/s/files/1/1519/7996/files/FALLON-BOOT-35_BLACK_F1121-994-200_A_jpg.jpg?v=1757969598&width=400"
-    },
-    {
-     "title": "Harvey Over-the-Knee High Boot in Morning Dove Suede and Taupe Python-Embossed Leather",
-     "pct": 50,
-     "price": 1400.0,
-     "compare": 2800.0,
-     "url": "https://www.khaite.com/products/harvey-otk-boot-85-in-morning-dove-taupe",
-     "img": "https://cdn.shopify.com/s/files/1/1519/7996/files/HARVEY-OTK-BOOT-85_MORNING-DOVE-TAUPE_F1119-996-648_A_jpg.jpg?v=1757969606&width=400"
-    },
-    {
-     "title": "Ona Ankle Boot in Zebra Print Haircalf",
-     "pct": 50,
-     "price": 845.0,
-     "compare": 1690.0,
-     "url": "https://www.khaite.com/products/ona-ankle-boot-55-in-black-white",
-     "img": "https://cdn.shopify.com/s/files/1/1519/7996/files/ONA-ANKLE-BOOT-55_BLACK-WHITE_F1100-711-294_A_jpg.jpg?v=1757969628&width=400"
-    },
-    {
-     "title": "Anya Skirt in Cream Multi",
-     "pct": 50,
-     "price": 1400.0,
-     "compare": 2800.0,
-     "url": "https://www.khaite.com/products/anya-skirt-in-cream-multi",
-     "img": "https://cdn.shopify.com/s/files/1/1519/7996/files/ANYA-SKIRT_CREAM-MULTI_41754216-128_GHOST_jpg.jpg?v=1758813751&width=400"
-    },
-    {
-     "title": "Fallon Over-the-Knee Boot in Black Leather",
-     "pct": 50,
-     "price": 1200.0,
-     "compare": 2400.0,
-     "url": "https://www.khaite.com/products/fallon-otk-boot-35-in-black",
-     "img": "https://cdn.shopify.com/s/files/1/1519/7996/files/FALLON-OTK-BOOT-35_BLACK_F1120-994-200_A_jpg.jpg?v=1757969663&width=400"
-    },
-    {
-     "title": "Edgar Dress in Black Multi",
-     "pct": 50,
-     "price": 1990.0,
-     "compare": 3980.0,
-     "url": "https://www.khaite.com/products/edgar-dress-in-black-multi",
-     "img": "https://cdn.shopify.com/s/files/1/1519/7996/files/EDGAR-DRESS_BLACK-MULTI_55653372-283_GHOST_Alt_jpg.jpg?v=1759328119&width=400"
-    }
-   ]
-  },
-  {
    "brand": "Everlane",
    "domain": "www.everlane.com",
    "cat": "american",
    "currency": "USD",
    "checked": 250,
-   "on_sale": 224,
+   "on_sale": 225,
    "max_pct": 80,
-   "median_pct": 41,
+   "median_pct": 40,
    "new_14d": 10,
    "top": [
     {
@@ -346,12 +269,36 @@
      "img": "https://cdn.shopify.com/s/files/1/0623/7916/3734/files/83c168e4_db01.jpg?v=1753411464&width=400"
     },
     {
-     "title": "The Wide-Leg Pant in Stretch Linen | Trench Coat Khaki",
-     "pct": 80,
-     "price": 32.0,
+     "title": "Funnel-Neck Sweater in Wool Cashmere | Light Heathered Taupe",
+     "pct": 75,
+     "price": 67.0,
+     "compare": 268.0,
+     "url": "https://www.everlane.com/products/womens-funnel-neck-sweater-wool-cashmere-light-heathered-taupe",
+     "img": "https://cdn.shopify.com/s/files/1/0623/7916/3734/files/bd18e699_9021.jpg?v=1758302356&width=400"
+    },
+    {
+     "title": "Studio Kitten Heel Bootie | Black",
+     "pct": 75,
+     "price": 75.0,
+     "compare": 298.0,
+     "url": "https://www.everlane.com/products/womens-studio-kitten-heel-bootie-black",
+     "img": "https://cdn.shopify.com/s/files/1/0623/7916/3734/files/e622bb59_bdf2.jpg?v=1778173207&width=400"
+    },
+    {
+     "title": "Luxe Merino Double-Knit Sweater | Taupe Melange",
+     "pct": 75,
+     "price": 40.0,
      "compare": 158.0,
-     "url": "https://www.everlane.com/products/womens-wide-leg-pant-stretch-linen-trench-coat-khaki",
-     "img": "https://cdn.shopify.com/s/files/1/0623/7916/3734/files/ea0c96a3_b410.jpg?v=1753411845&width=400"
+     "url": "https://www.everlane.com/products/mens-luxe-merino-dblknit-sweater-taupe-melange",
+     "img": "https://cdn.shopify.com/s/files/1/0623/7916/3734/files/dbc72596_9b14.jpg?v=1758129540&width=400"
+    },
+    {
+     "title": "The Easy Cargo Pant | Sagebrush",
+     "pct": 75,
+     "price": 37.0,
+     "compare": 148.0,
+     "url": "https://www.everlane.com/products/womens-easy-cargo-pant-sagebrush",
+     "img": "https://cdn.shopify.com/s/files/1/0623/7916/3734/files/12bba534_03d5.jpg?v=1753411952&width=400"
     },
     {
      "title": "Cable Sweater in Luxe Merino | Heathered Mid-Grey",
@@ -360,30 +307,6 @@
      "compare": 198.0,
      "url": "https://www.everlane.com/products/womens-cable-sweater-in-luxe-merino-heathered-mid-grey",
      "img": "https://cdn.shopify.com/s/files/1/0623/7916/3734/files/aa4f409a_9814.jpg?v=1762622878&width=400"
-    },
-    {
-     "title": "The Canvas Organic Cotton Overshirt | Bone",
-     "pct": 75,
-     "price": 30.0,
-     "compare": 118.0,
-     "url": "https://www.everlane.com/products/mens-canvas-organic-cotton-overshirt-bone",
-     "img": "https://cdn.shopify.com/s/files/1/0623/7916/3734/files/2c43e4ab_2e68.jpg?v=1753411558&width=400"
-    },
-    {
-     "title": "The ’90s Cheeky® Jean | Washed Black | 26.5\" Inseam",
-     "pct": 75,
-     "price": 32.0,
-     "compare": 128.0,
-     "url": "https://www.everlane.com/products/womens-90s-cheeky-straight-jean-ank-wshdblk",
-     "img": "https://cdn.shopify.com/s/files/1/0623/7916/3734/files/519f34c2_9e7e.jpg?v=1753411483&width=400"
-    },
-    {
-     "title": "The Way-High® Hourglass Skinny Jean |  Ash | 28.75\" Inseam",
-     "pct": 75,
-     "price": 22.0,
-     "compare": 88.0,
-     "url": "https://www.everlane.com/products/womens-curvy-way-high-skinny-jean-ash",
-     "img": "https://cdn.shopify.com/s/files/1/0623/7916/3734/files/32a1d2cf_63e5.jpg?v=1753411399&width=400"
     }
    ]
   },
@@ -465,24 +388,93 @@
    ]
   },
   {
+   "brand": "KHAITE",
+   "domain": "www.khaite.com",
+   "cat": "designer",
+   "currency": "USD",
+   "checked": 250,
+   "on_sale": 208,
+   "max_pct": 50,
+   "median_pct": 40,
+   "new_14d": 0,
+   "top": [
+    {
+     "title": "Harvey Over-the-Knee High Boot in Zebra Print Haircalf and Black Suede",
+     "pct": 50,
+     "price": 1600.0,
+     "compare": 3200.0,
+     "url": "https://www.khaite.com/products/harvey-otk-boot-85-in-black-white",
+     "img": "https://cdn.shopify.com/s/files/1/1519/7996/files/HARVEY-OTK-BOOT-85_BLACK-WHITE_F1119-997-294_A_jpg.jpg?v=1757969621&width=400"
+    },
+    {
+     "title": "Mia Pump in Bordeaux Patent Leather",
+     "pct": 50,
+     "price": 490.0,
+     "compare": 980.0,
+     "url": "https://www.khaite.com/products/mia-pump-45-in-bordeaux",
+     "img": "https://cdn.shopify.com/s/files/1/1519/7996/files/MIA-PUMP-45_BORDEAUX_F3085-938-531_A.jpg?v=1757083969&width=400"
+    },
+    {
+     "title": "Fallon Boot in Black Leather",
+     "pct": 50,
+     "price": 790.0,
+     "compare": 1580.0,
+     "url": "https://www.khaite.com/products/fallon-boot-35-in-black",
+     "img": "https://cdn.shopify.com/s/files/1/1519/7996/files/FALLON-BOOT-35_BLACK_F1121-994-200_A_jpg.jpg?v=1757969598&width=400"
+    },
+    {
+     "title": "Harvey Over-the-Knee High Boot in Morning Dove Suede and Taupe Python-Embossed Leather",
+     "pct": 50,
+     "price": 1400.0,
+     "compare": 2800.0,
+     "url": "https://www.khaite.com/products/harvey-otk-boot-85-in-morning-dove-taupe",
+     "img": "https://cdn.shopify.com/s/files/1/1519/7996/files/HARVEY-OTK-BOOT-85_MORNING-DOVE-TAUPE_F1119-996-648_A_jpg.jpg?v=1757969606&width=400"
+    },
+    {
+     "title": "Ona Ankle Boot in Zebra Print Haircalf",
+     "pct": 50,
+     "price": 845.0,
+     "compare": 1690.0,
+     "url": "https://www.khaite.com/products/ona-ankle-boot-55-in-black-white",
+     "img": "https://cdn.shopify.com/s/files/1/1519/7996/files/ONA-ANKLE-BOOT-55_BLACK-WHITE_F1100-711-294_A_jpg.jpg?v=1757969628&width=400"
+    },
+    {
+     "title": "Anya Skirt in Cream Multi",
+     "pct": 50,
+     "price": 1400.0,
+     "compare": 2800.0,
+     "url": "https://www.khaite.com/products/anya-skirt-in-cream-multi",
+     "img": "https://cdn.shopify.com/s/files/1/1519/7996/files/ANYA-SKIRT_CREAM-MULTI_41754216-128_GHOST_jpg.jpg?v=1758813751&width=400"
+    },
+    {
+     "title": "Fallon Over-the-Knee Boot in Black Leather",
+     "pct": 50,
+     "price": 1200.0,
+     "compare": 2400.0,
+     "url": "https://www.khaite.com/products/fallon-otk-boot-35-in-black",
+     "img": "https://cdn.shopify.com/s/files/1/1519/7996/files/FALLON-OTK-BOOT-35_BLACK_F1120-994-200_A_jpg.jpg?v=1757969663&width=400"
+    },
+    {
+     "title": "Edgar Dress in Black Multi",
+     "pct": 50,
+     "price": 1990.0,
+     "compare": 3980.0,
+     "url": "https://www.khaite.com/products/edgar-dress-in-black-multi",
+     "img": "https://cdn.shopify.com/s/files/1/1519/7996/files/EDGAR-DRESS_BLACK-MULTI_55653372-283_GHOST_Alt_jpg.jpg?v=1759328119&width=400"
+    }
+   ]
+  },
+  {
    "brand": "A.P.C. Paris",
    "domain": "www.apc.fr",
    "cat": "french",
    "currency": "EUR",
    "checked": 250,
-   "on_sale": 170,
+   "on_sale": 172,
    "max_pct": 50,
    "median_pct": 50,
-   "new_14d": 54,
+   "new_14d": 51,
    "top": [
-    {
-     "title": "Sac Vera",
-     "pct": 50,
-     "price": 275.0,
-     "compare": 550.0,
-     "url": "https://www.apc.fr/products/sac-vera-bld-pxcdb-f61902",
-     "img": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/PXCDB-F61902BLD_00_a71fff4e-5d3e-45d2-9180-5fd0ce1c9ee4.jpg?v=1771868606&width=400"
-    },
     {
      "title": "Sweat Standard Rue Madame",
      "pct": 50,
@@ -538,6 +530,14 @@
      "compare": 230.0,
      "url": "https://www.apc.fr/products/chemise-warren-cae-cohog-m12006",
      "img": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/COHOG-M12006CAE_00.jpg?v=1767884091&width=400"
+    },
+    {
+     "title": "jean elisabeth",
+     "pct": 50,
+     "price": 135.0,
+     "compare": 270.0,
+     "url": "https://www.apc.fr/products/jean-elisabeth-iab-cohoa-f09181",
+     "img": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/COHOA-F09181IAB_00.jpg?v=1767634253&width=400"
     }
    ]
   },
@@ -624,7 +624,7 @@
    "cat": "american",
    "currency": "USD",
    "checked": 250,
-   "on_sale": 155,
+   "on_sale": 154,
    "max_pct": 75,
    "median_pct": 50,
    "new_14d": 0,
@@ -701,7 +701,7 @@
    "cat": "american",
    "currency": "USD",
    "checked": 250,
-   "on_sale": 134,
+   "on_sale": 133,
    "max_pct": 81,
    "median_pct": 70,
    "new_14d": 0,
@@ -763,12 +763,12 @@
      "img": "https://cdn.shopify.com/s/files/1/1130/9504/files/S222-FFS495-TMS-23935-FaithfullTheBrand-D2-0492.webp?v=1712301442&width=400"
     },
     {
-     "title": "Farrah Bikini Top White - Final Sale",
+     "title": "L'Oasis Souvenir Cap Cocoa (Exclusive) - Final Sale",
      "pct": 80,
-     "price": 21.0,
-     "compare": 105.0,
-     "url": "https://www.faithfullthebrand.com/products/farrah-bikini-top-white",
-     "img": "https://cdn.shopify.com/s/files/1/1130/9504/files/S262-FFS290-WHT-23935-FaithfullTheBrand-D2-0352.webp?v=1712300484&width=400"
+     "price": 13.0,
+     "compare": 65.0,
+     "url": "https://www.faithfullthebrand.com/products/loasis-souvenir-cap-cocoa",
+     "img": "https://cdn.shopify.com/s/files/1/1130/9504/files/S10-exclusive_cap-23788-FaithfullTheBrand-0590.webp?v=1704429253&width=400"
     }
    ]
   },
@@ -781,7 +781,7 @@
    "on_sale": 108,
    "max_pct": 40,
    "median_pct": 30,
-   "new_14d": 2,
+   "new_14d": 0,
    "top": [
     {
      "title": "Blouse HAZEL",
@@ -1110,7 +1110,7 @@
    "on_sale": 1,
    "max_pct": 40,
    "median_pct": 40,
-   "new_14d": 241,
+   "new_14d": 239,
    "top": [
     {
      "title": "New Balance Abzorb 1890 - Black / Silver Metallic / Black Cement",
