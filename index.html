@@ -881,6 +881,13 @@ h1.ht em{background:none!important;-webkit-text-fill-color:var(--coral)!importan
 a.so-row{text-decoration:none;color:inherit}
 a.so-row:hover .so-who{text-decoration:underline}
 .so-tag{display:inline-block;font-size:10px;letter-spacing:.04em;text-transform:uppercase;border:1px solid var(--li);border-radius:20px;padding:1px 8px;margin:4px 6px 0 0;color:var(--ink2)}
+
+.si-n{font-size:10px;color:var(--mu);padding:0 10px 10px;margin-top:-6px}
+.si-ph{width:100%;aspect-ratio:3/4;background:var(--li)}
+.tl-day{display:grid;grid-template-columns:130px 1fr;gap:16px;padding:14px 4px;border-bottom:1px solid var(--li)}
+.tl-date{font-size:12px;font-weight:600;color:var(--ink)}
+.tl-news{font-size:13px;margin-top:6px}.tl-news a{color:var(--ink)}.tl-news span{font-size:10px;color:var(--mu)}
+@media(max-width:600px){.tl-day{grid-template-columns:1fr}}
 </style>
 </head>
 <body>
@@ -997,8 +1004,8 @@ a.so-row:hover .so-who{text-decoration:underline}
   <a class="logo" href="#" onclick="showPage('home');return false;">SHOPIQ</a>
   <div class="dtabs">
     <div class="dt on" id="dt-home" onclick="showPage('home')">Home</div>
-    <div class="dt" id="dt-drops" onclick="showPage('drops')">Drops</div>
-    <div class="dt" id="dt-calendar" onclick="showPage('calendar')">Calendar</div>
+    <div class="dt" id="dt-drops" onclick="showPage('drops')">New In</div>
+    <div class="dt" id="dt-calendar" onclick="showPage('calendar')">Timeline</div>
     <div class="dt" id="dt-seenon" onclick="showPage('seenon')">News</div>
     <div class="dt" id="dt-sale" onclick="showPage('sale')">Sale</div>
     <div class="dt" id="dt-trend" onclick="showPage('trend')">Trends</div>
@@ -1021,294 +1028,62 @@ a.so-row:hover .so-who{text-decoration:underline}
 </nav>
 <!-- HOME -->
 <div class="pg on" id="pg-home">
-  <div class="sb2"><span class="lv"></span>Sale data: auto-collected from official Shopify stores every 6h (<span id="rstat">loading…</span>) &nbsp;·&nbsp; News: 10 fashion &amp; retail outlets every 6h &nbsp;·&nbsp; Drops &amp; collabs: curated June 2026</div>
+  <div class="sb2"><span class="lv"></span>Sale data: auto-collected from official Shopify stores every 6h (<span id="rstat">loading…</span>) &nbsp;·&nbsp; New arrivals, price drops &amp; news: every 6h</div>
   <div style="display:flex;align-items:center;justify-content:space-between;padding:7px 1rem;background:var(--wh);border-bottom:.5px solid var(--li);font-size:10px;color:var(--mu);flex-wrap:wrap;gap:6px;">
     <div style="display:flex;align-items:center;gap:6px;letter-spacing:.05em;text-transform:uppercase;"><span style="width:5px;height:5px;border-radius:50%;background:var(--go);display:inline-block;flex-shrink:0"></span>1 USD = <span id="krw-rate-disp" style="color:var(--ink);font-weight:600">₩1,380</span> &nbsp;&middot;&nbsp; Last updated <span id="last-updated-time" style="color:var(--ink);margin-left:3px">--</span> &nbsp;&middot;&nbsp; Next refresh <span id="refresh-countdown" style="color:var(--ink);font-weight:600">60:00</span> &nbsp;·&nbsp; Next refresh <span id="refresh-countdown" style="color:var(--ink);font-weight:600">60:00</span></div>
-    <div style="display:flex;gap:12px;letter-spacing:.04em;text-transform:uppercase;"><span>Drops <span id="upd-drops" style="color:var(--ink)">--</span></span><span>Sale <span id="upd-sale" style="color:var(--ink)">--</span></span><span>Resale <span id="upd-resale" style="color:var(--ink)">--</span></span><span>News <span id="upd-seen" style="color:var(--ink)">--</span></span></div>
+    <div style="display:flex;gap:12px;letter-spacing:.04em;text-transform:uppercase;"><span>New In <span id="upd-drops" style="color:var(--ink)">--</span></span><span>Sale <span id="upd-sale" style="color:var(--ink)">--</span></span><span>Price drops <span id="upd-resale" style="color:var(--ink)">--</span></span><span>News <span id="upd-seen" style="color:var(--ink)">--</span></span></div>
   </div>
   <div class="hero">
     <div>
       <div class="ey">Global Fashion Intelligence</div>
       <h1 class="ht">Too good<br><em>to miss out on.</em></h1>
-      <div style="margin-top:.8rem;font-size:13px;color:var(--mu);line-height:1.7">Live sales from 25 official stores · fashion news · collab drops (curated Jun 2026)</div>
+      <div style="margin-top:.8rem;font-size:13px;color:var(--mu);line-height:1.7">Live sales, new arrivals and price drops from 25 official stores · fashion news</div>
     </div>
     <div class="sts"><div><div class="sn">85</div><div class="sl2">Brands</div></div><div><div class="sn">6h</div><div class="sl2">Refresh</div></div><div><div class="sn">4</div><div class="sl2">Platforms</div></div></div>
   </div>
-  <div class="sl">Breaking now</div>
-
-  <!-- Visual strip — 4 campaign tiles -->
+  <div class="sl">Right now</div>
   <div class="vis-strip">
-    <div class="vis-card" onclick="openDrop('ckjk')">
-      <img src="https://media1.calvinklein.com/images/20260520/Nav/NavDropdown_V_Rebel_2.jpg" alt="CKJK campaign" loading="lazy" onerror="this.style.display='none'">
-      <div class="vis-card-ov"></div>
-      <div class="vis-card-info"><span class="vis-card-bdg">JUN 2026</span><div class="vis-card-name">JK × Calvin Klein</div></div>
-    </div>
-    <div class="vis-card" onclick="showPage('sale')">
-      <img src="https://media.thereformation.com/image/upload/f_auto,q_auto:eco,dpr_auto/w_800/v1/Reformation/Campaign/2025/core/dresses/Cynthia-Midi-SS26-Campaign-01.jpg" alt="Sale" id="vis-sale-img" loading="lazy">
-      <div class="vis-card-ov"></div>
-      <div class="vis-card-info"><span class="vis-card-bdg" id="vis-sale-bdg">LIVE</span><div class="vis-card-name">Sales Live</div></div>
-    </div>
-    <div class="vis-card" onclick="showPage('seenon')">
-      <img src="https://www.ganni.com/dw/image/v2/AAWT_PRD/on/demandware.static/-/Library-Sites-ganni-shared/default/dwc0c2ed66/images/SS26-campaign/SS26-HEADER-MB.jpg" alt="Brand news" loading="lazy">
-      <div class="vis-card-ov"></div>
-      <div class="vis-card-info"><span class="vis-card-bdg">NEWS</span><div class="vis-card-name">Brand News</div></div>
-    </div>
-    <div class="vis-card" onclick="showPage('resale')">
-      <img src="https://www.r13.com/cdn/shop/files/SS26.3_HP-01.jpg?v=1778012309" alt="Resale" loading="lazy">
-      <div class="vis-card-ov"></div>
-      <div class="vis-card-info"><span class="vis-card-bdg">RESALE</span><div class="vis-card-name">Flip Tracker</div></div>
-    </div>
+    <div class="vis-card" onclick="showPage('drops')"><img id="vis-new-img" alt="" loading="lazy" onerror="this.style.display='none'"><div class="vis-card-ov"></div><div class="vis-card-info"><span class="vis-card-bdg" id="vis-new-bdg">NEW IN</span><div class="vis-card-name">New Arrivals</div></div></div>
+    <div class="vis-card" onclick="showPage('sale')"><img id="vis-sale-img" alt="" loading="lazy" onerror="this.style.display='none'"><div class="vis-card-ov"></div><div class="vis-card-info"><span class="vis-card-bdg" id="vis-sale-bdg">LIVE</span><div class="vis-card-name">Sales Live</div></div></div>
+    <div class="vis-card" onclick="showPage('resale')"><img id="vis-drop-img" alt="" loading="lazy" onerror="this.style.display='none'"><div class="vis-card-ov"></div><div class="vis-card-info"><span class="vis-card-bdg" id="vis-drop-bdg">TRACKING</span><div class="vis-card-name">Price Drops</div></div></div>
+    <div class="vis-card" onclick="showPage('seenon')"><div class="vis-card-ov" style="background:linear-gradient(135deg,#1a1a2e,#3a2f4a)"></div><div class="vis-card-info"><span class="vis-card-bdg">NEWS</span><div class="vis-card-name">Brand News</div></div></div>
   </div>
-
-  <!-- Breaking collab cards — hero image layout -->
-  <div style="display:grid;gap:14px;padding:0 1rem;margin-bottom:.5rem;grid-template-columns:1fr;">
-    <div class="cc-img" onclick="openDrop('ckjk')" style="min-height:380px;">
-      <img class="cc-img-photo" src="https://media1.calvinklein.com/images/20260520/Nav/NavDropdown_V_Rebel_2.jpg" alt="Jung Kook × Calvin Klein CKJK campaign" loading="lazy" onerror="this.onerror=null;this.style.display='none';" style="object-position:center 20%;">
-      <div class="cc-img-overlay" style="background:linear-gradient(to top,rgba(26,26,46,.95) 0%,rgba(26,26,46,.2) 50%,transparent 100%);"></div>
-      <div class="cc-img-content">
-        <span class="bdg bc">K-Pop × Fashion · June 2026</span>
-        <div class="cb">Jung Kook × Calvin Klein</div>
-        <div class="ct" style="font-size:28px;">"CKJK" — First Fashion Collab</div>
-        <div class="cd">40 pieces co-designed by Jung Kook. Biker aesthetic — trucker jackets, low-rise denim, racer jackets. $29–$699. Limited flagship exclusives at Harajuku, Soho, Champs-Élysées.</div>
-        <button class="da-btn" id="da-ckjk" onclick="setDropAlert('ckjk','CKJK Jung Kook x CK',event)">Drop Alert 🔔</button>
-        <div class="cm"><span class="cdot"></span>calvinklein.com · ships to Korea</div>
-      </div>
-    </div>
-  </div>
-  <div style="display:grid;gap:14px;padding:0 1rem;margin-bottom:1rem;grid-template-columns:1fr 1fr;">
-    <div class="cc-img" onclick="openDrop('vatisimo')" style="min-height:260px;">
-      <img class="cc-img-photo" src="https://www.ganni.com/dw/image/v2/AAWT_PRD/on/demandware.static/-/Library-Sites-ganni-shared/default/dw61a8fa2d/images/SS26-campaign/SS26-3RD-MB.jpg" alt="Zara x Willy Chavarria VATISMO" loading="lazy" onerror="this.onerror=null;this.style.display='none';">
-      <div class="cc-img-overlay"></div>
-      <div class="cc-img-content">
-        <span class="bdg bl">SPA Collab</span>
-        <div class="cb">Zara × Willy Chavarria</div>
-        <div class="ct">"VATÍSIMO"</div>
-        <div class="cd">Chicano culture. Under $250.</div>
-        <button class="da-btn" id="da-vatisimo" onclick="setDropAlert('vatisimo','Zara x Willy Chavarria',event)">Drop Alert 🔔</button>
-        <div class="cm"><span class="cdot"></span>zara.com · Korea stores</div>
-      </div>
-    </div>
-    <div class="cc-img" onclick="openDrop('bahnsen')" style="min-height:260px;">
-      <img class="cc-img-photo" src="https://www.ganni.com/dw/image/v2/AAWT_PRD/on/demandware.static/-/Library-Sites-ganni-shared/default/dw5100d494/images/SS26-campaign/SS26-4TH-MB.jpg" alt="Uniqlo x Bahnsen" loading="lazy" onerror="this.onerror=null;this.style.display='none';">
-      <div class="cc-img-overlay"></div>
-      <div class="cc-img-content">
-        <span class="bdg bc">May 22</span>
-        <div class="cb">Uniqlo × Bahnsen</div>
-        <div class="ct">SS26 Womenswear</div>
-        <div class="cd">Danish designer Julie Bahnsen. Expected sell-out.</div>
-        <button class="da-btn" id="da-bahnsen" onclick="setDropAlert('bahnsen','Uniqlo x Bahnsen',event)">Drop Alert 🔔</button>
-        <div class="cm"><span class="cdot"></span>May 22 · Korea official</div>
-      </div>
-    </div>
-  </div>
-  <!-- New Arrivals — MADHAPPY Summer 2026 -->
-  <div class="sl">New Arrivals — Just Dropped</div>
-  <div style="display:grid;gap:12px;padding:0 1rem;margin-bottom:1rem;grid-template-columns:1fr 1fr;">
-    <div class="cc-img" onclick="window.open('https://www.madhappy.com/collections/new-arrivals','_blank')" style="min-height:240px;cursor:pointer;">
-      <img class="cc-img-photo" src="https://www.madhappy.com/cdn/shop/files/05._dropdown-category-heroimage.jpg" alt="Madhappy Summer 2026" loading="lazy" onerror="this.onerror=null;this.style.display='none';">
-      <div class="cc-img-overlay"></div>
-      <div class="cc-img-content">
-        <span class="bdg bn">Just Dropped</span>
-        <div class="cb">Madhappy</div>
-        <div class="ct">Summer 2026 Collection</div>
-        <div class="cd">Summer Stripes + Summer Graphics (Milkbbi art). Converse collab, LA Dodgers x '47. Lightweight fleece, pigment-dyed shorts, tees. $60–$250+.</div>
-        <div class="cm"><span class="cdot"></span>madhappy.com · $250+ free intl ship</div>
-      </div>
-    </div>
-    <div class="cc-img" onclick="openDrop('madhappy-converse')" style="min-height:240px;cursor:pointer;">
-      <img class="cc-img-photo" src="https://www.madhappy.com/cdn/shop/files/Madhappy-May-Summer-Classics-24-Pigment-Dyed-Midweight-Fleece-Shorts-Flat-Magnolia-01_4bad2824-b429-421c-a08e-1f18e55b0750.jpg" alt="Madhappy x Converse Chuck Taylor" loading="lazy" onerror="this.onerror=null;this.style.display='none';">
-      <div class="cc-img-overlay"></div>
-      <div class="cc-img-content">
-        <span class="bdg bc">Limited Collab</span>
-        <div class="cb">Madhappy × Converse</div>
-        <div class="ct">Chuck Taylor "Optimist" — Cream</div>
-        <div class="cd">Madhappy optimism meets Converse icon. Limited colorways. Resale already at $280+.</div>
-        <button class="da-btn" onclick="setDropAlert('madhappy-converse','Madhappy x Converse',event)">Drop Alert 🔔</button>
-        <div class="cm"><span class="cdot"></span>$90–$120 · madhappy.com direct</div>
-      </div>
-    </div>
-  </div>
-
-  <div class="sl">Social signals — this week</div>
-  <div class="inn">
-    <div class="socg">
-      <div class="socc" onclick="openTrend('barrel-denim')"><div class="socp"><div class="soci ig">IG</div><div class="socn">Instagram</div></div><div class="soct">Barrel &amp; Wide-Leg Denim</div><div class="socd">#barreljeans 2.1M posts. R13, Agolde dominate. Styling reels 3x outperform.</div><div class="socbw"><span style="font-size:10px;color:var(--mu)">92%</span><div class="socb"><div class="socf" style="width:92%"></div></div></div></div>
-      <div class="socc" onclick="openTrend('quiet-luxury')"><div class="socp"><div class="soci tk2">TK</div><div class="socn">TikTok Research API</div></div><div class="soct">Quiet Luxury / Old Money</div><div class="socd">#quietluxury 890M views. Toteme, A.P.C., COS dominate. 60% top videos neutral under $500.</div><div class="socbw"><span style="font-size:10px;color:var(--mu)">87%</span><div class="socb"><div class="socf" style="width:87%"></div></div></div></div>
-      <div class="socc" onclick="openTrend('french-girl')"><div class="socp"><div class="soci pt">PT</div><div class="socn">Pinterest Trends</div></div><div class="soct">French Girl Summer</div><div class="socd">+180% saves. Korea boards +240% linen+stripe. Rouje, Sandro, Jacquemus lead.</div><div class="socbw"><span style="font-size:10px;color:var(--mu)">79%</span><div class="socb"><div class="socf" style="width:79%"></div></div></div></div>
-      <div class="socc" onclick="openTrend('kpop')"><div class="socp"><div class="soci ig">IG</div><div class="socn">Instagram</div></div><div class="soct">K-Pop Collab Wave</div><div class="socd">#CKJK: 4.2M interactions in 24h. Korean comments = 34% of CK engagement — highest ever.</div><div class="socbw"><span style="font-size:10px;color:var(--mu)">96%</span><div class="socb"><div class="socf" style="width:96%"></div></div></div></div>
-      <div class="socc" onclick="openTrend('coastal')"><div class="socp"><div class="soci rd">RD</div><div class="socn">Reddit API · Live</div></div><div class="soct">Coastal Grandmother</div><div class="socd" id="rdt-coastal">Loading from Reddit...</div><div class="socbw"><span style="font-size:10px;color:var(--mu)">72%</span><div class="socb"><div class="socf" style="width:72%"></div></div></div></div>
-      <div class="socc" onclick="openTrend('sporty')"><div class="socp"><div class="soci tk2">TK</div><div class="socn">TikTok Research API</div></div><div class="soct">Sporty Prep</div><div class="socd">#sportypreppy 340M views. Aritzia, Abercrombie +60% search. Korean TikTok leads this.</div><div class="socbw"><span style="font-size:10px;color:var(--mu)">68%</span><div class="socb"><div class="socf" style="width:68%"></div></div></div></div>
-    </div>
-  </div>
-  <div class="sl">Live sales</div>
-  <div class="inn">
-    <div class="sg">
-      <div class="sc" onclick="window.open('https://www.maisonkitsune.com','_blank')"><div class="sb">Maison Kitsuné</div><div class="sp2">60<sup>%</sup></div><div class="sd">Summer Sale</div><div class="se urg">● 3 days left</div></div>
-      <div class="sc" onclick="window.open('https://www.ssense.com/en-us/women/sale','_blank')"><div class="sb">SSENSE</div><div class="sp2">70<sup>%</sup></div><div class="sd">Season end + 30% extra</div><div class="se">Until June 1</div></div>
-      <div class="sc" onclick="window.open('https://www.apc.fr','_blank')"><div class="sb">A.P.C.</div><div class="sp2">50<sup>%</sup></div><div class="sd">Soldes — select styles</div><div class="se">Until June 15</div></div>
-      <div class="sc" onclick="window.open('https://www.shopbop.com/sale','_blank')"><div class="sb">Shopbop</div><div class="sp2">60<sup>%</sup></div><div class="sd">Sale on Sale + 25%</div><div class="se urg">● Ends May 31</div></div>
-    </div>
-  </div>
-  <div class="sl">Reddit live <span style="font-size:9px;letter-spacing:.07em;padding:2px 7px;background:var(--gr2);color:var(--gr);margin-left:6px" id="rbadge">Loading</span></div>
-  <div class="inn"><div id="rhome" class="rf"><div style="padding:1rem;font-size:12px;color:var(--mu)">Fetching Reddit data...</div></div></div>
+  <div class="sl">Collabs &amp; launches in the news</div>
+  <div class="inn"><div id="home-collabs"></div></div>
+  <div class="sl">Just dropped · official stores</div>
+  <div class="inn"><div class="sale-items" id="home-new"></div></div>
+  <div class="sl">Biggest discounts</div>
+  <div class="inn"><div class="sale-items" id="home-sale"></div></div>
 </div>
 <!-- DROPS -->
 <div class="pg" id="pg-drops">
   <div class="hero">
-    <div><div class="ey">Collaborations &amp; Limited Drops</div><h1 class="ht">Never miss<br><em>a drop.</em></h1></div>
-    <div class="sts"><div><div class="sn">11</div><div class="sl2">Active</div></div><div><div class="sn">4</div><div class="sl2">This week</div></div></div>
+    <div><div class="ey">New In — Official Stores · Last 14 Days</div><h1 class="ht">Just dropped.<br><em>Straight from the brand.</em></h1></div>
+    <div class="sts"><div><div class="sn" id="new-count">–</div><div class="sl2">New products</div></div><div><div class="sn" id="new-brands">–</div><div class="sl2">Brands</div></div></div>
   </div>
-  <div class="sl">K-Pop &amp; Celebrity — Live Now</div>
-  <div class="cg">
-    <div class="cc-img sp2c" onclick="openDrop('ckjk')" style="min-height:340px;">
-      <img class="cc-img-photo" src="https://media1.calvinklein.com/images/20260520/Nav/NavDropdown_V_Rebel_2.jpg" alt="Jung Kook × Calvin Klein CKJK" loading="lazy" onerror="this.onerror=null;this.style.display='none';" style="object-position:center top;">
-      <div class="cc-img-overlay"></div>
-      <div class="cc-img-content">
-        <span class="bdg bc">K-Pop × Fashion · Live</span>
-        <div class="cb">Jung Kook (BTS) × Calvin Klein</div>
-        <div class="ct">"CKJK" — First Fashion Collaboration</div>
-        <div class="cd">40-piece co-designed capsule. Biker aesthetic — truckers, low-rise baggy denim, racer jackets, graphic tees with hidden embroidery. Limited underwear exclusive to Harajuku, Soho, Champs-Élysées.</div>
-        <button class="da-btn" id="da-ckjk2" onclick="setDropAlert('ckjk','CKJK Jung Kook x CK',event)">Drop Alert 🔔</button>
-        <div class="cm"><span class="cdot"></span>calvinklein.com · $29–$699 · ships Korea</div>
-      </div>
-    </div>
-    <div class="cc-img sp2c" onclick="openDrop('vs-agua')" style="min-height:280px;">
-      <img class="cc-img-photo" src="https://www.ganni.com/dw/image/v2/AAWT_PRD/on/demandware.static/-/Library-Sites-ganni-shared/default/dw5100d494/images/SS26-campaign/SS26-4TH-MB.jpg" alt="Victoria's Secret x Agua Bendita" loading="lazy" onerror="this.onerror=null;this.style.display='none';">
-      <div class="cc-img-overlay"></div>
-      <div class="cc-img-content">
-        <span class="bdg ba">Brand × Brand</span>
-        <div class="cb">Victoria's Secret × Agua Bendita</div>
-        <div class="ct">Summer Capsule — 11 Pieces</div>
-        <div class="cd">VS × Colombian artisanal swimwear. Dresses, one-pieces, bikinis, cover-ups in bold tropical prints.</div>
-        <button class="da-btn" id="da-vsagua" onclick="setDropAlert('vs-agua','VS x Agua Bendita',event)">Drop Alert 🔔</button>
-        <div class="cm"><span class="cdot"></span>victoriassecret.com · international ship</div>
-      </div>
-    </div>
-  </div>
-  <div class="sl">Designer × Brand</div>
-  <div class="cg">
-    <div class="cc-img" onclick="openDrop('bahnsen')" style="min-height:240px;">
-      <img class="cc-img-photo" src="https://www.ganni.com/dw/image/v2/AAWT_PRD/on/demandware.static/-/Library-Sites-ganni-shared/default/dw5100d494/images/SS26-campaign/SS26-4TH-MB.jpg" alt="Uniqlo x Bahnsen" loading="lazy" onerror="this.onerror=null;this.style.display='none';">
-      <div class="cc-img-overlay"></div>
-      <div class="cc-img-content"><span class="bdg bc">May 22</span><div class="cb">Uniqlo × Bahnsen</div><div class="ct">SS26 Womenswear Capsule</div><div class="cd">Copenhagen's Julie Bahnsen. Known sell-out. Korea official.</div><button class="da-btn" id="da-bahnsen2" onclick="setDropAlert('bahnsen','Uniqlo x Bahnsen',event)">Drop Alert 🔔</button><div class="cm"><span class="cdot"></span>May 22 · Korea official</div></div>
-    </div>
-    <div class="cc-img" onclick="openDrop('arket-gohar')" style="min-height:240px;">
-      <img class="cc-img-photo" src="https://www.ganni.com/dw/image/v2/AAWT_PRD/on/demandware.static/-/Library-Sites-ganni-shared/default/dw61a8fa2d/images/SS26-campaign/SS26-3RD-MB.jpg" alt="ARKET x Laila Gohar" loading="lazy" onerror="this.onerror=null;this.style.display='none';">
-      <div class="cc-img-overlay"></div>
-      <div class="cc-img-content"><span class="bdg bn">Available Now</span><div class="cb">ARKET × Laila Gohar</div><div class="ct">SS26 — 27 Summer Pieces</div><div class="cd">Egyptian-NY artist's first RTW. Pastel shirts, ruffled dress, satin mules, embroidered crochet.</div><button class="da-btn" id="da-arketgohar" onclick="setDropAlert('arket-gohar','ARKET x Laila Gohar',event)">Drop Alert 🔔</button><div class="cm"><span class="cdot"></span>arket.com · ships KR</div></div>
-    </div>
-    <div class="cc-img" onclick="openDrop('apc-frgmt')" style="min-height:240px;">
-      <img class="cc-img-photo" src="https://www.r13.com/cdn/shop/files/R13_Spring_Summer_2026_Drop_1_1.jpg?v=1777393029" alt="A.P.C. x Fragment" loading="lazy" onerror="this.onerror=null;this.style.display='none';">
-      <div class="cc-img-overlay"></div>
-      <div class="cc-img-content"><span class="bdg bc">Just Dropped</span><div class="cb">A.P.C. × Fragment Design</div><div class="ct">"FRGMT #30" SS26</div><div class="cd">Hiroshi Fujiwara × A.P.C. 30th capsule. Launched May 19–20.</div><button class="da-btn" id="da-apcfrgmt" onclick="setDropAlert('apc-frgmt','APC x Fragment',event)">Drop Alert 🔔</button><div class="cm"><span class="cdot"></span>apc.fr · ships KR</div></div>
-    </div>
-  </div>
-  <div class="sl">SPA Designer Series</div>
-  <div class="cg">
-    <div class="cc-img" onclick="openDrop('vatisimo')" style="min-height:260px;">
-      <img class="cc-img-photo" src="https://www.ganni.com/dw/image/v2/AAWT_PRD/on/demandware.static/-/Library-Sites-ganni-shared/default/dw61a8fa2d/images/SS26-campaign/SS26-3RD-MB.jpg" alt="Zara x Willy Chavarria VATISMO" loading="lazy" onerror="this.onerror=null;this.style.display='none';">
-      <div class="cc-img-overlay"></div>
-      <div class="cc-img-content"><span class="bdg bl">Available Now</span><div class="cb">Zara × Willy Chavarria</div><div class="ct">"VATÍSIMO"</div><div class="cd">CFDA Designer of Year 2024–25. Under $250. Italian denim, structured skirts. Korea stores.</div><button class="da-btn" id="da-vatisimo2" onclick="setDropAlert('vatisimo','Zara x Willy Chavarria',event)">Drop Alert 🔔</button><div class="cm"><span class="cdot"></span>zara.com · Korea stores · &lt;$250</div></div>
-    </div>
-    <div class="cc-img" onclick="openDrop('galliano')" style="min-height:260px;">
-      <img class="cc-img-photo" src="https://agolde.com/cdn/shop/files/A154-1765_90S_PINCH_WAIST_CIRCULATE_0313.jpg?v=1767894129&width=1200" alt="Zara x Galliano FW26" loading="lazy" onerror="this.onerror=null;this.style.display='none';">
-      <div class="cc-img-overlay"></div>
-      <div class="cc-img-content"><span class="bdg bs">September 2026</span><div class="cb">Zara × John Galliano</div><div class="ct">FW26 — 2-Year Partnership</div><div class="cd">Galliano "re-authors Zara's archives." Most anticipated SPA collab of 2026. September drop.</div><button class="da-btn" id="da-galliano" onclick="setDropAlert('galliano','Zara x John Galliano FW26',event)">Remind Me 🔔</button><div class="cm"><span class="cdot"></span>September · zara.com · Korea stores</div></div>
-    </div>
-    <div class="cc-img" onclick="openDrop('sacai-carhartt')" style="min-height:260px;">
-      <img class="cc-img-photo" src="https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy/samba-og-shoes/IF3814_01_standard.jpg" alt="Sacai x Carhartt" loading="lazy" onerror="this.onerror=null;this.style.display='none';">
-      <div class="cc-img-overlay"></div>
-      <div class="cc-img-content"><span class="bdg bn">Available Now</span><div class="cb">Sacai × Carhartt WIP</div><div class="ct">SS26 Capsule</div><div class="cd">Chitose Abe's hybrid tailoring meets workwear. International shipping.</div><button class="da-btn" id="da-sacai" onclick="setDropAlert('sacai-carhartt','Sacai x Carhartt WIP',event)">Drop Alert 🔔</button><div class="cm"><span class="cdot"></span>Available · ships international</div></div>
-    </div>
-  </div>
-  <div class="sl">Cultural &amp; Artist Collabs</div>
-  <div class="cg">
-    <div class="cc-img" onclick="openDrop('madhappy-converse')" style="min-height:240px;">
-      <img class="cc-img-photo" src="https://www.madhappy.com/cdn/shop/files/05._dropdown-category-heroimage.jpg" alt="Madhappy x Converse" loading="lazy" onerror="this.onerror=null;this.style.display='none';">
-      <div class="cc-img-overlay"></div>
-      <div class="cc-img-content"><span class="bdg bc">Collab</span><div class="cb">Madhappy × Converse</div><div class="ct">Custom Chuck Taylor Edition</div><div class="cd">Madhappy optimism meets Converse. Limited colorways. madhappy.com direct.</div><button class="da-btn" id="da-madconverse" onclick="setDropAlert('madhappy-converse','Madhappy x Converse',event)">Drop Alert 🔔</button><div class="cm"><span class="cdot"></span>madhappy.com · $250+ free intl ship</div></div>
-    </div>
-    <div class="cc-img" onclick="openDrop('mm6-supreme')" style="min-height:240px;">
-      <img class="cc-img-photo" src="https://www.toteme-studio.com/cdn/shop/files/TOTEME_SS26_Campaign_01.jpg?v=1740000000" alt="MM6 x Supreme" loading="lazy" onerror="this.onerror=null;this.style.display='none';">
-      <div class="cc-img-overlay"></div>
-      <div class="cc-img-content"><span class="bdg ba">Collab</span><div class="cb">MM6 Maison Margiela × Supreme</div><div class="ct">SS26 Drop</div><div class="cd">Deconstruction meets hype. Limited global release at select stockists.</div><button class="da-btn" id="da-mm6" onclick="setDropAlert('mm6-supreme','MM6 x Supreme',event)">Drop Alert 🔔</button><div class="cm"><span class="cdot"></span>Limited · select stockists</div></div>
-    </div>
-    <div class="cc-img" onclick="openDrop('ald-ss26')" style="min-height:240px;">
-      <img class="cc-img-photo" src="https://skims.imgix.net/s/files/1/0259/5448/4284/files/AP-RBE-0345-COA-LD-SKIMS-LOUNGEWEAR_0018-FR.webp" alt="Aime Leon Dore SS26" loading="lazy" onerror="this.onerror=null;this.style.display='none';">
-      <div class="cc-img-overlay"></div>
-      <div class="cc-img-content"><span class="bdg bc">Just Dropped</span><div class="cb">Aimé Leon Dore</div><div class="ct">SS26 Delivery 5</div><div class="cd">Mediterranean-inspired knitwear. Bouclé crewneck, merino eyelet tee. Live now.</div><button class="da-btn" id="da-ald" onclick="setDropAlert('ald-ss26','ALD SS26 Delivery 5',event)">Drop Alert 🔔</button><div class="cm"><span class="cdot"></span>aimeleondore.com · intl ship</div></div>
-    </div>
-  </div>
+  <div class="ub"><div class="ut"><span class="lv"></span>Product publish dates from each store's catalog · <span id="new-sync">loading…</span></div><div style="font-size:10px;color:var(--mu)">Auto-collected every 6h</div></div>
+  <div class="inn"><div class="fr" id="new-filter"></div></div>
+  <div class="inn"><div class="sale-items" id="new-grid"></div></div>
+  <div class="sl" style="margin-top:2rem">Collabs &amp; launches in the news</div>
+  <div class="inn"><div id="drops-news"></div></div>
 </div>
-
 <!-- CALENDAR -->
 <div class="pg" id="pg-calendar">
   <div class="hero">
-    <div><div class="ey">Drop Calendar — May / June 2026</div><h1 class="ht">Every drop,<br><em>every date.</em></h1></div>
-    <div class="sts"><div><div class="sn">18</div><div class="sl2">Drops tracked</div></div></div>
+    <div><div class="ey">Timeline — Last 14 Days</div><h1 class="ht">Day by day.<br><em>What launched where.</em></h1></div>
   </div>
-  <div class="sl">
-    <span>Legend</span>
-    <span style="display:flex;gap:8px;align-items:center;font-size:10px;flex-wrap:wrap">
-      <span style="display:flex;align-items:center;gap:4px"><span style="width:10px;height:10px;background:var(--ink);display:inline-block"></span>Collab drop</span>
-      <span style="display:flex;align-items:center;gap:4px"><span style="width:10px;height:10px;background:var(--go);display:inline-block"></span>Limited edition</span>
-      <span style="display:flex;align-items:center;gap:4px"><span style="width:10px;height:10px;background:var(--gr2);border:.5px solid #b7dfc0;display:inline-block"></span>Sale end</span>
-      <span style="display:flex;align-items:center;gap:4px"><span style="width:10px;height:10px;background:var(--bg2);border:.5px solid var(--li);display:inline-block"></span>Watch</span>
-    </span>
-  </div>
-  <div class="inn">
-    <div class="cal-wrap">
-      <div class="cal-hdr">
-        <span class="cal-mo" id="cal-month-title">May 2026</span>
-        <div class="cal-nav">
-          <button onclick="navCal(-1)">← Prev</button>
-          <button onclick="navCal(1)">Next →</button>
-        </div>
-      </div>
-      <div class="cal-grid" id="cal-grid"></div>
-    </div>
-  </div>
+  <div class="ub"><div class="ut"><span class="lv"></span>New products by publish date + collab/launch headlines</div><div style="font-size:10px;color:var(--mu)">Auto-collected every 6h</div></div>
+  <div class="inn"><div id="timeline"></div></div>
 </div>
-
 <!-- RESALE -->
 <div class="pg" id="pg-resale">
   <div class="hero">
-    <div><div class="ey">Resale Price Tracker — StockX &amp; Grailed via Apify</div><h1 class="ht">Retail vs.<br><em>what it's really worth.</em></h1></div>
-    <div class="sts"><div><div class="sn">StockX</div><div class="sl2">+ Grailed</div></div></div>
+    <div><div class="ey">Price Drops — Compared Every 6h</div><h1 class="ht">Cheaper than<br><em>last time we looked.</em></h1></div>
+    <div class="sts"><div><div class="sn" id="drop-count">–</div><div class="sl2">Drops · 7 days</div></div></div>
   </div>
-  <div class="sb2" style="background:var(--go2);border-color:#e0c898;color:#5d3a10;">
-    <span style="width:6px;height:6px;border-radius:50%;background:var(--go);display:inline-block;flex-shrink:0"></span>
-    Resale data via Apify StockX Scraper + Grailed Scraper · refreshed daily · for reference only
-  </div>
-  <div class="sl">Drops that flipped — current resale vs retail</div>
-  <div class="inn">
-    <div class="res-grid">
-      <div class="res-card"><div class="res-brand">Madhappy × Converse</div><div class="res-item">Chuck Taylor "Optimist" colorway</div><div class="res-prices"><span class="res-retail">Retail $120</span><span class="res-now">$340</span><span class="res-delta up">+183%</span></div><div class="res-bw"><div class="res-bl"><span>Low $280</span><span>High $420</span></div><div class="res-b"><div class="res-bf" style="width:60%"></div></div></div><div class="res-src">Via <a href="https://www.grailed.com" target="_blank">Grailed</a> · Daily refresh</div></div>
-      <div class="res-card"><div class="res-brand">Aimé Leon Dore × New Balance</div><div class="res-item">550 "Burgundy" SS26</div><div class="res-prices"><span class="res-retail">Retail $150</span><span class="res-now">$520</span><span class="res-delta up">+247%</span></div><div class="res-bw"><div class="res-bl"><span>Low $400</span><span>High $680</span></div><div class="res-b"><div class="res-bf" style="width:55%"></div></div></div><div class="res-src">Via <a href="https://www.stockx.com" target="_blank">StockX</a> · Daily refresh</div></div>
-      <div class="res-card"><div class="res-brand">Sacai × Carhartt WIP</div><div class="res-item">Hybrid Work Jacket SS26</div><div class="res-prices"><span class="res-retail">Retail $680</span><span class="res-now">$1,100</span><span class="res-delta up">+62%</span></div><div class="res-bw"><div class="res-bl"><span>Low $900</span><span>High $1,400</span></div><div class="res-b"><div class="res-bf" style="width:50%"></div></div></div><div class="res-src">Via <a href="https://www.grailed.com" target="_blank">Grailed</a> · Daily refresh</div></div>
-      <div class="res-card"><div class="res-brand">Uniqlo × Bahnsen SS26</div><div class="res-item">Sculptural Dress — predicted flip</div><div class="res-prices"><span class="res-retail">Retail ~$60</span><span class="res-now">TBD</span><span class="res-delta up">Watch</span></div><div class="res-bw"><div class="res-bl"><span>Drop: May 22</span><span>Sell-out expected</span></div><div class="res-b"><div class="res-bf" style="width:30%"></div></div></div><div class="res-src">Prev Salomon collab → 3x resale · Monitor after drop</div></div>
-      <div class="res-card"><div class="res-brand">R13 Denim</div><div class="res-item">Crossover Jean — Leyton Black</div><div class="res-prices"><span class="res-retail">Retail $495</span><span class="res-now">$390</span><span class="res-delta dn">−21%</span></div><div class="res-bw"><div class="res-bl"><span>Low $340</span><span>High $520</span></div><div class="res-b"><div class="res-bf" style="width:35%"></div></div></div><div class="res-src">Via <a href="https://www.grailed.com" target="_blank">Grailed</a> · Below retail — good buy</div></div>
-      <div class="res-card"><div class="res-brand">Maison Kitsuné</div><div class="res-item">Tokyo Fox Limited Tee</div><div class="res-prices"><span class="res-retail">Retail $95</span><span class="res-now">$210</span><span class="res-delta up">+121%</span></div><div class="res-bw"><div class="res-bl"><span>Low $160</span><span>High $280</span></div><div class="res-b"><div class="res-bf" style="width:40%"></div></div></div><div class="res-src">Via <a href="https://www.grailed.com" target="_blank">Grailed</a> · Daily refresh</div></div>
-    </div>
-  </div>
-  <div class="sl">API integration guide</div>
-  <div class="inn">
-    <div style="background:var(--wh);border:.5px solid var(--li);padding:1.4rem;overflow-x:auto">
-      <table class="api-tbl">
-        <thead><tr><th>Source</th><th>Access</th><th>Data</th><th>Cost</th></tr></thead>
-        <tbody>
-          <tr><td>StockX</td><td><span class="ap ap-p">Apify Scraper</span></td><td>Market price, bid/ask, sales history, trend over time</td><td><span class="ap ap-p">~$20/mo</span></td></tr>
-          <tr><td>Grailed</td><td><span class="ap ap-p">Apify Scraper</span></td><td>Listed price, seller rating, size, condition, sold history</td><td><span class="ap ap-p">~$15/mo</span></td></tr>
-          <tr><td>GOAT</td><td><span class="ap ap-p">Apify Scraper</span></td><td>Verified prices, condition grades</td><td><span class="ap ap-p">~$15/mo</span></td></tr>
-          <tr><td>StockX Official API</td><td><span class="ap ap-f">Apply</span></td><td>Full catalog API — developers.stockx.com</td><td><span class="ap ap-f">Free (if approved)</span></td></tr>
-        </tbody>
-      </table>
-    </div>
-  </div>
-  <div class="sl">Sold Out Drops — Find on Grailed & StockX</div>
-  <div class="inn"><div id="soldout-grid"></div></div>
+  <div class="ub"><div class="ut"><span class="lv"></span>Each run compares every product's price with the previous run (5%+ lower counts) · <span id="drop-sync">loading…</span></div><div style="font-size:10px;color:var(--mu)">Resale prices removed: no reliable free source</div></div>
+  <div class="inn"><div class="sale-items" id="drop-grid"></div></div>
 </div>
-
 <!-- SEEN ON -->
 <div class="pg" id="pg-seenon">
   <div class="hero">
@@ -1961,7 +1736,7 @@ a.so-row:hover .so-who{text-decoration:underline}
 <!-- MOBILE TAB BAR -->
 <div class="tbar" style="padding:0 2px;">
   <button class="tb2 on" id="tb-home" onclick="showPage('home');SQ_closeMore()"><span class="tbi">⌂</span>Home</button>
-  <button class="tb2" id="tb-drops" onclick="showPage('drops');SQ_closeMore()"><span class="tbi">✶</span>Drops</button>
+  <button class="tb2" id="tb-drops" onclick="showPage('drops');SQ_closeMore()"><span class="tbi">✶</span>New In</button>
   <button class="tb2" id="tb-seenon" onclick="showPage('seenon');SQ_closeMore()"><span class="tbi">◈</span>News</button>
   <button class="tb2" id="tb-sale" onclick="showPage('sale');SQ_closeMore()"><span class="tbi">%</span>Sale</button>
   <button class="tb2" id="tb-more" onclick="SQ_openMore()"><span class="tbi">⋯</span>More</button>
@@ -1989,9 +1764,9 @@ a.so-row:hover .so-who{text-decoration:underline}
 <footer>
   <div><div class="fc">SHOPIQ</div><span class="fl" style="font-size:10px;color:var(--fa);line-height:1.7">Tracking brands with no Korea official store — international direct ship or forwarding only.</span></div>
   <div><div class="fc">How to use</div>
-    <span class="fl">Drops — live collab & limited edition drops</span>
-    <span class="fl">Calendar — all drops at a glance</span>
-    <span class="fl">Resale — resale price vs retail</span>
+    <span class="fl">New In — products published in the last 14 days</span>
+    <span class="fl">Timeline — launches day by day</span>
+    <span class="fl">Price Drops — lower than the previous check</span>
     <span class="fl">News — fashion &amp; retail headlines, auto-collected</span>
     <span class="fl">Sale — all-brand sale monitoring</span>
     <span class="fl">KR Ship — customs calculator + forwarding guide</span>
@@ -2132,6 +1907,7 @@ function navCal(dir){
 }
 
 function renderCal(){
+  if(!document.getElementById('cal-month-title')) return; // old drop calendar removed; Timeline replaces it
   const months=['January','February','March','April','May','June','July','August','September','October','November','December'];
   document.getElementById('cal-month-title').textContent=months[calMonth]+' '+calYear;
   const grid=document.getElementById('cal-grid');
@@ -2243,7 +2019,7 @@ function updateTimestamps(saleAt){
   set('last-updated-time',sale);
   set('sale-sync-time',saleAt?'collected '+sale:'not available');
   set('upd-sale',sale);
-  ['upd-drops','upd-resale'].forEach(id=>set(id,'Jun 2026'));
+  
 }
 
 // LIVE SALE DATA: data/sales.json, refreshed every 6h by GitHub Actions
@@ -2267,8 +2043,76 @@ function renderLiveSales(d){
   n('sale-n-items',total);
   n('rstat',brands.length+' stores · '+total+' items 20%+ off');
   if(items[0]){const im=document.getElementById('vis-sale-img');if(im&&items[0].img)im.src=items[0].img;n('vis-sale-bdg','UP TO '+items[0].pct+'%');}
+  const hs=document.getElementById('home-sale');if(hs)hs.innerHTML=items.slice(0,6).map(sqCard).join('');
   updateTimestamps(d.fetched_at);
 }
+
+// ── NEW IN / TIMELINE / PRICE DROPS (data/*.json, refreshed every 6h) ──
+const sqEsc=t=>String(t||'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const sqCur=(v,c)=>{try{return new Intl.NumberFormat('en-US',{style:'currency',currency:c||'USD',maximumFractionDigits:0}).format(v);}catch(e){return v;}};
+const sqWhen=d=>{const t=new Date(d);return t.toLocaleDateString('en-US',{month:'short',day:'numeric'})+' '+t.toLocaleTimeString('en-US',{hour:'2-digit',minute:'2-digit'});};
+function sqCard(t){
+  const price = t.compare ? `<s>${sqCur(t.compare,t.currency)}</s> ${sqCur(t.price,t.currency)} <span>-${t.pct}%</span>`
+    : t.old ? `<s>${sqCur(t.old,t.currency)}</s> ${sqCur(t.new,t.currency)} <span>-${t.pct}%</span>`
+    : sqCur(t.price,t.currency);
+  const note = t.published_at ? `<div class="si-n">Published ${new Date(t.published_at).toLocaleDateString('en-US',{month:'short',day:'numeric'})}</div>`
+    : t.detected_at ? `<div class="si-n">Detected ${sqWhen(t.detected_at)}</div>` : '';
+  return `<a class="si" href="${sqEsc(t.url)}" target="_blank" rel="noopener">${t.img?`<img src="${sqEsc(t.img)}" alt="" loading="lazy">`:'<div class="si-ph"></div>'}<div class="si-b">${sqEsc(t.brand)}</div><div class="si-t">${sqEsc(t.title)}</div><div class="si-p">${price}</div>${note}</a>`;
+}
+function sqHeadlines(list){
+  return list.length?'<div class="so-list">'+list.map(a=>`<a class="so-row" href="${sqEsc(a.url)}" target="_blank" rel="noopener"><div class="so-date">${new Date(a.date).toLocaleDateString('en-US',{month:'short',day:'numeric'})}<br>${sqEsc(a.source)}</div><div class="so-main"><div class="so-who">${sqEsc(a.title)}</div>${a.brands.length?`<div class="so-item">${a.brands.map(b=>`<span class="so-tag">${sqEsc(b)}</span>`).join('')}</div>`:''}</div><div class="so-side">Read ↗</div></a>`).join('')+'</div>'
+    :'<div class="se" style="padding:1rem">No collab or launch headlines right now.</div>';
+}
+const SQD={arrivals:null,news:null};
+function renderArrivals(brand='all'){
+  const a=SQD.arrivals; if(!a) return;
+  const list=brand==='all'?a.items:a.items.filter(x=>x.brand===brand);
+  const g=document.getElementById('new-grid'); if(g) g.innerHTML=list.slice(0,60).map(sqCard).join('')||'<div class="se">No new products in this window.</div>';
+}
+function renderTimeline(){
+  const el=document.getElementById('timeline'); if(!el||!SQD.arrivals) return;
+  const days={};
+  const key=d=>d.slice(0,10);
+  SQD.arrivals.items.forEach(x=>{const k=key(x.published_at);(days[k]=days[k]||{brands:{},news:[]}).brands[x.brand]=(days[k].brands[x.brand]||0)+1;});
+  (SQD.news?SQD.news.articles:[]).filter(a=>a.topics.includes('collab')).forEach(a=>{const k=key(a.date);(days[k]=days[k]||{brands:{},news:[]}).news.push(a);});
+  const cutoff=new Date(Date.now()-14*864e5).toISOString().slice(0,10);
+  const ks=Object.keys(days).filter(k=>k>=cutoff).sort().reverse();
+  el.innerHTML=ks.map(k=>{
+    const d=days[k];
+    const b=Object.entries(d.brands).sort((x,y)=>y[1]-x[1]).map(([n,c])=>`<span class="so-tag">${sqEsc(n)} · ${c} new</span>`).join('');
+    const n=d.news.map(a=>`<div class="tl-news"><a href="${sqEsc(a.url)}" target="_blank" rel="noopener">${sqEsc(a.title)}</a> <span>${sqEsc(a.source)}</span></div>`).join('');
+    return `<div class="tl-day"><div class="tl-date">${new Date(k+'T12:00:00Z').toLocaleDateString('en-US',{weekday:'short',month:'short',day:'numeric'})}</div><div>${b}${n}</div></div>`;
+  }).join('')||'<div class="se">No activity yet.</div>';
+}
+fetch('data/arrivals.json',{cache:'no-store'}).then(r=>r.json()).then(a=>{
+  SQD.arrivals=a;
+  const brands=[...new Set(a.items.map(x=>x.brand))];
+  const n=(id,v)=>{const el=document.getElementById(id);if(el)el.textContent=v;};
+  n('new-count',a.items.length); n('new-brands',brands.length); n('new-sync','collected '+sqWhen(a.fetched_at)); n('upd-drops',sqWhen(a.fetched_at));
+  const f=document.getElementById('new-filter');
+  if(f) f.innerHTML=`<button class="fb on" onclick="sqNewFilter('all',this)">All</button>`+brands.map(b=>`<button class="fb" onclick="sqNewFilter(this.dataset.b,this)" data-b="${sqEsc(b)}">${sqEsc(b)}</button>`).join('');
+  renderArrivals(); renderTimeline();
+  const hn=document.getElementById('home-new'); if(hn) hn.innerHTML=a.items.slice(0,6).map(sqCard).join('');
+  if(a.items[0]){const im=document.getElementById('vis-new-img');if(im&&a.items[0].img)im.src=a.items[0].img;n('vis-new-bdg',a.items.length+' NEW');}
+}).catch(()=>{});
+function sqNewFilter(b,btn){document.querySelectorAll('#new-filter .fb').forEach(x=>x.classList.remove('on'));btn.classList.add('on');renderArrivals(b);}
+fetch('data/news.json',{cache:'no-store'}).then(r=>r.json()).then(d=>{
+  SQD.news=d;
+  const c=d.articles.filter(a=>a.topics.includes('collab'));
+  const dn=document.getElementById('drops-news'); if(dn) dn.innerHTML=sqHeadlines(c.slice(0,20));
+  const hc=document.getElementById('home-collabs'); if(hc) hc.innerHTML=sqHeadlines(c.slice(0,5));
+  renderTimeline();
+}).catch(()=>{});
+fetch('data/price_drops.json',{cache:'no-store'}).then(r=>r.json()).then(d=>{
+  const n=(id,v)=>{const el=document.getElementById(id);if(el)el.textContent=v;};
+  n('drop-count',d.items.length); n('upd-resale',sqWhen(d.fetched_at));
+  n('drop-sync','last compared '+sqWhen(d.fetched_at)+' · tracking since '+new Date(d.tracking_since).toLocaleDateString('en-US',{month:'short',day:'numeric'}));
+  const g=document.getElementById('drop-grid');
+  if(g) g.innerHTML=d.items.length?d.items.slice(0,60).map(sqCard).join('')
+    :`<div class="se" style="padding:1rem">${d.compared_with_previous?'No price drops in the last 7 days.':'Tracking started — drops appear after the next collection.'}</div>`;
+  if(d.items[0]){const im=document.getElementById('vis-drop-img');if(im&&d.items[0].img)im.src=d.items[0].img;n('vis-drop-bdg',d.items.length+' DROPS');}
+}).catch(()=>{});
+
 fetch('data/sales.json',{cache:'no-store'}).then(r=>r.json()).then(renderLiveSales).catch(()=>{updateTimestamps(null);const el=document.getElementById('rstat');if(el)el.textContent='unavailable';});
 
 
