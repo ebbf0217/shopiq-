@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-25T13:01:52+00:00",
+ "fetched_at": "2026-11-25T23:39:26+00:00",
  "min_pct": 20,
  "brands": [
   {
@@ -8,9 +8,9 @@
    "cat": "american",
    "currency": "USD",
    "checked": 2000,
-   "on_sale": 1856,
+   "on_sale": 1851,
    "max_pct": 80,
-   "median_pct": 70,
+   "median_pct": 69,
    "top": [
     {
      "title": "Ultrasoft Polo Sweater | Heather Mid Charcoal",
@@ -83,8 +83,8 @@
    "domain": "www.staud.clothing",
    "cat": "american",
    "currency": "USD",
-   "checked": 1826,
-   "on_sale": 1776,
+   "checked": 1898,
+   "on_sale": 1848,
    "max_pct": 75,
    "median_pct": 30,
    "top": [
@@ -137,20 +137,20 @@
      "img": "https://cdn.shopify.com/s/files/1/1689/2633/files/STAUD_HARLOWBAG_STORMFUR_ECOMM_1.jpg?v=1761875052&width=400"
     },
     {
+     "title": "Coconut Short | Black",
+     "pct": 55,
+     "price": 83.0,
+     "compare": 185.0,
+     "url": "https://www.staud.clothing/products/coconut-short-black",
+     "img": "https://cdn.shopify.com/s/files/1/1689/2633/products/CoconutShortGigiTopBlack-01914.jpg?v=1555466209&width=400"
+    },
+    {
      "title": "Binx Leather Dress | Distressed Brown",
      "pct": 55,
      "price": 583.0,
      "compare": 1295.0,
      "url": "https://www.staud.clothing/products/binx-leather-dress-distressed-brown",
      "img": "https://cdn.shopify.com/s/files/1/1689/2633/files/202-BINX_LEATHER_DRESS_DSTB_0182_web_375547cc-2d7d-4c6e-82db-c9a3be3585a3.jpg?v=1761875084&width=400"
-    },
-    {
-     "title": "Crest Skirt | Leaf Suede",
-     "pct": 50,
-     "price": 398.0,
-     "compare": 795.0,
-     "url": "https://www.staud.clothing/products/crest-suede-skirt-leaf",
-     "img": "https://cdn.shopify.com/s/files/1/1689/2633/files/80-CREST_SKIRT_LEF_0731_web.jpg?v=1761776012&width=400"
     }
    ]
   },
@@ -160,7 +160,7 @@
    "cat": "multi",
    "currency": "USD",
    "checked": 2000,
-   "on_sale": 1638,
+   "on_sale": 1477,
    "max_pct": 80,
    "median_pct": 40,
    "top": [
@@ -235,8 +235,8 @@
    "domain": "www.loveshackfancy.com",
    "cat": "american",
    "currency": "USD",
-   "checked": 1922,
-   "on_sale": 989,
+   "checked": 1913,
+   "on_sale": 978,
    "max_pct": 86,
    "median_pct": 40,
    "top": [
@@ -311,8 +311,8 @@
    "domain": "www.faithfullthebrand.com",
    "cat": "american",
    "currency": "USD",
-   "checked": 894,
-   "on_sale": 709,
+   "checked": 893,
+   "on_sale": 708,
    "max_pct": 81,
    "median_pct": 40,
    "top": [
@@ -383,88 +383,12 @@
    ]
   },
   {
-   "brand": "Rowing Blazers",
-   "domain": "www.rowingblazers.com",
-   "cat": "american",
-   "currency": "USD",
-   "checked": 850,
-   "on_sale": 557,
-   "max_pct": 70,
-   "median_pct": 50,
-   "top": [
-    {
-     "title": "Men's Canvas Printed Chore Jacket RB All Over",
-     "pct": 70,
-     "price": 74.4,
-     "compare": 248.0,
-     "url": "https://www.rowingblazers.com/products/mens-canvas-printed-chore-jacket-rb-all-over",
-     "img": "https://cdn.shopify.com/s/files/1/1770/6343/files/RB-01JAN25-JACKET-YELLOW-ALLOVER-PRINT-FRONT.jpg?v=1777664950&width=400"
-    },
-    {
-     "title": "Men's Canvas Printed Workwear Pant RB All Over",
-     "pct": 70,
-     "price": 59.4,
-     "compare": 198.0,
-     "url": "https://www.rowingblazers.com/products/mens-canvas-printed-workwear-pant-geo-floral-copy",
-     "img": "https://cdn.shopify.com/s/files/1/1770/6343/files/RB-02FEB25-PANTS-YELLOW-PATTERN-ALLOVER-FRONT.jpg?v=1777664740&width=400"
-    },
-    {
-     "title": "Men's Plain Weave Blazer Yellow Plaid",
-     "pct": 70,
-     "price": 119.4,
-     "compare": 398.0,
-     "url": "https://www.rowingblazers.com/products/mens-plain-weave-blazer-yellow-plaid",
-     "img": "https://cdn.shopify.com/s/files/1/1770/6343/files/RB-6JUN25_BLAZER_CHECK_YELLOW-FRONT.jpg?v=1777665053&width=400"
-    },
-    {
-     "title": "Men's Cotton Linen Camp Shirt NYC Map Print",
-     "pct": 70,
-     "price": 56.4,
-     "compare": 188.0,
-     "url": "https://www.rowingblazers.com/products/mens-cotton-linen-camp-shirt-nyc-map-print",
-     "img": "https://cdn.shopify.com/s/files/1/1770/6343/files/RB-6JUN25_SS_SHIRT_ALL_OVER_PRINT_YELLOW-FRONT.jpg?v=1777472851&width=400"
-    },
-    {
-     "title": "Men's Magic 8™ Ball Cotton Sweater Blue",
-     "pct": 70,
-     "price": 53.4,
-     "compare": 178.0,
-     "url": "https://www.rowingblazers.com/products/mens-magic-8-ball-cotton-sweater-blue",
-     "img": "https://cdn.shopify.com/s/files/1/1770/6343/files/RB-07JULY25_SWEATER_1_BLUE.jpg?v=1774313295&width=400"
-    },
-    {
-     "title": "Men's UNO™ Draw Four Cotton Sweater Black",
-     "pct": 70,
-     "price": 59.4,
-     "compare": 198.0,
-     "url": "https://www.rowingblazers.com/products/mens-uno-draw-four-cotton-sweater-black",
-     "img": "https://cdn.shopify.com/s/files/1/1770/6343/files/FLATS_2.jpg?v=1777659524&width=400"
-    },
-    {
-     "title": "Men's UNO™ Wild Cotton Sweater Multi-Color",
-     "pct": 70,
-     "price": 68.4,
-     "compare": 228.0,
-     "url": "https://www.rowingblazers.com/products/mens-uno-wild-cotton-sweater-multi-color",
-     "img": "https://cdn.shopify.com/s/files/1/1770/6343/files/RB-10OCT25-WILD-COTTON-SWEATER-MULTI-COLOR-FRONT.jpg?v=1763472249&width=400"
-    },
-    {
-     "title": "Autumn Striped Cotton Sweater Red",
-     "pct": 70,
-     "price": 59.4,
-     "compare": 198.0,
-     "url": "https://www.rowingblazers.com/products/mens-autumn-striped-cotton-sweater-red",
-     "img": "https://cdn.shopify.com/s/files/1/1770/6343/files/RB-09SEP25_SWEATER_1_RED-FRONT.jpg?v=1773712492&width=400"
-    }
-   ]
-  },
-  {
    "brand": "Ulla Johnson",
    "domain": "www.ullajohnson.com",
    "cat": "designer",
    "currency": "USD",
-   "checked": 1323,
-   "on_sale": 523,
+   "checked": 1320,
+   "on_sale": 520,
    "max_pct": 50,
    "median_pct": 40,
    "top": [
@@ -535,11 +459,87 @@
    ]
   },
   {
+   "brand": "Rowing Blazers",
+   "domain": "www.rowingblazers.com",
+   "cat": "american",
+   "currency": "USD",
+   "checked": 707,
+   "on_sale": 414,
+   "max_pct": 70,
+   "median_pct": 50,
+   "top": [
+    {
+     "title": "Men's Canvas Printed Chore Jacket RB All Over",
+     "pct": 70,
+     "price": 74.4,
+     "compare": 248.0,
+     "url": "https://www.rowingblazers.com/products/mens-canvas-printed-chore-jacket-rb-all-over",
+     "img": "https://cdn.shopify.com/s/files/1/1770/6343/files/RB-01JAN25-JACKET-YELLOW-ALLOVER-PRINT-FRONT.jpg?v=1777664950&width=400"
+    },
+    {
+     "title": "Men's Canvas Printed Workwear Pant RB All Over",
+     "pct": 70,
+     "price": 59.4,
+     "compare": 198.0,
+     "url": "https://www.rowingblazers.com/products/mens-canvas-printed-workwear-pant-geo-floral-copy",
+     "img": "https://cdn.shopify.com/s/files/1/1770/6343/files/RB-02FEB25-PANTS-YELLOW-PATTERN-ALLOVER-FRONT.jpg?v=1777664740&width=400"
+    },
+    {
+     "title": "Men's Plain Weave Blazer Yellow Plaid",
+     "pct": 70,
+     "price": 119.4,
+     "compare": 398.0,
+     "url": "https://www.rowingblazers.com/products/mens-plain-weave-blazer-yellow-plaid",
+     "img": "https://cdn.shopify.com/s/files/1/1770/6343/files/RB-6JUN25_BLAZER_CHECK_YELLOW-FRONT.jpg?v=1777665053&width=400"
+    },
+    {
+     "title": "Men's UNO™ Draw Four Cotton Sweater Black",
+     "pct": 70,
+     "price": 59.4,
+     "compare": 198.0,
+     "url": "https://www.rowingblazers.com/products/mens-uno-draw-four-cotton-sweater-black",
+     "img": "https://cdn.shopify.com/s/files/1/1770/6343/files/FLATS_2.jpg?v=1777659524&width=400"
+    },
+    {
+     "title": "Men's UNO™ Wild Cotton Sweater Multi-Color",
+     "pct": 70,
+     "price": 68.4,
+     "compare": 228.0,
+     "url": "https://www.rowingblazers.com/products/mens-uno-wild-cotton-sweater-multi-color",
+     "img": "https://cdn.shopify.com/s/files/1/1770/6343/files/RB-10OCT25-WILD-COTTON-SWEATER-MULTI-COLOR-FRONT.jpg?v=1763472249&width=400"
+    },
+    {
+     "title": "Men's Knot Hoodie Classic Navy",
+     "pct": 65,
+     "price": 51.8,
+     "compare": 148.0,
+     "url": "https://www.rowingblazers.com/products/mens-knot-hoodie-classic-navy",
+     "img": "https://cdn.shopify.com/s/files/1/1770/6343/files/RB-03MAR25-HOODIE-NAVY-FRONT_ff73bdae-8dc2-4b89-99db-92957bbe3965.jpg?v=1777665738&width=400"
+    },
+    {
+     "title": "Women's Stripe Rugby Dress Croquet",
+     "pct": 60,
+     "price": 79.2,
+     "compare": 198.0,
+     "url": "https://www.rowingblazers.com/products/womens-stripe-rugby-dress-croquet",
+     "img": "https://cdn.shopify.com/s/files/1/1770/6343/files/RB0-5MAY25_W_RUGBY_DRESS_MULTI_COLOR_FRONT_dd8764f3-ca73-4ff7-b49a-7d3c2ef9795c.jpg?v=1791479196&width=400"
+    },
+    {
+     "title": "Women's Cotton Center Stripe Pieced Rugby Dress Navy & Red",
+     "pct": 60,
+     "price": 79.2,
+     "compare": 198.0,
+     "url": "https://www.rowingblazers.com/products/womens-cotton-center-stripe-pieced-rugby-dress-navy-red",
+     "img": "https://cdn.shopify.com/s/files/1/1770/6343/files/WSU26D08K03RNS_197.jpg?v=1778197710&width=400"
+    }
+   ]
+  },
+  {
    "brand": "KHAITE",
    "domain": "www.khaite.com",
    "cat": "designer",
    "currency": "USD",
-   "checked": 1230,
+   "checked": 1231,
    "on_sale": 391,
    "max_pct": 50,
    "median_pct": 40,
@@ -843,19 +843,11 @@
    "domain": "www.allbirds.com",
    "cat": "american",
    "currency": "USD",
-   "checked": 355,
-   "on_sale": 204,
-   "max_pct": 75,
+   "checked": 351,
+   "on_sale": 200,
+   "max_pct": 70,
    "median_pct": 40,
    "top": [
-    {
-     "title": "Trino® Tubers - Navy Night",
-     "pct": 75,
-     "price": 4.0,
-     "compare": 16.0,
-     "url": "https://www.allbirds.com/products/trino-tubers-navy-night",
-     "img": "https://cdn.shopify.com/s/files/1/1104/4168/products/ST1UNNT_SOCKS_NAVY_NIGHT_FRONT.png?v=1666820168&width=400"
-    },
     {
      "title": "Men's Allbirds Slide - Verdant Green",
      "pct": 70,
@@ -911,6 +903,14 @@
      "compare": 75.0,
      "url": "https://www.allbirds.com/products/womens-cruiser-canvas-auburn",
      "img": "https://cdn.shopify.com/s/files/1/1104/4168/files/A12438_26Q1_Cruiser-Canvas-Auburn-Warm-White_PDP_LEFT_cceb74e2-4e2c-42cb-91b4-4b23348c9baa.png?v=1768946300&width=400"
+    },
+    {
+     "title": "Women's Tree Breezer - Jet Black (Black Sole)",
+     "pct": 70,
+     "price": 31.5,
+     "compare": 105.0,
+     "url": "https://www.allbirds.com/products/womens-tree-breezers-jet-black",
+     "img": "https://cdn.shopify.com/s/files/1/1104/4168/files/TB1WJBK_SHOE_LEFT_GLOBAL_WOMENS_TREE_BREEZER_JET_BLACK_BLACK.png?v=1751060487&width=400"
     }
    ]
   },
@@ -995,7 +995,7 @@
    "domain": "www.apc.fr",
    "cat": "french",
    "currency": "EUR",
-   "checked": 1138,
+   "checked": 1141,
    "on_sale": 173,
    "max_pct": 50,
    "median_pct": 50,
@@ -1267,31 +1267,11 @@
    ]
   },
   {
-   "brand": "TOTEME",
-   "domain": "www.toteme.com",
-   "cat": "scandi",
-   "currency": "SEK",
-   "checked": 1931,
-   "on_sale": 1,
-   "max_pct": 60,
-   "median_pct": 60,
-   "top": [
-    {
-     "title": "Fine knit cardigan black",
-     "pct": 60,
-     "price": 1400.0,
-     "compare": 3500.0,
-     "url": "https://www.toteme.com/products/fine-knit-cardigan-black",
-     "img": "https://cdn.shopify.com/s/files/1/0480/1141/1607/files/TOTEME_ECOM_PF24_CARRY_OVER_KNITWEAR_243-WRT0329-YA0079_FINE_KNIT_CARDIGAN_BLACK_A.jpg?v=1745846921&width=400"
-    }
-   ]
-  },
-  {
    "brand": "AGOLDE",
    "domain": "www.agolde.com",
    "cat": "designer",
    "currency": "USD",
-   "checked": 659,
+   "checked": 664,
    "on_sale": 0,
    "max_pct": 0,
    "median_pct": 0,
@@ -1320,11 +1300,22 @@
    "top": []
   },
   {
+   "brand": "TOTEME",
+   "domain": "www.toteme.com",
+   "cat": "scandi",
+   "currency": "SEK",
+   "checked": 1930,
+   "on_sale": 0,
+   "max_pct": 0,
+   "median_pct": 0,
+   "top": []
+  },
+  {
    "brand": "Sporty & Rich",
    "domain": "www.sportyandrich.com",
    "cat": "american",
    "currency": "USD",
-   "checked": 740,
+   "checked": 1310,
    "on_sale": 0,
    "max_pct": 0,
    "median_pct": 0,
@@ -1335,7 +1326,7 @@
    "domain": "www.aimeleondore.com",
    "cat": "american",
    "currency": "USD",
-   "checked": 1095,
+   "checked": 1096,
    "on_sale": 0,
    "max_pct": 0,
    "median_pct": 0,

@@ -1,34 +1,436 @@
 {
- "fetched_at": "2026-11-25T13:04:49+00:00",
+ "fetched_at": "2026-11-25T23:42:26+00:00",
  "articles": [
   {
-   "title": "The Garment Pre-Fall 2027",
-   "source": "Vogue",
-   "url": "https://www.vogue.com/fashion-shows/pre-fall-2027/the-garment",
-   "date": "2026-11-25T13:04:01+00:00",
-   "brands": [],
-   "topics": []
-  },
-  {
-   "title": "Baum und Pferdgarten Pre-Fall 2027",
-   "source": "Vogue",
-   "url": "https://www.vogue.com/fashion-shows/pre-fall-2027/baum-und-pferdgarten",
-   "date": "2026-11-25T13:04:01+00:00",
-   "brands": [],
-   "topics": []
-  },
-  {
-   "title": "Ksenia Schnaider on Designing Denim Through Creative Chaos",
+   "title": "Higher Fuel Costs Weigh on Apparel Retail Earnings",
    "source": "WWD",
-   "url": "https://wwd.com/sourcing-journal/sj-denim/ksenia-schnaider-designing-denim-through-creative-chaos-1239462609/",
-   "date": "2026-11-25T13:00:00+00:00",
+   "url": "https://wwd.com/sourcing-journal/logistics/fuel-costs-diesel-freight-burlington-abercrombie-fitch-kohls-urban-outfitters-gap-dollar-tree-1239466545/",
+   "date": "2026-11-25T23:10:00+00:00",
+   "brands": [],
+   "topics": [
+    "business"
+   ]
+  },
+  {
+   "title": "Too Much, Too Little: Bangladesh’s Wage Hike Pleases No One",
+   "source": "WWD",
+   "url": "https://wwd.com/sourcing-journal/sustainability/bangladesh-minimum-wage-increase-garment-workers-1239466520/",
+   "date": "2026-11-25T22:58:46+00:00",
    "brands": [],
    "topics": []
   },
   {
-   "title": "Art Basel Miami Beach Announces Swizz Beatz as Host and 070 Shake as Performer for the 2026 Art Basel Awards Night",
+   "title": "The Best Moisturizers for Softer, Smoother, More Resilient Skin After 40",
+   "source": "Vogue",
+   "url": "https://www.vogue.com/article/moisturizer-for-aging-skin",
+   "date": "2026-11-25T22:56:46+00:00",
+   "brands": [],
+   "topics": []
+  },
+  {
+   "title": "Summer’s Coolest Manicure Is Fall-Approved, Too, According To Hailey Bieber",
+   "source": "Vogue",
+   "url": "https://www.vogue.com/article/hailey-bieber-charli-xcx-fall-blue-manicure",
+   "date": "2026-11-25T22:52:57+00:00",
+   "brands": [],
+   "topics": []
+  },
+  {
+   "title": "Michael Kors Bags Are Up to 75% Off for Black Friday, With Viral ‘Hamilton’ Satchel Among Discounted Picks",
    "source": "WWD",
-   "url": "https://wwd.com/fashion-news/fashion-scoops/art-basel-miami-beach-swizz-beatz-host-2026-art-basel-awards-night-1239464206/",
+   "url": "https://wwd.com/shop/shop-fashion/michael-kors-black-friday-sale-2026-purse-tote-deal-discount-1239429104/",
+   "date": "2026-11-25T21:58:16+00:00",
+   "brands": [],
+   "topics": [
+    "sale"
+   ]
+  },
+  {
+   "title": "Your Winter Plans Called and They’re Requesting a Fair Isle Knit",
+   "source": "Vogue",
+   "url": "https://www.vogue.com/article/how-to-style-fair-isle-knits",
+   "date": "2026-11-25T21:40:59+00:00",
+   "brands": [],
+   "topics": []
+  },
+  {
+   "title": "In Acclaimed 2014 Photography Book, Veruschka Called Herself An ‘Avatar for Metamorphosis’",
+   "source": "WWD",
+   "url": "https://wwd.com/shop/shop-fashion/veruschka-model-photography-book-biography-buy-read-online-1239465432/",
+   "date": "2026-11-25T21:32:46+00:00",
+   "brands": [],
+   "topics": []
+  },
+  {
+   "title": "Where to Watch the (Postponed) 2026 Macy’s Thanksgiving Day Parade Online for Free",
+   "source": "WWD",
+   "url": "https://wwd.com/shop/shop-fashion/how-to-watch-2026-macys-thanksgiving-day-parade-online-free-1239465042/",
+   "date": "2026-11-25T21:14:23+00:00",
+   "brands": [],
+   "topics": []
+  },
+  {
+   "title": "Macy’s Postpones Thanksgiving Parade to Saturday",
+   "source": "WWD",
+   "url": "https://wwd.com/business-news/retail/macys-postpones-thanksgiving-parade-first-time-ever-1239466494/",
+   "date": "2026-11-25T21:00:50+00:00",
+   "brands": [],
+   "topics": []
+  },
+  {
+   "title": "How Harry and Meghan Could Avoid Royal Headaches During the High-stakes Holiday Season in the U.K.",
+   "source": "WWD",
+   "url": "https://wwd.com/pop-culture/celebrity-news/harry-meghan-royal-family-christmas-holiday-etiquette-1239427666/",
+   "date": "2026-11-25T20:55:14+00:00",
+   "brands": [],
+   "topics": []
+  },
+  {
+   "title": "For Shoe Brands, More Tariffs Are on the Way",
+   "source": "WWD",
+   "url": "https://wwd.com/footwear-news/shoe-industry-news/footwear-tariffs-section-301-china-vietnam-february-2027-1239466305/",
+   "date": "2026-11-25T20:50:47+00:00",
+   "brands": [],
+   "topics": []
+  },
+  {
+   "title": "20+ Best Sweatpants for Relaxed (Yet Refined) Lounging",
+   "source": "Vogue",
+   "url": "https://www.vogue.com/article/best-sweatpants-for-women",
+   "date": "2026-11-25T20:35:51+00:00",
+   "brands": [],
+   "topics": []
+  },
+  {
+   "title": "11 Best Lab-Grown Diamonds 2026: Fine Jewelry to Engagement Rings",
+   "source": "Vogue",
+   "url": "https://www.vogue.com/article/best-lab-grown-diamonds",
+   "date": "2026-11-25T20:33:48+00:00",
+   "brands": [],
+   "topics": []
+  },
+  {
+   "title": "Yohji’s Greatest Art Show Has Always Been His Leather Jackets",
+   "source": "Highsnobiety",
+   "url": "https://www.highsnobiety.com/p/yohji-yamamoto-suzume-uchida/",
+   "date": "2026-11-25T20:33:00+00:00",
+   "brands": [],
+   "topics": []
+  },
+  {
+   "title": "6 Jewel-Toned Outfits to Wear to Every Holiday Party This Season",
+   "source": "Vogue",
+   "url": "https://www.vogue.com/article/jewel-toned-outfits",
+   "date": "2026-11-25T20:13:19+00:00",
+   "brands": [],
+   "topics": []
+  },
+  {
+   "title": "Nike's Latest Winter Tank Is Built for Anything",
+   "source": "Highsnobiety",
+   "url": "https://www.highsnobiety.com/p/nike-goadome-low-foam-black-dark-smoke-grey/",
+   "date": "2026-11-25T20:10:00+00:00",
+   "brands": [],
+   "topics": []
+  },
+  {
+   "title": "Why Kohl’s Footwear Sales Grew in Q3 and Shoe Station’s Didn’t",
+   "source": "WWD",
+   "url": "https://wwd.com/footwear-news/shoe-industry-news/kohls-value-shoe-station-rebanner-shoe-carnival-1239465927/",
+   "date": "2026-11-25T20:08:44+00:00",
+   "brands": [],
+   "topics": []
+  },
+  {
+   "title": "Turning Black Friday Bargain Hunters Into Long-Term Customers",
+   "source": "WWD",
+   "url": "https://wwd.com/sourcing-journal/industry-news/turning-bargain-hunters-into-long-term-customers-1239466291/",
+   "date": "2026-11-25T19:51:09+00:00",
+   "brands": [],
+   "topics": [
+    "sale"
+   ]
+  },
+  {
+   "title": "“I Just Wanted to Feel Like Myself”—Whitney Peak On Her ‘Hunger Games’ Press Fashion",
+   "source": "Vogue",
+   "url": "https://www.vogue.com/slideshow/whitney-peak-the-hunger-games-sunrise-on-the-reaping-press-tour-style",
+   "date": "2026-11-25T19:40:41+00:00",
+   "brands": [],
+   "topics": []
+  },
+  {
+   "title": "Shake Shack Just Made Your Next Luxury Bag",
+   "source": "Highsnobiety",
+   "url": "https://www.highsnobiety.com/p/shake-shack-truffle-duffle-bag/",
+   "date": "2026-11-25T19:34:09+00:00",
+   "brands": [],
+   "topics": []
+  },
+  {
+   "title": "Conquering the Holiday Gift Scramble at Lids",
+   "source": "Hypebeast",
+   "url": "https://hypebeast.com/2026/11/conquering-the-holiday-gift-scramble-at-lids",
+   "date": "2026-11-25T19:05:38+00:00",
+   "brands": [],
+   "topics": []
+  },
+  {
+   "title": "24 Hours with Red Bull during Latin Music’s Busiest Week",
+   "source": "Hypebeast",
+   "url": "https://hypebeast.com/2026/11/24-hours-with-red-bull-during-latin-grammys-2026-hypebeast-latam-info",
+   "date": "2026-11-25T18:51:49+00:00",
+   "brands": [],
+   "topics": []
+  },
+  {
+   "title": "Nike’s Remastered Air Force 1 Sneaker Is Getting a Limited-Edition Metallic Makeover",
+   "source": "Footwear News",
+   "url": "https://wwd.com/footwear-news/sneaker-news/nike-air-force-1-01-low-qs-metallic-platinum-release-date-ja0247-001-1239466239/",
+   "date": "2026-11-25T18:23:04+00:00",
+   "brands": [],
+   "topics": []
+  },
+  {
+   "title": "NANGA to Host Limited-Time Pop-Up Store in New York",
+   "source": "Hypebeast",
+   "url": "https://hypebeast.com/2026/11/nanga-host-limited-time-pop-up-store-new-york",
+   "date": "2026-11-25T18:08:35+00:00",
+   "brands": [],
+   "topics": []
+  },
+  {
+   "title": "Artist Uniform: Nobody Does Workwear Like These Black Artists",
+   "source": "Highsnobiety",
+   "url": "https://www.highsnobiety.com/p/another-view-black-artists-interview/",
+   "date": "2026-11-25T18:00:02+00:00",
+   "brands": [],
+   "topics": []
+  },
+  {
+   "title": "Sebastian Jean is Giving the Gift of Good Taste with Calvin Klein",
+   "source": "Highsnobiety",
+   "url": "https://www.highsnobiety.com/p/sebastian-jean-gift-guide-calvin-klein/",
+   "date": "2026-11-25T17:56:41+00:00",
+   "brands": [
+    "Calvin Klein"
+   ],
+   "topics": []
+  },
+  {
+   "title": "Underground Rappers Are (Finally) Fashion’s Hottest Commodity",
+   "source": "Highsnobiety",
+   "url": "https://www.highsnobiety.com/p/yeat-fakemink-xaviersobased-ugg-underground-rappers/",
+   "date": "2026-11-25T17:56:31+00:00",
+   "brands": [],
+   "topics": []
+  },
+  {
+   "title": "Liz Hurley’s Wedding Guest Dress Breaks All the Rules (In the Best Way)",
+   "source": "Vogue",
+   "url": "https://www.vogue.com/article/liz-hurley-wedding-guest-dress-breaks-all-the-rules-2026-11-25",
+   "date": "2026-11-25T17:27:18+00:00",
+   "brands": [],
+   "topics": []
+  },
+  {
+   "title": "Sole Food: We All Deserve a Whimsical Lil’ Sneaker-Heel",
+   "source": "Highsnobiety",
+   "url": "https://www.highsnobiety.com/p/sneaker-heels-trend/",
+   "date": "2026-11-25T17:23:43+00:00",
+   "brands": [],
+   "topics": []
+  },
+  {
+   "title": "Must Read: Shein Settles FTC Complaint for $100 Million, Abercrombie & Fitch Raises Outlook After Record Q3",
+   "source": "Fashionista",
+   "url": "https://fashionista.com/2026/11/shein-settles-ftc-complaint",
+   "date": "2026-11-25T17:00:00+00:00",
+   "brands": [
+    "Abercrombie"
+   ],
+   "topics": []
+  },
+  {
+   "title": "Not Even The Row and Rolex Are Immune to Black Friday",
+   "source": "Highsnobiety",
+   "url": "https://www.highsnobiety.com/p/neither-the-row-nor-rolex-are-immune-to-black-friday/",
+   "date": "2026-11-25T16:53:22+00:00",
+   "brands": [
+    "The Row"
+   ],
+   "topics": [
+    "sale"
+   ]
+  },
+  {
+   "title": "Still, No One Does Thanksgiving Style Quite Like 'Gossip Girl’s' Blair Waldorf",
+   "source": "Vogue",
+   "url": "https://www.vogue.com/article/gossip-girl-thanksgiving-style",
+   "date": "2026-11-25T16:48:51+00:00",
+   "brands": [],
+   "topics": []
+  },
+  {
+   "title": "Shein to pay $100M in FTC settlement over deceptive practices claims",
+   "source": "Retail Dive",
+   "url": "https://www.retaildive.com/news/shein-to-pay-100m-in-ftc-settlement-over-deceptive-practices-claims/875748/",
+   "date": "2026-11-25T16:25:00+00:00",
+   "brands": [],
+   "topics": []
+  },
+  {
+   "title": "First Look: Michael Jordan’s Original Air Jordan 17 Is Coming Back for the First Time Ever",
+   "source": "Footwear News",
+   "url": "https://wwd.com/footwear-news/sneaker-news/air-jordan-17-retro-college-blue-release-date-ja4259-100-1239465939/",
+   "date": "2026-11-25T16:23:55+00:00",
+   "brands": [],
+   "topics": []
+  },
+  {
+   "title": "Hey Dude’s Secret Sauce Is a Human-First Approach Along With Humor",
+   "source": "Footwear News",
+   "url": "https://wwd.com/footwear-news/shoe-industry-news/hey-dude-operations-engagement-consumers-comfort-footwear-1239464652/",
+   "date": "2026-11-25T16:20:20+00:00",
+   "brands": [],
+   "topics": []
+  },
+  {
+   "title": "Infinix Packs Its ZClip 2 Pro Earbuds Into a Snack Bag",
+   "source": "Hypebeast",
+   "url": "https://hypebeast.com/2026/11/infinix-zclip-2-pro-earbuds-snack-bag",
+   "date": "2026-11-25T16:00:47+00:00",
+   "brands": [],
+   "topics": []
+  },
+  {
+   "title": "Can Your Home Boost Your Endorphins? 7 Simple Tips for a Healthier, Happier Living Space",
+   "source": "Vogue",
+   "url": "https://www.vogue.com/article/home-endorphin-boost-7-tips",
+   "date": "2026-11-25T15:58:07+00:00",
+   "brands": [],
+   "topics": []
+  },
+  {
+   "title": "Holiday marketing hits inflection point in 2026: What brands need to know",
+   "source": "Retail Dive",
+   "url": "https://www.retaildive.com/news/holiday-marketing-hits-inflection-point-in-2026-what-brands-need-to-know/875056/",
+   "date": "2026-11-25T15:57:00+00:00",
+   "brands": [],
+   "topics": []
+  },
+  {
+   "title": "Emma Corrin’s Subversive Suiting Game Is Like No Other",
+   "source": "Vogue",
+   "url": "https://www.vogue.com/article/emma-corrin-suiting-style-pride-and-prejudice-2026-11-25",
+   "date": "2026-11-25T15:47:22+00:00",
+   "brands": [],
+   "topics": []
+  },
+  {
+   "title": "Rick Owens Updates Moncler’s Trailgrip Boot in Newest Collab",
+   "source": "Footwear News",
+   "url": "https://wwd.com/footwear-news/shoe-industry-news/rick-owens-moncler-trailgrip-pentalace-boot-release-date-1239465848/",
+   "date": "2026-11-25T15:41:04+00:00",
+   "brands": [],
+   "topics": [
+    "collab"
+   ]
+  },
+  {
+   "title": "Veruschka: The Late ’60s Supermodel’s Best Beauty Looks of All Time",
+   "source": "Vogue",
+   "url": "https://www.vogue.com/article/veruschka-60s-supermodel-best-beauty-looks-graphic-eyes-big-hair",
+   "date": "2026-11-25T15:34:32+00:00",
+   "brands": [],
+   "topics": []
+  },
+  {
+   "title": "Zamna Will Bring 10 Days of Global Dance Music to Tulum for Landmark 10th Anniversary",
+   "source": "Hypebeast",
+   "url": "https://hypebeast.com/2026/11/zamna-10-anniversary-festival-event-info",
+   "date": "2026-11-25T15:30:39+00:00",
+   "brands": [],
+   "topics": []
+  },
+  {
+   "title": "Hoka Has Only Gone and Built a Brutalist Trail Runner",
+   "source": "Highsnobiety",
+   "url": "https://www.highsnobiety.com/p/wtaps-hoka-speedgoat/",
+   "date": "2026-11-25T15:26:11+00:00",
+   "brands": [],
+   "topics": []
+  },
+  {
+   "title": "Nike’s Gyakusou Running Line Was Ahead of Its Time — Now It Will Release Its First Shoes in Five Years",
+   "source": "Footwear News",
+   "url": "https://wwd.com/footwear-news/sneaker-news/nike-gyakusou-alphafly-4-vomero-plus-release-date-1239463981/",
+   "date": "2026-11-25T15:24:00+00:00",
+   "brands": [],
+   "topics": []
+  },
+  {
+   "title": "Every Time Veruschka Was on the Cover of American Vogue",
+   "source": "Vogue",
+   "url": "https://www.vogue.com/slideshow/veruschka-american-vogue-covers",
+   "date": "2026-11-25T15:15:06+00:00",
+   "brands": [],
+   "topics": []
+  },
+  {
+   "title": "Veruschka, the Shape-Shifting Supermodel Who Defined an Era, Has Died at 87",
+   "source": "Vogue",
+   "url": "https://www.vogue.com/article/veruschka-obituary",
+   "date": "2026-11-25T15:14:10+00:00",
+   "brands": [],
+   "topics": []
+  },
+  {
+   "title": "Ballerina Farm Is Opening a Restaurant, Farm Store, and Cooking School—Here’s a First Look",
+   "source": "Vogue",
+   "url": "https://www.vogue.com/article/ballerina-farm-restaurant-farm-store-cookery-school-utah-exclusive",
+   "date": "2026-11-25T15:07:09+00:00",
+   "brands": [],
+   "topics": []
+  },
+  {
+   "title": "OrthoLite Lift Insoles Have Supercritical Foaming Technology",
+   "source": "Footwear News",
+   "url": "https://wwd.com/footwear-news/shoe-industry-news/ortholite-lift-insole-collection-supercritical-foam-1239464318/",
+   "date": "2026-11-25T15:02:27+00:00",
+   "brands": [],
+   "topics": []
+  },
+  {
+   "title": "Vogue’s Best Dressed List of 2026 Is Live! Here’s How to Recreate Our Favorite Looks of the Year",
+   "source": "Vogue",
+   "url": "https://www.vogue.com/article/best-dressed-2026-outfits-style",
+   "date": "2026-11-25T15:01:49+00:00",
+   "brands": [],
+   "topics": []
+  },
+  {
+   "title": "How Women Weavers Are Preserving Indigenous Amazigh Culture in Morocco",
+   "source": "Vogue",
+   "url": "https://www.vogue.com/article/how-women-weavers-are-preserving-indigenous-amazigh-culture-in-morocco",
+   "date": "2026-11-25T14:59:11+00:00",
+   "brands": [],
+   "topics": []
+  },
+  {
+   "title": "Nike ‘absolutely making the right decision with Jordan’: Dick’s Sporting Goods",
+   "source": "Retail Dive",
+   "url": "https://www.retaildive.com/news/nike-jordan-dicks-sporting-goods-foot-locker-q3/875628/",
+   "date": "2026-11-25T14:18:00+00:00",
+   "brands": [
+    "Nike"
+   ],
+   "topics": []
+  },
+  {
+   "title": "How Sarah Gibson Tuttle Grew Olive & June Into Target's Number One Nail Brand",
+   "source": "Fashionista",
+   "url": "https://fashionista.com/2026/11/olive-and-june-sarah-gibson-tuttle-founder-interview",
    "date": "2026-11-25T13:00:00+00:00",
    "brands": [],
    "topics": []
@@ -42,14 +444,6 @@
    "topics": []
   },
   {
-   "title": "J.B. Hunt Comes Out Against Union Pacific-Norfolk Southern Merger",
-   "source": "WWD",
-   "url": "https://wwd.com/sourcing-journal/logistics/j-b-jb-hunt-union-pacific-norfolk-southern-merger-acquisition-intermodal-1239465171/",
-   "date": "2026-11-25T12:00:00+00:00",
-   "brands": [],
-   "topics": []
-  },
-  {
    "title": "These Are the 6 Luckiest Zodiac Signs This Sagittarius Season",
    "source": "Vogue",
    "url": "https://www.vogue.com/article/luckiest-star-signs-sagittarius-season-2026",
@@ -58,9 +452,9 @@
    "topics": []
   },
   {
-   "title": "We’re Officially Entering the Duster Coat Era — at Least According to Jennifer Lawrence, Dakota Johnson and Angelina Jolie",
-   "source": "WWD",
-   "url": "https://wwd.com/pop-culture/celebrity-news/winter-2026-duster-coat-trend-jennifer-lawrence-1239462898/",
+   "title": "These Were the Breakout Red Carpet Stars of 2026",
+   "source": "Vogue",
+   "url": "https://www.vogue.com/article/breakout-red-carpet-stars-2026",
    "date": "2026-11-25T11:00:00+00:00",
    "brands": [],
    "topics": []
@@ -69,14 +463,6 @@
    "title": "The 17 Best Airbnbs in Copenhagen Embrace Hygge",
    "source": "Vogue",
    "url": "https://www.vogue.com/article/best-airbnbs-in-copenhagen",
-   "date": "2026-11-25T11:00:00+00:00",
-   "brands": [],
-   "topics": []
-  },
-  {
-   "title": "These Were the Breakout Red Carpet Stars of 2026",
-   "source": "Vogue",
-   "url": "https://www.vogue.com/article/breakout-red-carpet-stars-2026",
    "date": "2026-11-25T11:00:00+00:00",
    "brands": [],
    "topics": []
@@ -134,16 +520,6 @@
    "source": "Highsnobiety",
    "url": "https://www.highsnobiety.com/p/new-balance-991v1-made-in-japan/",
    "date": "2026-11-25T10:15:58+00:00",
-   "brands": [
-    "New Balance"
-   ],
-   "topics": []
-  },
-  {
-   "title": "This British-Made New Balance Staple Has Mastered the Pop of Color",
-   "source": "Highsnobiety",
-   "url": "https://www.highsnobiety.com/p/new-balance-991-made-in-uk-luxe-black-leather/",
-   "date": "2026-11-25T10:13:28+00:00",
    "brands": [
     "New Balance"
    ],
@@ -262,14 +638,6 @@
    "topics": []
   },
   {
-   "title": "How the Stars of Netflix Hit ‘The Body’ Perfected Their Y2K Aesthetic",
-   "source": "WWD",
-   "url": "https://wwd.com/pop-culture/celebrity-news/the-body-netflix-y2k-hair-makeup-beauty-1239462770/",
-   "date": "2026-11-25T07:00:00+00:00",
-   "brands": [],
-   "topics": []
-  },
-  {
    "title": "Aimé Leon Dore and Porsche Gear Up for the Holidays With New Capsule Collection",
    "source": "Hypebeast",
    "url": "https://hypebeast.com/2026/11/aime-leon-dore-porsche-2026-capsule-collection-collab-release-info",
@@ -316,26 +684,6 @@
    "topics": []
   },
   {
-   "title": "CEO Talks: Bang & Olufsen’s Gianfilippo Testa",
-   "source": "WWD",
-   "url": "https://wwd.com/business-news/human-resources/bang-olufsen-new-ceo-interview-testa-1239463615/",
-   "date": "2026-11-25T06:00:00+00:00",
-   "brands": [],
-   "topics": [
-    "business"
-   ]
-  },
-  {
-   "title": "EXCLUSIVE: Isabel Marant Names Therese Lundström Chief Marketing Officer",
-   "source": "WWD",
-   "url": "https://wwd.com/business-news/human-resources/isabel-marant-chief-marketing-officer-therese-lundstrom-1239464350/",
-   "date": "2026-11-25T06:00:00+00:00",
-   "brands": [
-    "Isabel Marant"
-   ],
-   "topics": []
-  },
-  {
    "title": "lululemon Launches New Winter Apparel Collections, Featuring Oversized Silhouettes and Functional Fabrics for Winter Layering",
    "source": "Hypebeast",
    "url": "https://hypebeast.com/2026/11/lululemon-winter-collection-info",
@@ -352,32 +700,6 @@
    "source": "Hypebeast",
    "url": "https://hypebeast.com/2026/11/yvng-patra-regalia-kohjiya-vingo-new-album-release-info",
    "date": "2026-11-25T05:48:00+00:00",
-   "brands": [],
-   "topics": []
-  },
-  {
-   "title": "Original HAFERL x nonnative Collaborate on New Richard Cow Leather Shoes",
-   "source": "Hypebeast",
-   "url": "https://hypebeast.com/2026/11/original-haferl-nonnative-richard-cow-leather-release-info",
-   "date": "2026-11-25T05:46:36+00:00",
-   "brands": [],
-   "topics": [
-    "collab"
-   ]
-  },
-  {
-   "title": "CASETiFY Unveils a Pokémon Tech Accessory Collection Rendered in Pixel Art",
-   "source": "Hypebeast",
-   "url": "https://hypebeast.com/2026/11/casetify-pokemon-tech-acsesary-collection-release-info",
-   "date": "2026-11-25T05:45:52+00:00",
-   "brands": [],
-   "topics": []
-  },
-  {
-   "title": "BIRKENSTOCK Celebrates the 40th Anniversary of Its Iconic London Style with the \"Camden's Clubs\" Collection",
-   "source": "Hypebeast",
-   "url": "https://hypebeast.com/2026/11/birkenstock-london-40th-anniversary-camdens-clubs-collection-info",
-   "date": "2026-11-25T05:45:43+00:00",
    "brands": [],
    "topics": []
   },
@@ -419,30 +741,6 @@
    "topics": []
   },
   {
-   "title": "From the Archive: Thanksgiving Side Dishes for a Fashionable Feast",
-   "source": "WWD",
-   "url": "https://wwd.com/fashion-news/fashion-scoops/thanksgiving-side-dishes-for-a-fashionable-feast-archive-1239461849/",
-   "date": "2026-11-25T05:01:00+00:00",
-   "brands": [],
-   "topics": []
-  },
-  {
-   "title": "Ralph Lauren’s First Home Store Debuts in Milan",
-   "source": "WWD",
-   "url": "https://wwd.com/home-design/interior-design/ralph-lauren-first-ever-home-store-milan-1239464005/",
-   "date": "2026-11-25T05:01:00+00:00",
-   "brands": [],
-   "topics": []
-  },
-  {
-   "title": "Loulou Groupe Kicks Off Global Expansion With Restaurant Opening in St. Barths",
-   "source": "WWD",
-   "url": "https://wwd.com/business-news/business-features/loulou-groupe-restaurant-st-barths-global-expansion-1239464198/",
-   "date": "2026-11-25T05:01:00+00:00",
-   "brands": [],
-   "topics": []
-  },
-  {
    "title": "Wellness Briefing: How should the wellness section be organized in 2027?",
    "source": "Glossy",
    "url": "https://www.glossy.co/beauty/wellness/wellness-briefing-how-should-the-wellness-section-be-organized-in-2027/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
@@ -459,66 +757,12 @@
    "topics": []
   },
   {
-   "title": "8 Best Gua Sha Tools to Expertly Sculpt, Lift, and Tone",
-   "source": "Vogue",
-   "url": "https://www.vogue.com/article/gua-sha-tools",
-   "date": "2026-11-25T02:31:52+00:00",
-   "brands": [],
-   "topics": []
-  },
-  {
-   "title": "New Arrivals From HBX: WTAPS",
-   "source": "Hypebeast",
-   "url": "https://hypebeast.com/2026/11/new-arrivals-from-hbx-wtaps-2",
-   "date": "2026-11-25T00:49:20+00:00",
-   "brands": [],
-   "topics": []
-  },
-  {
    "title": "Taylor Swift’s Three Pairs of Uggs Have FN Editors Revisiting the Footwear Politics of the 2000s",
    "source": "Footwear News",
    "url": "https://wwd.com/footwear-news/shoe-features/taylor-swift-ugg-boots-2000s-millennial-fashion-1239464654/",
    "date": "2026-11-24T23:55:07+00:00",
    "brands": [],
    "topics": []
-  },
-  {
-   "title": "Sole Food: We All Deserve a Whimsical Lil’ Sneaker-Heel",
-   "source": "Highsnobiety",
-   "url": "https://www.highsnobiety.com/p/sneaker-heels-trend/",
-   "date": "2026-11-24T23:45:00+00:00",
-   "brands": [],
-   "topics": []
-  },
-  {
-   "title": "Ki One Becomes the First Korean Distillery to Win IWSC's Worldwide Whiskey Producer Trophy",
-   "source": "Hypebeast",
-   "url": "https://hypebeast.com/2026/11/k-whisky-ki-one-wins-iwsc-2026-worldwide-whiskey-producer-trophy",
-   "date": "2026-11-24T23:30:23+00:00",
-   "brands": [],
-   "topics": [
-    "korea"
-   ]
-  },
-  {
-   "title": "The New Rules of Complexion Makeup",
-   "source": "Vogue",
-   "url": "https://www.vogue.com/article/complexion-makeup-tints-beauty-board",
-   "date": "2026-11-24T22:57:45+00:00",
-   "brands": [],
-   "topics": []
-  },
-  {
-   "title": "A Ma Maniére Made Clean Nike Air Forces That’ll (Sorta) Never Drop",
-   "source": "Highsnobiety",
-   "url": "https://www.highsnobiety.com/p/a-ma-maniere-nike-air-force-1-shoes-2026/",
-   "date": "2026-11-24T22:41:19+00:00",
-   "brands": [
-    "Nike"
-   ],
-   "topics": [
-    "collab"
-   ]
   },
   {
    "title": "Shoe Station Group Dramatically Halts Store Conversions, to Revert Most Locations to Original Banner",
@@ -537,128 +781,10 @@
    "topics": []
   },
   {
-   "title": "For Malin Åkerman, ‘The Hunting Wives’ Is (Still) a Dream Come True",
-   "source": "Vogue",
-   "url": "https://www.vogue.com/article/malin-akerman-the-hunting-wives-season-2-interview",
-   "date": "2026-11-24T21:45:33+00:00",
-   "brands": [],
-   "topics": []
-  },
-  {
-   "title": "How to Pack for Vegas Like a Vogue Editor",
-   "source": "Vogue",
-   "url": "https://www.vogue.com/article/what-to-wear-in-las-vegas",
-   "date": "2026-11-24T21:36:26+00:00",
-   "brands": [],
-   "topics": []
-  },
-  {
-   "title": "Dick’s Chairman Says Nike ‘Made the Right Decision’ on Jordan Even Though It Will Be ‘Painful’ in the Near-term",
-   "source": "Footwear News",
-   "url": "https://wwd.com/footwear-news/shoe-industry-news/dicks-foot-locker-jordan-brand-nike-earnings-takeaways-q3-1239464926/",
-   "date": "2026-11-24T21:00:57+00:00",
-   "brands": [
-    "Nike"
-   ],
-   "topics": []
-  },
-  {
-   "title": "Is Jensen Huang’s Humble Cotton Coat His Way of Saying ‘I’m Sorry’?",
-   "source": "Vogue",
-   "url": "https://www.vogue.com/article/jensen-huang-nvidia-return-jacket",
-   "date": "2026-11-24T20:52:31+00:00",
-   "brands": [],
-   "topics": []
-  },
-  {
-   "title": "Stanley 1913 Brings Its Museum of Questionable Gifts Pop-Up to New York",
-   "source": "Hypebeast",
-   "url": "https://hypebeast.com/2026/11/stanley-1913-brings-its-museum-of-questionable-gifts-pop-up-to-new-york",
-   "date": "2026-11-24T20:22:20+00:00",
-   "brands": [],
-   "topics": []
-  },
-  {
-   "title": "Brooks Just Updated Its Remastered Running Shoe With New Premium Materials",
-   "source": "Footwear News",
-   "url": "https://wwd.com/footwear-news/sneaker-news/brooks-adrenaline-gts-10-leather-chicory-coffee-sky-captain-1239464837/",
-   "date": "2026-11-24T20:18:19+00:00",
-   "brands": [],
-   "topics": []
-  },
-  {
-   "title": "“Do You Like It? Would You Wear It? Would You Buy It?”—An Oral History of Marc by Marc Jacobs",
-   "source": "Vogue",
-   "url": "https://www.vogue.com/article/marc-by-marc-jacobs-oral-history-2026",
-   "date": "2026-11-24T19:54:13+00:00",
-   "brands": [],
-   "topics": []
-  },
-  {
-   "title": "Jacquemus and Moon Boot Are Back Together on Two Après Ski Shoe Styles",
-   "source": "Footwear News",
-   "url": "https://wwd.com/footwear-news/shoe-industry-news/jacquemus-moon-boot-icon-low-felt-release-date-1239464764/",
-   "date": "2026-11-24T19:51:06+00:00",
-   "brands": [
-    "Jacquemus"
-   ],
-   "topics": []
-  },
-  {
-   "title": "Inside WNBA Star Cameron Brink and Ben Felter’s Stanford Wedding—and Her Four Bridal Looks",
-   "source": "Vogue",
-   "url": "https://www.vogue.com/slideshow/cameron-brink-and-ben-felter-wedding",
-   "date": "2026-11-24T19:00:00+00:00",
-   "brands": [],
-   "topics": []
-  },
-  {
-   "title": "The Best Everyday Sneakers, According to Vogue Editors",
-   "source": "Vogue",
-   "url": "https://www.vogue.com/article/vogue-editors-everyday-sneakers",
-   "date": "2026-11-24T18:48:08+00:00",
-   "brands": [],
-   "topics": []
-  },
-  {
-   "title": "Flight Club Introduced a New Digital Mystery Shopping Experience With Some of the Rarest Sneakers Around",
-   "source": "Footwear News",
-   "url": "https://wwd.com/footwear-news/sneaker-news/flight-club-packs-available-now-1239464498/",
-   "date": "2026-11-24T18:34:11+00:00",
-   "brands": [],
-   "topics": []
-  },
-  {
    "title": "Best Buy sales outperform even as computing gets more expensive",
    "source": "Modern Retail",
    "url": "https://www.modernretail.co/operations/best-buy-customers-undeterred-by-rising-prices/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
    "date": "2026-11-24T18:28:03+00:00",
-   "brands": [],
-   "topics": []
-  },
-  {
-   "title": "The Vogue Book Club’s Next Read Is ‘Mrs. Dalloway’",
-   "source": "Vogue",
-   "url": "https://www.vogue.com/article/vogue-book-club-mrs-dalloway-announcement",
-   "date": "2026-11-24T18:00:00+00:00",
-   "brands": [],
-   "topics": []
-  },
-  {
-   "title": "Demellier Black Friday Sale 2026, Buy A-Lister Handbags for Less",
-   "source": "Vogue",
-   "url": "https://www.vogue.com/article/black-friday-demellier-11-24-2026",
-   "date": "2026-11-24T17:54:21+00:00",
-   "brands": [],
-   "topics": [
-    "sale"
-   ]
-  },
-  {
-   "title": "For Geena Meszaros, ‘The Body’ Has Been a Revelation",
-   "source": "Vogue",
-   "url": "https://www.vogue.com/article/geena-meszaros-the-body-interview",
-   "date": "2026-11-24T17:46:01+00:00",
    "brands": [],
    "topics": []
   },
@@ -671,44 +797,10 @@
    "topics": []
   },
   {
-   "title": "Olivia Dean Gives Her Retro-Inspired Aesthetic a Rest and Straps Into Fresh Burberry Slingbacks Instead",
-   "source": "Footwear News",
-   "url": "https://wwd.com/footwear-news/shoe-trends/olivia-dean-spring-2027-burberry-slingbacks-london-1239463967/",
-   "date": "2026-11-24T17:07:49+00:00",
-   "brands": [
-    "Burberry"
-   ],
-   "topics": []
-  },
-  {
-   "title": "Carbitex’s Technology is Now in Climbing Footwear",
-   "source": "Footwear News",
-   "url": "https://wwd.com/footwear-news/shoe-industry-news/carbitex-so-ill-lever-flexible-carbon-midsole-climbing-shoe-1239463996/",
-   "date": "2026-11-24T17:03:27+00:00",
-   "brands": [],
-   "topics": []
-  },
-  {
    "title": "Must Read: Cecilie Bahnsen Expands Into Kidswear, Hailey Bieber's Dealbook Interview Sparks Debate",
    "source": "Fashionista",
    "url": "https://fashionista.com/2026/11/cecilie-bahnsen-expands-into-kidswear",
    "date": "2026-11-24T17:00:00+00:00",
-   "brands": [],
-   "topics": []
-  },
-  {
-   "title": "New Balance’s New 990v7 Sneaker Is Coming Back in Black",
-   "source": "Footwear News",
-   "url": "https://wwd.com/footwear-news/sneaker-news/new-balance-990v7-black-cement-u990bk7-release-date-1239464066/",
-   "date": "2026-11-24T16:48:09+00:00",
-   "brands": [],
-   "topics": []
-  },
-  {
-   "title": "Katy Perry and Justin Trudeau Bring California and Canada to Venice",
-   "source": "Vogue",
-   "url": "https://www.vogue.com/article/katy-perry-justin-trudeau-opposites-attract-venice",
-   "date": "2026-11-24T16:42:56+00:00",
    "brands": [],
    "topics": []
   },
@@ -721,36 +813,10 @@
    "topics": []
   },
   {
-   "title": "JD’s Introducing AI Commerce to its U.K. Customers",
-   "source": "Footwear News",
-   "url": "https://wwd.com/footwear-news/shoe-industry-news/jd-meta-ai-must-uk-shoppers-personal-agent-shopping-1239463799/",
-   "date": "2026-11-24T16:05:27+00:00",
-   "brands": [],
-   "topics": []
-  },
-  {
    "title": "The Human Skills Shaping Fashion’s Next Generation",
    "source": "Fashionista",
    "url": "https://fashionista.com/2026/11/the-human-skills-shaping-fashions-next-generation",
    "date": "2026-11-24T16:00:00+00:00",
-   "brands": [],
-   "topics": []
-  },
-  {
-   "title": "From Converse to Salomon, the Seven Best Sneakers to Cop This Week",
-   "source": "Highsnobiety",
-   "url": "https://www.highsnobiety.com/p/the-seven-best-sneakers-to-cop-this-week-november-week-4/",
-   "date": "2026-11-24T15:34:47+00:00",
-   "brands": [
-    "Converse"
-   ],
-   "topics": []
-  },
-  {
-   "title": "Model’s Own: Liana Satenstein Buys Vintage Victoria’s Secret Underwear on eBay",
-   "source": "Highsnobiety",
-   "url": "https://www.highsnobiety.com/p/models-own-liana-satenstein-buys-vintage-victorias-secret/",
-   "date": "2026-11-24T15:25:25+00:00",
    "brands": [],
    "topics": []
   },
@@ -781,26 +847,10 @@
    "topics": []
   },
   {
-   "title": "This Creative Couple Hosted a New Orleans Wedding Complete With a Crawfish Boil and a Masquerade After-Party",
-   "source": "Vogue",
-   "url": "https://www.vogue.com/slideshow/lily-monbouquette-and-eric-bach-wedding",
-   "date": "2026-11-24T13:00:00+00:00",
-   "brands": [],
-   "topics": []
-  },
-  {
    "title": "The wonder and ritual of Macy’s Thanksgiving Day Parade",
    "source": "Retail Dive",
    "url": "https://www.retaildive.com/news/macys-hundredth-thanksgiving-day-parade-history/875134/",
    "date": "2026-11-24T12:00:00+00:00",
-   "brands": [],
-   "topics": []
-  },
-  {
-   "title": "The Big Bag Theory: 2026 Was for the Schleppers",
-   "source": "Vogue",
-   "url": "https://www.vogue.com/slideshow/2026-big-bag-revival-celebrity-style",
-   "date": "2026-11-24T11:00:00+00:00",
    "brands": [],
    "topics": []
   },
@@ -889,32 +939,6 @@
    "source": "Retail Dive",
    "url": "https://www.retaildive.com/news/amazon-enlists-customers-in-fight-against-nyc-delivery-protection-act/875451/",
    "date": "2026-11-23T16:33:00+00:00",
-   "brands": [],
-   "topics": []
-  },
-  {
-   "title": "Backcountry acquires winter sports retailer Christy Sports",
-   "source": "Retail Dive",
-   "url": "https://www.retaildive.com/news/backcountry-acquires-christy-sports-ski-retailer/875323/",
-   "date": "2026-11-23T15:44:00+00:00",
-   "brands": [],
-   "topics": [
-    "business"
-   ]
-  },
-  {
-   "title": "David’s Bridal tests dress rental",
-   "source": "Retail Dive",
-   "url": "https://www.retaildive.com/news/davids-bridal-tests-dress-rental-something-borrowed/875262/",
-   "date": "2026-11-23T15:37:00+00:00",
-   "brands": [],
-   "topics": []
-  },
-  {
-   "title": "How Home Depot built the missing logistics piece for its Pro business",
-   "source": "Retail Dive",
-   "url": "https://www.retaildive.com/news/home-depot-logistics-pro-business/875396/",
-   "date": "2026-11-23T15:03:00+00:00",
    "brands": [],
    "topics": []
   },
@@ -1008,42 +1032,6 @@
    "source": "Modern Retail",
    "url": "https://www.modernretail.co/operations/big-box-briefing-targets-retail-reset-means-facing-off-with-trader-joes-quince-and-homegoods/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
    "date": "2026-11-20T14:30:00+00:00",
-   "brands": [],
-   "topics": []
-  },
-  {
-   "title": "The 2026 Black Friday and Cyber Monday Sales We've Already Bookmarked",
-   "source": "Fashionista",
-   "url": "https://fashionista.com/2026/11/black-friday-cyber-monday-fashion-beauty-sales-deals-2026",
-   "date": "2026-11-20T13:30:00+00:00",
-   "brands": [],
-   "topics": [
-    "sale"
-   ]
-  },
-  {
-   "title": "How Shopbop's Senior Fashion Director Manages Her Super Busy, Cross-Functional Role",
-   "source": "Fashionista",
-   "url": "https://fashionista.com/2026/11/caroline-maguire-shopbop-career-interview",
-   "date": "2026-11-20T13:00:00+00:00",
-   "brands": [],
-   "topics": []
-  },
-  {
-   "title": "Get it while it’s hot: The bakeries snagging major beauty and fashion collaborations",
-   "source": "Glossy",
-   "url": "https://www.glossy.co/pop/get-it-while-its-hot-the-bakeries-snagging-major-beauty-and-fashion-collaborations/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
-   "date": "2026-11-20T05:00:00+00:00",
-   "brands": [],
-   "topics": [
-    "collab"
-   ]
-  },
-  {
-   "title": "Luxury Briefing: How do you measure loyalty when a customer buys once a decade?",
-   "source": "Glossy",
-   "url": "https://www.glossy.co/fashion/luxury/luxury-briefing-jewelry-customer-loyalty/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
-   "date": "2026-11-20T05:00:00+00:00",
    "brands": [],
    "topics": []
   }
