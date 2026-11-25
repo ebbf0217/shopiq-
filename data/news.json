@@ -1,6 +1,144 @@
 {
- "fetched_at": "2026-11-24T22:28:07+00:00",
+ "fetched_at": "2026-11-25T02:53:29+00:00",
  "articles": [
+  {
+   "title": "The Garment Pre-Fall 2027",
+   "source": "Vogue",
+   "url": "https://www.vogue.com/fashion-shows/pre-fall-2027/the-garment",
+   "date": "2026-11-25T02:48:28+00:00",
+   "brands": [],
+   "topics": []
+  },
+  {
+   "title": "Baum und Pferdgarten Pre-Fall 2027",
+   "source": "Vogue",
+   "url": "https://www.vogue.com/fashion-shows/pre-fall-2027/baum-und-pferdgarten",
+   "date": "2026-11-25T02:48:28+00:00",
+   "brands": [],
+   "topics": []
+  },
+  {
+   "title": "8 Best Gua Sha Tools to Expertly Sculpt, Lift, and Tone",
+   "source": "Vogue",
+   "url": "https://www.vogue.com/article/gua-sha-tools",
+   "date": "2026-11-25T02:31:52+00:00",
+   "brands": [],
+   "topics": []
+  },
+  {
+   "title": "New Arrivals From HBX: WTAPS",
+   "source": "Hypebeast",
+   "url": "https://hypebeast.com/2026/11/new-arrivals-from-hbx-wtaps-2",
+   "date": "2026-11-25T00:49:20+00:00",
+   "brands": [],
+   "topics": []
+  },
+  {
+   "title": "By the Numbers: Men’s Retailers Choosing Quality Over Quantity, Buying More Outerwear: Joor",
+   "source": "WWD",
+   "url": "https://wwd.com/menswear-news/mens-fashion/mens-retailers-quality-over-quantity-buying-outerwear-joor-1239464007/",
+   "date": "2026-11-25T00:27:01+00:00",
+   "brands": [],
+   "topics": []
+  },
+  {
+   "title": "Taylor Swift’s Three Pairs of Uggs Have FN Editors Revisiting the Footwear Politics of the 2000s",
+   "source": "WWD",
+   "url": "https://wwd.com/footwear-news/shoe-features/taylor-swift-ugg-boots-2000s-millennial-fashion-1239464654/",
+   "date": "2026-11-24T23:55:07+00:00",
+   "brands": [],
+   "topics": []
+  },
+  {
+   "title": "Sole Food: We All Deserve a Whimsical Lil’ Sneaker-Heel",
+   "source": "Highsnobiety",
+   "url": "https://www.highsnobiety.com/p/sneaker-heels-trend/",
+   "date": "2026-11-24T23:45:00+00:00",
+   "brands": [],
+   "topics": []
+  },
+  {
+   "title": "A Watchdog Calls Bangladesh Factory This Decade’s Worst Union Buster. Some Brands Haven’t Walked Away.",
+   "source": "WWD",
+   "url": "https://wwd.com/sourcing-journal/sustainability/worker-rights-consortium-libas-textiles-primark-next-1239465329/",
+   "date": "2026-11-24T23:39:11+00:00",
+   "brands": [],
+   "topics": []
+  },
+  {
+   "title": "Ki One Becomes the First Korean Distillery to Win IWSC's Worldwide Whiskey Producer Trophy",
+   "source": "Hypebeast",
+   "url": "https://hypebeast.com/2026/11/k-whisky-ki-one-wins-iwsc-2026-worldwide-whiskey-producer-trophy",
+   "date": "2026-11-24T23:30:23+00:00",
+   "brands": [],
+   "topics": [
+    "korea"
+   ]
+  },
+  {
+   "title": "The New Rules of Complexion Makeup",
+   "source": "Vogue",
+   "url": "https://www.vogue.com/article/complexion-makeup-tints-beauty-board",
+   "date": "2026-11-24T22:57:45+00:00",
+   "brands": [],
+   "topics": []
+  },
+  {
+   "title": "Where to Watch the 2026 Macy’s Thanksgiving Day Parade Online for Free",
+   "source": "WWD",
+   "url": "https://wwd.com/shop/shop-fashion/how-to-watch-2026-macys-thanksgiving-day-parade-online-free-1239465042/",
+   "date": "2026-11-24T22:51:38+00:00",
+   "brands": [],
+   "topics": []
+  },
+  {
+   "title": "A Long-Lost New Balance Dad Shoe, Reborn as a Japan-Made Masterpiece",
+   "source": "Highsnobiety",
+   "url": "https://www.highsnobiety.com/p/new-balance-991v1-made-in-japan/",
+   "date": "2026-11-24T22:50:09+00:00",
+   "brands": [
+    "New Balance"
+   ],
+   "topics": []
+  },
+  {
+   "title": "WTAPS’ HOKA Trail Runner Has No Business Being This Sexy",
+   "source": "Highsnobiety",
+   "url": "https://www.highsnobiety.com/p/wtaps-hoka-speedgoat-ts/",
+   "date": "2026-11-24T22:47:28+00:00",
+   "brands": [],
+   "topics": []
+  },
+  {
+   "title": "Nike Put Its Gloriously Stacked Running Shoe on Ice",
+   "source": "Highsnobiety",
+   "url": "https://www.highsnobiety.com/p/nike-vomero-plus-light-armory-blue/",
+   "date": "2026-11-24T22:43:48+00:00",
+   "brands": [
+    "Nike"
+   ],
+   "topics": []
+  },
+  {
+   "title": "A Ma Maniére Made Clean Nike Air Forces That’ll (Sorta) Never Drop",
+   "source": "Highsnobiety",
+   "url": "https://www.highsnobiety.com/p/a-ma-maniere-nike-air-force-1-shoes-2026/",
+   "date": "2026-11-24T22:41:19+00:00",
+   "brands": [
+    "Nike"
+   ],
+   "topics": [
+    "collab"
+   ]
+  },
+  {
+   "title": "Skyler Gisondo’s Big Swing",
+   "source": "WWD",
+   "url": "https://wwd.com/eye/people/skyler-gisondo-focker-in-law-primetime-1239464729/",
+   "date": "2026-11-24T22:34:44+00:00",
+   "brands": [],
+   "topics": []
+  },
   {
    "title": "Retailers Sanguine for Black Friday",
    "source": "WWD",
@@ -12,36 +150,18 @@
    ]
   },
   {
-   "title": "The Garment Pre-Fall 2027",
-   "source": "Vogue",
-   "url": "https://www.vogue.com/fashion-shows/pre-fall-2027/the-garment",
-   "date": "2026-11-24T22:23:37+00:00",
-   "brands": [],
-   "topics": []
-  },
-  {
-   "title": "Baum und Pferdgarten Pre-Fall 2027",
-   "source": "Vogue",
-   "url": "https://www.vogue.com/fashion-shows/pre-fall-2027/baum-und-pferdgarten",
-   "date": "2026-11-24T22:23:37+00:00",
-   "brands": [],
-   "topics": []
-  },
-  {
-   "title": "A Long-Lost New Balance Dad Shoe, Reborn as a Japan-Made Masterpiece",
-   "source": "Highsnobiety",
-   "url": "https://www.highsnobiety.com/p/new-balance-991v1-made-in-japan/",
-   "date": "2026-11-24T22:20:40+00:00",
-   "brands": [
-    "New Balance"
-   ],
-   "topics": []
-  },
-  {
    "title": "Revolve’s Chief Merchant Divya Mathur Looks Beyond Fashion’s Traditional Capitals",
    "source": "WWD",
    "url": "https://wwd.com/business-news/retail/revolves-chief-merchant-divya-mathur-global-strategy-1239464805/",
    "date": "2026-11-24T22:13:32+00:00",
+   "brands": [],
+   "topics": []
+  },
+  {
+   "title": "Shoe Station Group Dramatically Halts Store Conversions, to Revert Most Locations to Original Banner",
+   "source": "WWD",
+   "url": "https://wwd.com/footwear-news/shoe-industry-news/shoe-station-group-stops-store-conversions-q3-2026-1239465231/",
+   "date": "2026-11-24T22:09:04+00:00",
    "brands": [],
    "topics": []
   },
@@ -72,14 +192,6 @@
    "topics": []
   },
   {
-   "title": "WTAPS’ HOKA Trail Runner Has No Business Being This Sexy",
-   "source": "Highsnobiety",
-   "url": "https://www.highsnobiety.com/p/wtaps-hoka-speedgoat-ts/",
-   "date": "2026-11-24T21:38:15+00:00",
-   "brands": [],
-   "topics": []
-  },
-  {
    "title": "Marc Jacobs Sales Hit $509M in Its Last Year Under LVMH",
    "source": "WWD",
    "url": "https://wwd.com/business-news/financial/marc-jacobs-giii-whp-global-revenue-strategy-1239464631/",
@@ -106,14 +218,6 @@
    ]
   },
   {
-   "title": "Authentic Brands Group Taps AI Company Genesys to Simplify Retail Operations",
-   "source": "WWD",
-   "url": "https://wwd.com/sourcing-journal/industry-news/authentic-brands-group-genesys-ai-partnership-1239464339/",
-   "date": "2026-11-24T21:24:22+00:00",
-   "brands": [],
-   "topics": []
-  },
-  {
    "title": "Nike’s Green “Mid” Air Jordan Shoe Has a Heart of Gold",
    "source": "Highsnobiety",
    "url": "https://www.highsnobiety.com/p/jordan-1-mid-faded-spruce/",
@@ -123,7 +227,7 @@
   },
   {
    "title": "Dick’s Chairman Says Nike ‘Made the Right Decision’ on Jordan Even Though It Will Be ‘Painful’ in the Near-term",
-   "source": "WWD",
+   "source": "Footwear News",
    "url": "https://wwd.com/footwear-news/shoe-industry-news/dicks-foot-locker-jordan-brand-nike-earnings-takeaways-q3-1239464926/",
    "date": "2026-11-24T21:00:57+00:00",
    "brands": [
@@ -140,36 +244,6 @@
    "topics": []
   },
   {
-   "title": "Nike Put Its Gloriously Stacked Running Shoe on Ice",
-   "source": "Highsnobiety",
-   "url": "https://www.highsnobiety.com/p/nike-vomero-plus-light-armory-blue/",
-   "date": "2026-11-24T20:43:40+00:00",
-   "brands": [
-    "Nike"
-   ],
-   "topics": []
-  },
-  {
-   "title": "Japan’s Daruma Jeans Offers Consumers a DIY Denim Experience",
-   "source": "WWD",
-   "url": "https://wwd.com/sourcing-journal/sj-denim/diy-denim-experience-daruma-jeans-tokyo-1239464745/",
-   "date": "2026-11-24T20:42:44+00:00",
-   "brands": [],
-   "topics": []
-  },
-  {
-   "title": "A Ma Maniére Made Clean Nike Air Forces That’ll (Sorta) Never Drop",
-   "source": "Highsnobiety",
-   "url": "https://www.highsnobiety.com/p/a-ma-maniere-nike-air-force-1-shoes-2026/",
-   "date": "2026-11-24T20:23:18+00:00",
-   "brands": [
-    "Nike"
-   ],
-   "topics": [
-    "collab"
-   ]
-  },
-  {
    "title": "Stanley 1913 Brings Its Museum of Questionable Gifts Pop-Up to New York",
    "source": "Hypebeast",
    "url": "https://hypebeast.com/2026/11/stanley-1913-brings-its-museum-of-questionable-gifts-pop-up-to-new-york",
@@ -179,7 +253,7 @@
   },
   {
    "title": "Brooks Just Updated Its Remastered Running Shoe With New Premium Materials",
-   "source": "WWD",
+   "source": "Footwear News",
    "url": "https://wwd.com/footwear-news/sneaker-news/brooks-adrenaline-gts-10-leather-chicory-coffee-sky-captain-1239464837/",
    "date": "2026-11-24T20:18:19+00:00",
    "brands": [],
@@ -195,21 +269,11 @@
   },
   {
    "title": "Jacquemus and Moon Boot Are Back Together on Two Après Ski Shoe Styles",
-   "source": "WWD",
+   "source": "Footwear News",
    "url": "https://wwd.com/footwear-news/shoe-industry-news/jacquemus-moon-boot-icon-low-felt-release-date-1239464764/",
    "date": "2026-11-24T19:51:06+00:00",
    "brands": [
     "Jacquemus"
-   ],
-   "topics": []
-  },
-  {
-   "title": "Lisa Teased an Unreleased Nike Racing Flat at F1 Las Vegas Grand Prix",
-   "source": "WWD",
-   "url": "https://wwd.com/footwear-news/sneaker-news/lisa-teases-nike-zoom-streak-3-sneaker-las-vegas-grand-prix-1239463689/",
-   "date": "2026-11-24T19:38:08+00:00",
-   "brands": [
-    "Nike"
    ],
    "topics": []
   },
@@ -408,24 +472,6 @@
    "topics": []
   },
   {
-   "title": "Shoe Station Group Stock Tumbles on Earnings Miss in Q3 Hit by Continued Promotional Environment",
-   "source": "Footwear News",
-   "url": "https://wwd.com/footwear-news/shoe-industry-news/shoe-station-shoe-q3-2026-earnings-stock-price-1239463708/",
-   "date": "2026-11-24T14:03:21+00:00",
-   "brands": [],
-   "topics": [
-    "business"
-   ]
-  },
-  {
-   "title": "Bearpaw Parent Establishes Presence in EVA Footwear Via Joybees",
-   "source": "Footwear News",
-   "url": "https://wwd.com/footwear-news/shoe-industry-news/bearpaw-romeo-juliette-joybees-molded-footwear-acquisition-1239428503/",
-   "date": "2026-11-24T14:00:00+00:00",
-   "brands": [],
-   "topics": []
-  },
-  {
    "title": "Facial Sculptor Joseph Carrillo Wants Us All to Be Touching Our Faces More",
    "source": "Fashionista",
    "url": "https://fashionista.com/2026/11/joseph-carrillo-facial-sculptor-interview",
@@ -542,24 +588,6 @@
    "topics": []
   },
   {
-   "title": "New Balance’s Remastered 990 Dad Shoe Joins the Dark Side",
-   "source": "Highsnobiety",
-   "url": "https://www.highsnobiety.com/p/new-balance-990v7-black/",
-   "date": "2026-11-24T09:21:30+00:00",
-   "brands": [],
-   "topics": []
-  },
-  {
-   "title": "The Loafer-fication of adidas’ Techy Dad Sneaker",
-   "source": "Highsnobiety",
-   "url": "https://www.highsnobiety.com/p/adidas-formation-f50-loafer-brown/",
-   "date": "2026-11-24T09:17:28+00:00",
-   "brands": [
-    "Adidas"
-   ],
-   "topics": []
-  },
-  {
    "title": "Rare Hilma af Klint Masterpiece Commands a Record-Breaking $12.7 Million USD at Auction",
    "source": "Hypebeast",
    "url": "https://hypebeast.com/2026/11/rare-hilma-af-klint-masterpiece-ser-iii-no-5-record-breaking-12-7-million-usd-bukowskis-auction",
@@ -634,24 +662,6 @@
    "topics": []
   },
   {
-   "title": "XLARGE Releases Collaborative Apparel with Artist Unit OBS",
-   "source": "Hypebeast",
-   "url": "https://hypebeast.com/2026/11/xlarge-obs-dragon76-cook-collaboration-exhibition-calif-art-gallery-info",
-   "date": "2026-11-24T06:59:23+00:00",
-   "brands": [],
-   "topics": [
-    "collab"
-   ]
-  },
-  {
-   "title": "Snow Peak Introduces Arma Stove, a New Wood-Burning Stove That Lets You Enjoy the Flames from Any Angle",
-   "source": "Hypebeast",
-   "url": "https://hypebeast.com/2026/11/snow-peak-alma-stove-release-info",
-   "date": "2026-11-24T06:59:12+00:00",
-   "brands": [],
-   "topics": []
-  },
-  {
    "title": "Meet ‘Dune: Part Three’’s Ida Brooke, the Young Brit Denis Villeneuve Picked to Play Zendaya’s Daughter",
    "source": "Vogue",
    "url": "https://www.vogue.com/article/ida-brooke-dune-3-interview",
@@ -668,17 +678,17 @@
    "topics": []
   },
   {
-   "title": "Setting Up Shop in Istanbul",
+   "title": "Is This Department Stores’ Big Comeback Christmas?",
    "source": "Vogue",
-   "url": "https://www.vogue.com/article/setting-up-shop-in-istanbul",
+   "url": "https://www.vogue.com/article/is-this-department-stores-big-comeback-christmas",
    "date": "2026-11-24T05:30:00+00:00",
    "brands": [],
    "topics": []
   },
   {
-   "title": "Is This Department Stores’ Big Comeback Christmas?",
+   "title": "Setting Up Shop in Istanbul",
    "source": "Vogue",
-   "url": "https://www.vogue.com/article/is-this-department-stores-big-comeback-christmas",
+   "url": "https://www.vogue.com/article/setting-up-shop-in-istanbul",
    "date": "2026-11-24T05:30:00+00:00",
    "brands": [],
    "topics": []
@@ -740,22 +750,6 @@
    "source": "Vogue",
    "url": "https://www.vogue.com/slideshow/anthony-boyle-julia-garner-the-paris-theatre-the-altruists-netflix",
    "date": "2026-11-23T22:09:40+00:00",
-   "brands": [],
-   "topics": []
-  },
-  {
-   "title": "Justin Jefferson’s Latest Tunnel-Walk Fit Is an Homage to Mexican Fashion",
-   "source": "Vogue",
-   "url": "https://www.vogue.com/slideshow/justin-jefferson-patricio-campillo-game-day-outfit",
-   "date": "2026-11-23T22:05:16+00:00",
-   "brands": [],
-   "topics": []
-  },
-  {
-   "title": "74 Thoughts I Had While Watching Clashing ‘Through the Snow’",
-   "source": "Vogue",
-   "url": "https://www.vogue.com/article/74-thoughts-i-had-while-watching-clashing-through-the-snow",
-   "date": "2026-11-23T21:50:21+00:00",
    "brands": [],
    "topics": []
   },
