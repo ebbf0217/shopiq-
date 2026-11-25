@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-25T02:50:16+00:00",
+ "fetched_at": "2026-11-25T13:01:52+00:00",
  "per_brand": 24,
  "brands": [
   {
@@ -2148,20 +2148,20 @@
      "img": "https://cdn.shopify.com/s/files/1/0903/9039/7315/files/Carre89BlackNappaLeather_2_36895075-2896-49aa-828e-9ee572a1e259.jpg?v=1784102893&width=400"
     },
     {
-     "title": "Este Nubuck Ankle Boot",
-     "price": 490.0,
-     "compare": null,
-     "type": "FOOTWEAR",
-     "url": "https://www.byfar.com/products/este-cavolo-nero-grain-nubuck-leather",
-     "img": "https://cdn.shopify.com/s/files/1/0903/9039/7315/files/EsteCavoloNeroGrainNubuckLeather_2.jpg?v=1769612598&width=400"
-    },
-    {
      "title": "Prudence Leather Ballet Flat",
      "price": 330.0,
      "compare": null,
      "type": "FOOTWEAR",
      "url": "https://www.byfar.com/products/prudence-cyan-nappa-leather",
      "img": "https://cdn.shopify.com/s/files/1/0903/9039/7315/files/PrudenceCyanNappaLeather_2.jpg?v=1769680723&width=400"
+    },
+    {
+     "title": "Este Nubuck Ankle Boot",
+     "price": 490.0,
+     "compare": null,
+     "type": "FOOTWEAR",
+     "url": "https://www.byfar.com/products/este-cavolo-nero-grain-nubuck-leather",
+     "img": "https://cdn.shopify.com/s/files/1/0903/9039/7315/files/EsteCavoloNeroGrainNubuckLeather_2.jpg?v=1769612598&width=400"
     },
     {
      "title": "Carre 89 Leather Pump",
@@ -3025,6 +3025,30 @@
    "collection": "https://www.kith.com/collections/new-arrivals",
    "items": [
     {
+     "title": "Ranra Ascender Canvas Nylon Jacket - After Dark",
+     "price": 450.0,
+     "compare": 750.0,
+     "type": "Jackets",
+     "url": "https://www.kith.com/products/amfw26ow01132",
+     "img": "https://cdn.shopify.com/s/files/1/0094/2252/files/AMFW26OW01132-Detail.jpg?v=1794525905&width=400"
+    },
+    {
+     "title": "Ranra Purs Light Nylon Padded Jacket - Military Olive",
+     "price": 576.0,
+     "compare": 960.0,
+     "type": "Jackets",
+     "url": "https://www.kith.com/products/amfw26ow01131",
+     "img": "https://cdn.shopify.com/s/files/1/0094/2252/files/AMFW26OW01131-Detail.jpg?v=1794525924&width=400"
+    },
+    {
+     "title": "Ranra Kennari Cotton Pant - Military Olive",
+     "price": 282.0,
+     "compare": 470.0,
+     "type": "Pants",
+     "url": "https://www.kith.com/products/amfw26pa01310-olv",
+     "img": "https://cdn.shopify.com/s/files/1/0094/2252/files/AMFW26PA01310-OLV-Detail.jpg?v=1794525901&width=400"
+    },
+    {
      "title": "Disney | Kith Fantasia Kith Stars Long Sleeve Tee - Nocturnal",
      "price": 95.0,
      "compare": null,
@@ -3191,30 +3215,6 @@
      "type": "Trousers",
      "url": "https://www.kith.com/products/crgaw26cwotrs114-gry",
      "img": "https://cdn.shopify.com/s/files/1/0094/2252/files/CRGAW26CWOTRS114-GRY-Detail.jpg?v=1794929487&width=400"
-    },
-    {
-     "title": "GOOD ART HLYWD Film Canister Rosette - Sterling Silver",
-     "price": 1850.0,
-     "compare": null,
-     "type": "Decor & Accessories",
-     "url": "https://www.kith.com/products/gahms-1-ss-fcr-rs",
-     "img": "https://cdn.shopify.com/s/files/1/0094/2252/files/GAHMS-1-SS-FCR-RS-Detail.jpg?v=1794929468&width=400"
-    },
-    {
-     "title": "Junya Watanabe MAN Wool Melton Processed Double Riders Coat - Black",
-     "price": 2175.0,
-     "compare": null,
-     "type": "Coats",
-     "url": "https://www.kith.com/products/junwr-c020-051",
-     "img": "https://cdn.shopify.com/s/files/1/0094/2252/files/JUNWR-C020-051-Detail.jpg?v=1794929488&width=400"
-    },
-    {
-     "title": "Junya Watanabe MAN Puffer Jacket - Black",
-     "price": 2175.0,
-     "compare": null,
-     "type": "Jackets",
-     "url": "https://www.kith.com/products/junwr-j925-100",
-     "img": "https://cdn.shopify.com/s/files/1/0094/2252/files/JUNWR-J925-100-Detail.jpg?v=1794929504&width=400"
     }
    ]
   },
@@ -3279,7 +3279,7 @@
      "compare": 128.0,
      "type": "Sweaters",
      "url": "https://www.everlane.com/products/f-swtr-ocm-cdgn-strp-mrn",
-     "img": "https://cdn.shopify.com/s/files/1/0623/7916/3734/files/2026-11-22_F-SWTR-OCM-CDGN-STRP-MRN_flat.jpg?v=1795205631&width=400"
+     "img": "https://cdn.shopify.com/s/files/1/0623/7916/3734/files/2026-12-13_F-SWTR-OCM-CDGN-STRP-MRN_01.jpg?v=1795596512&width=400"
     },
     {
      "title": "Deep V-Neck Cardigan in Cotton Merino | Heather Soft Taupe",
@@ -3288,6 +3288,46 @@
      "type": "Sweaters",
      "url": "https://www.everlane.com/products/f-swtr-ocm-dpv-cdgn-tpe",
      "img": "https://cdn.shopify.com/s/files/1/0623/7916/3734/files/2026-11-22_F-SWTR-OCM-DPV-CDGN-TPE_01.jpg?v=1795027466&width=400"
+    },
+    {
+     "title": "The Organic Cotton Box-Cut Pocket Tee | Lavender Herb | No Pocket",
+     "price": 20.0,
+     "compare": 34.0,
+     "type": "Knit Tops",
+     "url": "https://www.everlane.com/products/f-t-ctn-orgn-box-lav",
+     "img": "https://cdn.shopify.com/s/files/1/0623/7916/3734/files/Reshoot_2026-12-06_F-T-CTN-ORGN-BOX-LAV_01.jpg?v=1795596563&width=400"
+    },
+    {
+     "title": "Everyday Shirt in Silky Cotton | Coffee Bean",
+     "price": 88.0,
+     "compare": null,
+     "type": "Woven Tops",
+     "url": "https://www.everlane.com/products/f-btdn-sic-evry-ls-brnst",
+     "img": "https://cdn.shopify.com/s/files/1/0623/7916/3734/files/2026-11-22_F-BTDN-SIC-EVRY-LS-BRNST_flat.jpg?v=1795596074&width=400"
+    },
+    {
+     "title": "Everyday Shirt in Silky Cotton | Cabernet",
+     "price": 88.0,
+     "compare": null,
+     "type": "Woven Tops",
+     "url": "https://www.everlane.com/products/f-btdn-sic-evry-ls-cab",
+     "img": "https://cdn.shopify.com/s/files/1/0623/7916/3734/files/2026-11-22_F-BTDN-SIC-EVRY-LS-CAB_flat.jpg?v=1795596108&width=400"
+    },
+    {
+     "title": "Crepe Off Shoulder Mini Dress | Black",
+     "price": 138.0,
+     "compare": null,
+     "type": "Dresses",
+     "url": "https://www.everlane.com/products/f-drs-smp-shldr-mini-blk",
+     "img": "https://cdn.shopify.com/s/files/1/0623/7916/3734/files/2026-11-15_F-DRS-SMP-SHLDR-MINI-BLK_01.jpg?v=1795200230&width=400"
+    },
+    {
+     "title": "Crepe Off Shoulder Mini Dress | Coffee Bean",
+     "price": 138.0,
+     "compare": null,
+     "type": "Dresses",
+     "url": "https://www.everlane.com/products/f-drs-smp-shldr-mini-brn",
+     "img": "https://cdn.shopify.com/s/files/1/0623/7916/3734/files/2026-11-15_F-DRS-SMP-SHLDR-MINI-BRN_01.jpg?v=1795200283&width=400"
     },
     {
      "title": "Fitted Muscle Top in Cotton-Silk Organza | Bone",
@@ -3338,6 +3378,14 @@
      "img": "https://cdn.shopify.com/s/files/1/0623/7916/3734/files/2026-11-22_F-BTDN-OGZ-SHORT-LS-BLK_01.jpg?v=1795023796&width=400"
     },
     {
+     "title": "Everyday Shirt in Silky Cotton | Italian Straw Stripe",
+     "price": 88.0,
+     "compare": null,
+     "type": "Woven Tops",
+     "url": "https://www.everlane.com/products/f-btdn-sic-evry-ls-ylwst",
+     "img": "https://cdn.shopify.com/s/files/1/0623/7916/3734/files/2026-12-06_F-BTDN-SIC-EVRY-LS-YLWST_01.jpg?v=1795596183&width=400"
+    },
+    {
      "title": "Everyday Shirt in Silky Cotton | Navy / Black",
      "price": 88.0,
      "compare": null,
@@ -3368,54 +3416,6 @@
      "type": "Woven Tops",
      "url": "https://www.everlane.com/products/f-btdn-ctn-short-ls-grnst",
      "img": "https://cdn.shopify.com/s/files/1/0623/7916/3734/files/2026-11-15_F-BTDN-CTN-SHORT-LS-GRNST_01.jpg?v=1794368891&width=400"
-    },
-    {
-     "title": "The Way-Short Shirt in Silky Cotton | Italian Straw Stripe",
-     "price": 53.0,
-     "compare": 88.0,
-     "type": "Woven Tops",
-     "url": "https://www.everlane.com/products/f-btdn-ctn-short-ls-ylwst",
-     "img": "https://cdn.shopify.com/s/files/1/0623/7916/3734/files/2026-11-15_F-BTDN-CTN-SHORT-LS-YLWST_01.jpg?v=1795198797&width=400"
-    },
-    {
-     "title": "The Way-Short Shirt in Silky Cotton | Navy / Black",
-     "price": 53.0,
-     "compare": 88.0,
-     "type": "Woven Tops",
-     "url": "https://www.everlane.com/products/f-btdn-ctn-short-ls-nvblk",
-     "img": "https://cdn.shopify.com/s/files/1/0623/7916/3734/files/2026-11-15_F-BTDN-CTN-SHORT-LS-NVBLK_01.jpg?v=1794368930&width=400"
-    },
-    {
-     "title": "ReWool Cocoon Coat | Toasted Coconut / Black",
-     "price": 197.0,
-     "compare": 328.0,
-     "type": "Outerwear",
-     "url": "https://www.everlane.com/products/f-otwr-rwb-ct-coc-chk",
-     "img": "https://cdn.shopify.com/s/files/1/0623/7916/3734/files/2026-11-22_F-OTWR-RWB-CT-COC-CHK_01.jpg?v=1795200890&width=400"
-    },
-    {
-     "title": "ReWool Cocoon Coat | Heather Wheat",
-     "price": 197.0,
-     "compare": 328.0,
-     "type": "Outerwear",
-     "url": "https://www.everlane.com/products/f-otwr-rwb-ct-coc-hwt",
-     "img": "https://cdn.shopify.com/s/files/1/0623/7916/3734/files/2026-11-22_F-OTWR-RWB-CT-COC-HWT_02.jpg?v=1795200918&width=400"
-    },
-    {
-     "title": "ReWool Cocoon Coat | Dark Charcoal Melange",
-     "price": 197.0,
-     "compare": 328.0,
-     "type": "Outerwear",
-     "url": "https://www.everlane.com/products/f-otwr-rwb-ct-coc-char",
-     "img": "https://cdn.shopify.com/s/files/1/0623/7916/3734/files/2026-11-22_F-OTWR-RWB-CT-COC-CHAR_01.jpg?v=1795200861&width=400"
-    },
-    {
-     "title": "Crew Vest in Alpaca | Coffee Bean",
-     "price": 168.0,
-     "compare": null,
-     "type": "Sweaters",
-     "url": "https://www.everlane.com/products/womens-crew-vest-alpaca-coffee-bean",
-     "img": "https://cdn.shopify.com/s/files/1/0623/7916/3734/files/Reshoot_2026-11-01_F-SWTR-APC-PLUSH-VEST-BRN_01.jpg?v=1793392343&width=400"
     }
    ]
   },
@@ -4537,14 +4537,6 @@
    "collection": "https://www.faithfullthebrand.com/collections/new-arrivals",
    "items": [
     {
-     "title": "Louna Midi Dress Port",
-     "price": 380.0,
-     "compare": null,
-     "type": "Midi Dress",
-     "url": "https://www.faithfullthebrand.com/products/louna-midi-dress-port",
-     "img": "https://cdn.shopify.com/s/files/1/1130/9504/files/S84-FF5338-PRT-26065-FaithfullTheBrand-D1-0711.jpg?v=1788493158&width=400"
-    },
-    {
      "title": "Leandra T-Shirt Port",
      "price": 180.0,
      "compare": null,
@@ -4577,28 +4569,12 @@
      "img": "https://cdn.shopify.com/s/files/1/1130/9504/files/S92-FF5419-MPD-26065-FaithfullTheBrand-D3-1387.jpg?v=1787641035&width=400"
     },
     {
-     "title": "Orsa Blazer Noir",
-     "price": 350.0,
-     "compare": null,
-     "type": "Blazer",
-     "url": "https://www.faithfullthebrand.com/products/orsa-blazer-noir",
-     "img": "https://cdn.shopify.com/s/files/1/1130/9504/files/S154-FF5454-NOR-26065-FaithfullTheBrand-D3-1324_12ff1953-5d14-464b-a8ad-42a19e53ea7a.jpg?v=1788494312&width=400"
-    },
-    {
      "title": "Citara Drawstring Midi Skirt Red Ochre",
      "price": 240.0,
      "compare": null,
      "type": "Skirts",
      "url": "https://www.faithfullthebrand.com/products/citara-drawstring-midi-skirt-red-ochre",
      "img": "https://cdn.shopify.com/s/files/1/1130/9504/files/S181-FFK345-ROC-26065-FaithfullTheBrand-D2-1569.jpg?v=1786935811&width=400"
-    },
-    {
-     "title": "Leya Top Cantinho Gingham Black",
-     "price": 160.0,
-     "compare": null,
-     "type": "Tops",
-     "url": "https://www.faithfullthebrand.com/products/leya-top-cantinho-gingham-black",
-     "img": "https://cdn.shopify.com/s/files/1/1130/9504/files/S44-FF5383-CGB-26065-FaithfullTheBrand-D3-0981.jpg?v=1788492883&width=400"
     },
     {
      "title": "Valmir Maxi Dress Valdemar Stripe Red Ochre",
@@ -4617,36 +4593,12 @@
      "img": "https://cdn.shopify.com/s/files/1/1130/9504/files/S181-FFK345-ROC-26065-FaithfullTheBrand-D2-1569.jpg?v=1786935811&width=400"
     },
     {
-     "title": "Gino Short Noir",
-     "price": 250.0,
-     "compare": null,
-     "type": "Shorts",
-     "url": "https://www.faithfullthebrand.com/products/gino-short-noir",
-     "img": "https://cdn.shopify.com/s/files/1/1130/9504/files/S154-FF5454-NOR-26065-FaithfullTheBrand-D3-1324.jpg?v=1787640917&width=400"
-    },
-    {
-     "title": "Martuba Skirt Martinha Polka Dot",
-     "price": 240.0,
-     "compare": null,
-     "type": "Skirts",
-     "url": "https://www.faithfullthebrand.com/products/martuba-skirt-martinha-polka-dot",
-     "img": "https://cdn.shopify.com/s/files/1/1130/9504/files/S131-FF5458-MPD-26065-FaithfullTheBrand-D1-1061.jpg?v=1788494022&width=400"
-    },
-    {
      "title": "Jovita Midi Dress Red",
      "price": 370.0,
      "compare": null,
      "type": "Midi Dress",
      "url": "https://www.faithfullthebrand.com/products/jovita-midi-dress-red",
      "img": "https://cdn.shopify.com/s/files/1/1130/9504/files/S123-FF5453-RED-26065-FaithfullTheBrand-D3-1419.jpg?v=1787709645&width=400"
-    },
-    {
-     "title": "Belinha Mini Dress Cantinho Gingham Black",
-     "price": 200.0,
-     "compare": null,
-     "type": "Mini Dress",
-     "url": "https://www.faithfullthebrand.com/products/belinha-mini-dress-cantinho-gingham-black",
-     "img": "https://cdn.shopify.com/s/files/1/1130/9504/files/S48-FF5386-CGB-26065-FaithfullTheBrand-D3-1040.jpg?v=1786931780&width=400"
     },
     {
      "title": "Playa Mini Short Valdemar Stripe Red Ochre",
@@ -4665,36 +4617,12 @@
      "img": "https://cdn.shopify.com/s/files/1/1130/9504/files/S182-FFK514-VDR-26065-FaithfullTheBrand-D1-1411.jpg?v=1786936635&width=400"
     },
     {
-     "title": "Carolina Mini Dress Red",
-     "price": 250.0,
-     "compare": null,
-     "type": "Mini Dress",
-     "url": "https://www.faithfullthebrand.com/products/carolina-mini-dress-red",
-     "img": "https://cdn.shopify.com/s/files/1/1130/9504/files/S121-FF5451-RED-26065-FaithfullTheBrand-D3-1465.jpg?v=1786934624&width=400"
-    },
-    {
      "title": "Carina Maxi Dress Cantinho Gingham Black",
      "price": 280.0,
      "compare": null,
      "type": "Maxi Dress",
      "url": "https://www.faithfullthebrand.com/products/carina-maxi-dress-cantinho-gingham-black",
      "img": "https://cdn.shopify.com/s/files/1/1130/9504/files/S49-FF5407-CGB-26065-FaithfullTheBrand-D3-1067.jpg?v=1786934474&width=400"
-    },
-    {
-     "title": "Leya Short Cantinho Gingham Black",
-     "price": 150.0,
-     "compare": null,
-     "type": "Shorts",
-     "url": "https://www.faithfullthebrand.com/products/leya-short-cantinho-gingham-black",
-     "img": "https://cdn.shopify.com/s/files/1/1130/9504/files/S44-FF5383-CGB-26065-FaithfullTheBrand-D3-0981.jpg?v=1788492883&width=400"
-    },
-    {
-     "title": "Jovita Top Red",
-     "price": 180.0,
-     "compare": null,
-     "type": "Tops",
-     "url": "https://www.faithfullthebrand.com/products/jovita-top-red",
-     "img": "https://cdn.shopify.com/s/files/1/1130/9504/files/S120-FF5449-RED-26065-FaithfullTheBrand-D3-1563.jpg?v=1787720960&width=400"
     },
     {
      "title": "Marisol Top Black",
@@ -4721,12 +4649,84 @@
      "img": "https://cdn.shopify.com/s/files/1/1130/9504/files/S112-FF5379-BLK-26065-FaithfullTheBrand-D2-0706.jpg?v=1786936842&width=400"
     },
     {
-     "title": "Leceia Skirt Cantinho Gingham Black",
-     "price": 200.0,
+     "title": "Daria Mini Dress Blanca Stripe",
+     "price": 290.0,
+     "compare": null,
+     "type": "Mini Dress",
+     "url": "https://www.faithfullthebrand.com/products/daria-mini-dress-blanca-stripe",
+     "img": "https://cdn.shopify.com/s/files/1/1130/9504/files/S113-FFK549-BLS-26330-FaithfullTheBrand-D2-0342_3e4bdb29-e310-45ef-ab21-a2b16ceb1090.jpg?v=1792982453&width=400"
+    },
+    {
+     "title": "Marais Midi Dress White",
+     "price": 360.0,
+     "compare": null,
+     "type": "Midi Dress",
+     "url": "https://www.faithfullthebrand.com/products/marais-midi-dress-white",
+     "img": "https://cdn.shopify.com/s/files/1/1130/9504/files/S8-FF3637-L-WHT-26330-FaithfullTheBrand-D2-0234_0c1ac0b3-a922-43ee-ae3e-c847305c9820.jpg?v=1792982447&width=400"
+    },
+    {
+     "title": "Lupita Maxi Dress Lagunera Paisley",
+     "price": 430.0,
+     "compare": null,
+     "type": "Maxi Dress",
+     "url": "https://www.faithfullthebrand.com/products/lupita-maxi-dress-lagunera-paisley",
+     "img": "https://cdn.shopify.com/s/files/1/1130/9504/files/S3-FF5573-LGP-26330-FaithfullTheBrand-D1-0805_2840ca3c-b911-404f-a6fb-a9a32eaf5d49.jpg?v=1792982440&width=400"
+    },
+    {
+     "title": "Alma Halter Top Cream",
+     "price": 290.0,
+     "compare": null,
+     "type": "Tops",
+     "url": "https://www.faithfullthebrand.com/products/alma-halter-top-cream",
+     "img": "https://cdn.shopify.com/s/files/1/1130/9504/files/S23-FF5604-CRM-26330-FaithfullTheBrand-D1-2350_eb790436-1b86-4d7b-9f71-a0a2a165d62d.jpg?v=1792982449&width=400"
+    },
+    {
+     "title": "Lue Midi Dress Oliva Stripe Ecru",
+     "price": 290.0,
+     "compare": null,
+     "type": "Midi Dress",
+     "url": "https://www.faithfullthebrand.com/products/lue-midi-dress-oliva-stripe-ecru",
+     "img": "https://cdn.shopify.com/s/files/1/1130/9504/files/S22-FF5553-OVE-26330-FaithfullTheBrand-D2-1833_9724f019-0781-4f40-8fe8-3cfc36508473.jpg?v=1792982455&width=400"
+    },
+    {
+     "title": "Micah Skirt Faded Butter",
+     "price": 260.0,
      "compare": null,
      "type": "Skirts",
-     "url": "https://www.faithfullthebrand.com/products/leceia-skirt-cantinho-gingham-black",
-     "img": "https://cdn.shopify.com/s/files/1/1130/9504/files/S47-FF5346-CGB-26065-FaithfullTheBrand-D3-1002.jpg?v=1787733774&width=400"
+     "url": "https://www.faithfullthebrand.com/products/micah-skirt-faded-butter",
+     "img": "https://cdn.shopify.com/s/files/1/1130/9504/files/S110-FFK536-FDB-26330-FaithfullTheBrand-D2-1903_0c692814-b24e-46fe-b4b5-36e9f3df3090.jpg?v=1792982456&width=400"
+    },
+    {
+     "title": "Lareina Mini Dress Sandara Broderie White",
+     "price": 260.0,
+     "compare": null,
+     "type": "Mini Dress",
+     "url": "https://www.faithfullthebrand.com/products/lareina-mini-dress-sandara-broderie-white",
+     "img": "https://cdn.shopify.com/s/files/1/1130/9504/files/S18-FF5689-SBW-26330-FaithfullTheBrand-D1-0278_cac9fbd5-e082-43bd-9826-b00ed06bc5d5.jpg?v=1792982449&width=400"
+    },
+    {
+     "title": "Cochiti Top Sandara Broderie White",
+     "price": 220.0,
+     "compare": null,
+     "type": "Tops",
+     "url": "https://www.faithfullthebrand.com/products/cochiti-top-sandara-broderie-white",
+     "img": "https://cdn.shopify.com/s/files/1/1130/9504/files/S17-FF5519-SBW-26330-FaithfullTheBrand-D1-0184_c9f5ffef-7079-4175-842e-a864c0a73ade.jpg?v=1792982448&width=400"
+    },
+    {
+     "title": "Adrianna Mini Dress Carob",
+     "price": 200.0,
+     "compare": null,
+     "type": "Mini Dress",
+     "url": "https://www.faithfullthebrand.com/products/adrianna-mini-dress-carob",
+     "img": "https://cdn.shopify.com/s/files/1/1130/9504/files/S29-FF5651-CAR-26330-FaithfullTheBrand-D2-0187.jpg?v=1792982447&width=400"
+    },
+    {
+     "title": "Jensen Pant Lagunera Paisley",
+     "price": 260.0,
+     "compare": null,
+     "type": "Pants",
+     "url": "https://www.faithfullthebrand.com/products/jensen-pant-lagunera-paisley",
+     "img": "https://cdn.shopify.com/s/files/1/1130/9504/files/S1-FF5645-LGP-26330-FaithfullTheBrand-D1-0654_f834eddd-f007-4ce7-ad1c-228a210f9fe8.jpg?v=1792982446&width=400"
     }
    ]
   },

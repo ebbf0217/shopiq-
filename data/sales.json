@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-25T02:50:16+00:00",
+ "fetched_at": "2026-11-25T13:01:52+00:00",
  "min_pct": 20,
  "brands": [
   {
@@ -8,10 +8,18 @@
    "cat": "american",
    "currency": "USD",
    "checked": 2000,
-   "on_sale": 1864,
+   "on_sale": 1856,
    "max_pct": 80,
-   "median_pct": 60,
+   "median_pct": 70,
    "top": [
+    {
+     "title": "Ultrasoft Polo Sweater | Heather Mid Charcoal",
+     "pct": 80,
+     "price": 30.0,
+     "compare": 148.0,
+     "url": "https://www.everlane.com/products/mens-ultrasoft-polo-sweater-heather-mid-charcoal",
+     "img": "https://cdn.shopify.com/s/files/1/0623/7916/3734/files/7ee2053a_3e3c.jpg?v=1765994406&width=400"
+    },
     {
      "title": "The ’90s Cheeky® Jean | Deep Atlantic | 30.5\" Inseam",
      "pct": 80,
@@ -67,14 +75,6 @@
      "compare": 148.0,
      "url": "https://www.everlane.com/products/mens-90s-baggy-cargo-pant-washed-black",
      "img": "https://cdn.shopify.com/s/files/1/0623/7916/3734/files/73d40a48_1a9c.jpg?v=1763510419&width=400"
-    },
-    {
-     "title": "The Cargo Mini Skirt | Soft Brown",
-     "pct": 80,
-     "price": 24.0,
-     "compare": 118.0,
-     "url": "https://www.everlane.com/products/womens-cargo-mini-skirt-soft-brown",
-     "img": "https://cdn.shopify.com/s/files/1/0623/7916/3734/files/4b1e43c6_4b7d.jpg?v=1762450063&width=400"
     }
    ]
   },
@@ -235,8 +235,8 @@
    "domain": "www.loveshackfancy.com",
    "cat": "american",
    "currency": "USD",
-   "checked": 1926,
-   "on_sale": 994,
+   "checked": 1922,
+   "on_sale": 989,
    "max_pct": 86,
    "median_pct": 40,
    "top": [
@@ -311,10 +311,10 @@
    "domain": "www.faithfullthebrand.com",
    "cat": "american",
    "currency": "USD",
-   "checked": 868,
+   "checked": 894,
    "on_sale": 709,
    "max_pct": 81,
-   "median_pct": 30,
+   "median_pct": 40,
    "top": [
     {
      "title": "Cala Bianca Crochet Hat Black - Final Sale",
@@ -995,7 +995,7 @@
    "domain": "www.apc.fr",
    "cat": "french",
    "currency": "EUR",
-   "checked": 1132,
+   "checked": 1138,
    "on_sale": 173,
    "max_pct": 50,
    "median_pct": 50,
@@ -1271,7 +1271,7 @@
    "domain": "www.toteme.com",
    "cat": "scandi",
    "currency": "SEK",
-   "checked": 1934,
+   "checked": 1931,
    "on_sale": 1,
    "max_pct": 60,
    "median_pct": 60,
