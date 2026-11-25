@@ -1,248 +1,16 @@
 {
- "fetched_at": "2026-11-24T22:27:03+00:00",
+ "fetched_at": "2026-11-25T02:43:31+00:00",
  "min_pct": 20,
  "brands": [
-  {
-   "brand": "STAUD",
-   "domain": "www.staud.clothing",
-   "cat": "american",
-   "currency": "USD",
-   "checked": 250,
-   "on_sale": 246,
-   "max_pct": 50,
-   "median_pct": 30,
-   "new_14d": 0,
-   "top": [
-    {
-     "title": "Wells Dress | White Embroidery",
-     "pct": 50,
-     "price": 248.0,
-     "compare": 495.0,
-     "url": "https://www.staud.clothing/products/wells-dress-white-embroidery",
-     "img": "https://cdn.shopify.com/s/files/1/1689/2633/files/183-WELLS_DRESS_WHTF_0646_web_edit.jpg?v=1746566546&width=400"
-    },
-    {
-     "title": "Calluna Dress | Chartreuse",
-     "pct": 50,
-     "price": 248.0,
-     "compare": 495.0,
-     "url": "https://www.staud.clothing/products/calluna-dress-chartreuse",
-     "img": "https://cdn.shopify.com/s/files/1/1689/2633/files/8112539435181_calluna-dress-chartreuse_efd5181c-38b0-4db0-8e14-94b48ade61bd.jpg?v=1790030903&width=400"
-    },
-    {
-     "title": "Lorenzo Top | Meringue Ditsy",
-     "pct": 50,
-     "price": 93.0,
-     "compare": 185.0,
-     "url": "https://www.staud.clothing/products/lorenzo-top-meringue-ditsy",
-     "img": "https://cdn.shopify.com/s/files/1/1689/2633/files/8435242860717_lorenzo-top-meringue-ditsy_3b91ab2e-56ad-4300-95f3-de7d7d4f1dd7.jpg?v=1790031296&width=400"
-    },
-    {
-     "title": "Pace Short | Pool",
-     "pct": 50,
-     "price": 98.0,
-     "compare": 195.0,
-     "url": "https://www.staud.clothing/products/pace-short-pool",
-     "img": "https://cdn.shopify.com/s/files/1/1689/2633/files/8435247448237_pace-short-pool_1f8a49c8-2f73-479f-81b4-d4b73cdfbac4.jpg?v=1790030994&width=400"
-    },
-    {
-     "title": "Gorge Scrunchie | Jungle",
-     "pct": 49,
-     "price": 38.0,
-     "compare": 75.0,
-     "url": "https://www.staud.clothing/products/gorge-scrunchie-jungle",
-     "img": "https://cdn.shopify.com/s/files/1/1689/2633/files/STAUD_GORGESCRUNCHIE_JUNGLE_ECOM_1.jpg?v=1737672588&width=400"
-    },
-    {
-     "title": "Alessandra Flat | Espresso",
-     "pct": 40,
-     "price": 195.0,
-     "compare": 325.0,
-     "url": "https://www.staud.clothing/products/alessandra-flat-espresso",
-     "img": "https://cdn.shopify.com/s/files/1/1689/2633/files/STAUD_ALESSANDRAFLAT_ESPRESSO_ECOMM_WHOLESALE_1_1.jpg?v=1764818745&width=400"
-    },
-    {
-     "title": "Cassie Dress | Lemon Custard",
-     "pct": 40,
-     "price": 357.0,
-     "compare": 595.0,
-     "url": "https://www.staud.clothing/products/cassie-dress-lemon-custard",
-     "img": "https://cdn.shopify.com/s/files/1/1689/2633/files/10-CASSIE_DRESS_LEMC_1582_web.jpg?v=1771282897&width=400"
-    },
-    {
-     "title": "Maisie Linen Top | Blush Canyon",
-     "pct": 40,
-     "price": 135.0,
-     "compare": 225.0,
-     "url": "https://www.staud.clothing/products/maisie-linen-top-blush-canyon",
-     "img": "https://cdn.shopify.com/s/files/1/1689/2633/files/8435243090093_maisie-linen-top-blush-canyon_0a1f04c2-4430-4a0c-a9c2-561bdb8e9e6e.jpg?v=1790031196&width=400"
-    }
-   ]
-  },
-  {
-   "brand": "LoveShackFancy",
-   "domain": "www.loveshackfancy.com",
-   "cat": "american",
-   "currency": "USD",
-   "checked": 250,
-   "on_sale": 240,
-   "max_pct": 75,
-   "median_pct": 60,
-   "new_14d": 2,
-   "top": [
-    {
-     "title": "Deanna Halter Dress - BLACK",
-     "pct": 75,
-     "price": 87.0,
-     "compare": 345.0,
-     "url": "https://www.loveshackfancy.com/products/deanna-halter-dress-2-d1143-493-color-black",
-     "img": "https://cdn.shopify.com/s/files/1/0181/8457/files/DEANNA-HALTER-DRESS-BLACK-D1143-493-015_299292b6-81e3-41d6-9435-ea201a99b3ce.jpg?v=1745010980&width=400"
-    },
-    {
-     "title": "Liv Cotton Ruffled Heritage Dress",
-     "pct": 75,
-     "price": 98.0,
-     "compare": 395.0,
-     "url": "https://www.loveshackfancy.com/products/liv-dress-ld275-289",
-     "img": "https://cdn.shopify.com/s/files/1/0181/8457/files/LIV-DRESS-ANTIQUE-WHITE-LD275-289-061_2af40b6b-18c9-4908-b081-a8e8e42a0f48.jpg?v=1745249956&width=400"
-    },
-    {
-     "title": "Coralyn Tweed Lace-Trimmed Shorts",
-     "pct": 70,
-     "price": 104.0,
-     "compare": 345.0,
-     "url": "https://www.loveshackfancy.com/products/coralyn-short-lp177-2376",
-     "img": "https://cdn.shopify.com/s/files/1/0181/8457/files/CORALYNSHORTS-STRAWBERRYSPRITZ-LP177-2376_009.jpg?v=1740435635&width=400"
-    },
-    {
-     "title": "Quindi Linen Crochet Lace Shorts",
-     "pct": 70,
-     "price": 105.0,
-     "compare": 345.0,
-     "url": "https://www.loveshackfancy.com/products/quindi-shorts-lp163-2530",
-     "img": "https://cdn.shopify.com/s/files/1/0181/8457/files/QUINDISHORTS-OPTICWHITE-LP163-2530_005.jpg?v=1748886631&width=400"
-    },
-    {
-     "title": "Klaudyna Polkadot Bikini",
-     "pct": 70,
-     "price": 59.0,
-     "compare": 195.0,
-     "url": "https://www.loveshackfancy.com/products/klaudyna-bikini-lw157-2616",
-     "img": "https://cdn.shopify.com/s/files/1/0181/8457/files/shellpink20250416_SU25_D1A_Ecomm_SKomarovski-KLAUDYNABIKINI-SHELLPINK-LW157-2616_019.jpg?v=1747327876&width=400"
-    },
-    {
-     "title": "Vreya Metallic Crochet Halter Dress",
-     "pct": 70,
-     "price": 269.0,
-     "compare": 895.0,
-     "url": "https://www.loveshackfancy.com/products/vreya-dress-k1925-2597",
-     "img": "https://cdn.shopify.com/s/files/1/0181/8457/files/VREYADRESS-SUNBURST-K1925-2597_0030.jpg?v=1751046285&width=400"
-    },
-    {
-     "title": "Vivaldina Sequin Tank Top",
-     "pct": 70,
-     "price": 140.0,
-     "compare": 465.0,
-     "url": "https://www.loveshackfancy.com/products/vivaldina-top-t1440-2594",
-     "img": "https://cdn.shopify.com/s/files/1/0181/8457/files/AURORLIA_SKIRT-GOLD-LS977-2594_0076_e425ce13-9ef9-4610-8f00-2917cb0d2d70.jpg?v=1751046967&width=400"
-    },
-    {
-     "title": "Dancia Printed Active Skort",
-     "pct": 70,
-     "price": 50.0,
-     "compare": 165.0,
-     "url": "https://www.loveshackfancy.com/products/dancia-skirt-k1962-2824",
-     "img": "https://cdn.shopify.com/s/files/1/0181/8457/files/DANCIASKIRT-PINKSPRINKLES-K1962-2604_042_07562abe-2835-4139-aae7-8c8b37a70009.jpg?v=1750170862&width=400"
-    }
-   ]
-  },
-  {
-   "brand": "Ulla Johnson",
-   "domain": "www.ullajohnson.com",
-   "cat": "designer",
-   "currency": "USD",
-   "checked": 250,
-   "on_sale": 236,
-   "max_pct": 50,
-   "median_pct": 50,
-   "new_14d": 0,
-   "top": [
-    {
-     "title": "Ames Barrell Leg Trouser - Cinder",
-     "pct": 50,
-     "price": 295.0,
-     "compare": 590.0,
-     "url": "https://www.ullajohnson.com/products/ames-barrell-leg-trouser-cinder",
-     "img": "https://cdn.shopify.com/s/files/1/0221/7797/2320/files/PS260406_CINDER.jpg?v=1795016805&width=400"
-    },
-    {
-     "title": "Elisa Jacquard Pullover - Ivory",
-     "pct": 50,
-     "price": 295.0,
-     "compare": 590.0,
-     "url": "https://www.ullajohnson.com/products/elisa-ls-jacquard-pullover-ivory",
-     "img": "https://cdn.shopify.com/s/files/1/0221/7797/2320/files/PS260737_IVORY_1.jpg?v=1795016721&width=400"
-    },
-    {
-     "title": "Mariana Top with Peplum - Lichen",
-     "pct": 50,
-     "price": 145.0,
-     "compare": 290.0,
-     "url": "https://www.ullajohnson.com/products/mariana-ss-top-with-peplum-lichen",
-     "img": "https://cdn.shopify.com/s/files/1/0221/7797/2320/files/SP260814_LICHEN_1.jpg?v=1795013358&width=400"
-    },
-    {
-     "title": "Dalila Ruched Maillot - Urchin",
-     "pct": 50,
-     "price": 145.0,
-     "compare": 290.0,
-     "url": "https://www.ullajohnson.com/products/dalila-ruched-maillot-urchin",
-     "img": "https://cdn.shopify.com/s/files/1/0221/7797/2320/files/SP261717_URCHIN_1.jpg?v=1795013229&width=400"
-    },
-    {
-     "title": "Ibiza One Shoulder Maillot - Cowrie",
-     "pct": 50,
-     "price": 185.0,
-     "compare": 370.0,
-     "url": "https://www.ullajohnson.com/products/ibiza-one-shoulder-maillot-cowrie",
-     "img": "https://cdn.shopify.com/s/files/1/0221/7797/2320/files/IbizaOneShoulderMaillotCowrie.jpg?v=1794964096&width=400"
-    },
-    {
-     "title": "Dalila Ruched Maillot - Coral",
-     "pct": 50,
-     "price": 145.0,
-     "compare": 290.0,
-     "url": "https://www.ullajohnson.com/products/dalila-ruched-maillot-coral",
-     "img": "https://cdn.shopify.com/s/files/1/0221/7797/2320/files/DalilaSwimsuitCoral_1.jpg?v=1794963866&width=400"
-    },
-    {
-     "title": "Ines Jersey Top - Prism",
-     "pct": 50,
-     "price": 85.0,
-     "compare": 170.0,
-     "url": "https://www.ullajohnson.com/products/ines-sl-jersey-top-prism",
-     "img": "https://cdn.shopify.com/s/files/1/0221/7797/2320/files/SP260826_PRISM_1.jpg?v=1794956609&width=400"
-    },
-    {
-     "title": "Lakshmi Eyelet Knit Dress - Coral Peony",
-     "pct": 50,
-     "price": 445.0,
-     "compare": 890.0,
-     "url": "https://www.ullajohnson.com/products/lakshmi-eyelet-knit-dress-coral-peony",
-     "img": "https://cdn.shopify.com/s/files/1/0221/7797/2320/files/SP260702_CORALPEONY_1.jpg?v=1794956508&width=400"
-    }
-   ]
-  },
   {
    "brand": "Everlane",
    "domain": "www.everlane.com",
    "cat": "american",
    "currency": "USD",
-   "checked": 250,
-   "on_sale": 225,
+   "checked": 2000,
+   "on_sale": 1864,
    "max_pct": 80,
-   "median_pct": 40,
-   "new_14d": 10,
+   "median_pct": 60,
    "top": [
     {
      "title": "The ’90s Cheeky® Jean | Deep Atlantic | 30.5\" Inseam",
@@ -269,429 +37,272 @@
      "img": "https://cdn.shopify.com/s/files/1/0623/7916/3734/files/83c168e4_db01.jpg?v=1753411464&width=400"
     },
     {
-     "title": "Funnel-Neck Sweater in Wool Cashmere | Light Heathered Taupe",
-     "pct": 75,
-     "price": 67.0,
-     "compare": 268.0,
-     "url": "https://www.everlane.com/products/womens-funnel-neck-sweater-wool-cashmere-light-heathered-taupe",
-     "img": "https://cdn.shopify.com/s/files/1/0623/7916/3734/files/bd18e699_9021.jpg?v=1758302356&width=400"
-    },
-    {
-     "title": "Studio Kitten Heel Bootie | Black",
-     "pct": 75,
-     "price": 75.0,
-     "compare": 298.0,
-     "url": "https://www.everlane.com/products/womens-studio-kitten-heel-bootie-black",
-     "img": "https://cdn.shopify.com/s/files/1/0623/7916/3734/files/e622bb59_bdf2.jpg?v=1778173207&width=400"
-    },
-    {
-     "title": "Luxe Merino Double-Knit Sweater | Taupe Melange",
-     "pct": 75,
-     "price": 40.0,
+     "title": "The Wide-Leg Pant in Stretch Linen | Trench Coat Khaki",
+     "pct": 80,
+     "price": 32.0,
      "compare": 158.0,
-     "url": "https://www.everlane.com/products/mens-luxe-merino-dblknit-sweater-taupe-melange",
-     "img": "https://cdn.shopify.com/s/files/1/0623/7916/3734/files/dbc72596_9b14.jpg?v=1758129540&width=400"
+     "url": "https://www.everlane.com/products/womens-wide-leg-pant-stretch-linen-trench-coat-khaki",
+     "img": "https://cdn.shopify.com/s/files/1/0623/7916/3734/files/ea0c96a3_b410.jpg?v=1753411845&width=400"
     },
     {
-     "title": "The Easy Cargo Pant | Sagebrush",
-     "pct": 75,
-     "price": 37.0,
-     "compare": 148.0,
-     "url": "https://www.everlane.com/products/womens-easy-cargo-pant-sagebrush",
-     "img": "https://cdn.shopify.com/s/files/1/0623/7916/3734/files/12bba534_03d5.jpg?v=1753411952&width=400"
-    },
-    {
-     "title": "Cable Sweater in Luxe Merino | Heathered Mid-Grey",
-     "pct": 75,
-     "price": 50.0,
-     "compare": 198.0,
-     "url": "https://www.everlane.com/products/womens-cable-sweater-in-luxe-merino-heathered-mid-grey",
-     "img": "https://cdn.shopify.com/s/files/1/0623/7916/3734/files/aa4f409a_9814.jpg?v=1762622878&width=400"
-    }
-   ]
-  },
-  {
-   "brand": "Alo Yoga",
-   "domain": "www.aloyoga.com",
-   "cat": "active",
-   "currency": "USD",
-   "checked": 228,
-   "on_sale": 213,
-   "max_pct": 61,
-   "median_pct": 31,
-   "new_14d": 0,
-   "top": [
-    {
-     "title": "Aces Tennis Skirt - Black",
-     "pct": 61,
-     "price": 29.0,
-     "compare": 74.0,
-     "url": "https://www.aloyoga.com/products/w6235r-aces-tennis-skirt-black",
-     "img": "https://cdn.shopify.com/s/files/1/2185/2813/files/W6235R_01_b1_s1_a1_1_m125.jpg?v=1704221494&width=400"
-    },
-    {
-     "title": "3\" ALO Softsculpt High-Waist Precision Short - Green Olive",
-     "pct": 61,
-     "price": 33.0,
-     "compare": 84.0,
-     "url": "https://www.aloyoga.com/products/w6495r-3-alo-softsculpt-high-waist-precision-short-green-olive",
-     "img": "https://cdn.shopify.com/s/files/1/2185/2813/files/W6495R_06464_b1_s1_a1_m207.jpg?v=1756826486&width=400"
-    },
-    {
-     "title": "Alosoft High-Waist 7/8 Relay Legging - Candy Red/White",
-     "pct": 61,
-     "price": 45.0,
-     "compare": 114.0,
-     "url": "https://www.aloyoga.com/products/w54177r-alosoft-high-waist-7-8-relay-legging-candy-red-white",
-     "img": "https://cdn.shopify.com/s/files/1/2185/2813/files/W54177R_06335_b2_s1_a1_m18.jpg?v=1745900940&width=400"
-    },
-    {
-     "title": "Washed Alosoft Crop Finesse Long Sleeve - Grey Sky Wash",
-     "pct": 61,
-     "price": 33.0,
-     "compare": 84.0,
-     "url": "https://www.aloyoga.com/products/w3930r-washed-alosoft-crop-finesse-long-sleeve-grey-sky-wash",
-     "img": "https://cdn.shopify.com/s/files/1/2185/2813/files/W3930R_06024_b1_s1_a1_1_m233.jpg?v=1741298005&width=400"
-    },
-    {
-     "title": "Light Weight Takeaway Track Pullover - Burgundy",
-     "pct": 60,
-     "price": 59.0,
-     "compare": 148.0,
-     "url": "https://www.aloyoga.com/products/m3259r-light-weight-takeaway-track-pullover-burgundy",
-     "img": "https://cdn.shopify.com/s/files/1/2185/2813/files/M3259R_06465_b1_s1_a1_m253_8b7bd98e-ca00-4a0f-98e7-b00b54ad1750.jpg?v=1766783062&width=400"
-    },
-    {
-     "title": "Denim Knit Sleeveless Full Zip Top - Black/Anthracite",
-     "pct": 60,
-     "price": 67.0,
+     "title": "Paneled Ultra Wide-Leg Jean | Twilight",
+     "pct": 80,
+     "price": 34.0,
      "compare": 168.0,
-     "url": "https://www.aloyoga.com/products/w1459r-denim-knit-sleeveless-full-zip-top-black-anthracite",
-     "img": "https://cdn.shopify.com/s/files/1/2185/2813/files/W1459R_02620_b2_s1_a1_1_m227.jpg?v=1730392361&width=400"
+     "url": "https://www.everlane.com/products/womens-paneled-wide-leg-jean-twilight",
+     "img": "https://cdn.shopify.com/s/files/1/0623/7916/3734/files/02b4988f_e5c1.jpg?v=1768514403&width=400"
     },
     {
-     "title": "Airlift Double Trouble Bra - Black",
-     "pct": 60,
-     "price": 27.0,
-     "compare": 68.0,
-     "url": "https://www.aloyoga.com/products/w9620r-airlift-double-trouble-bra-black",
-     "img": "https://cdn.shopify.com/s/files/1/2185/2813/files/W9782R_01_b1_s1_a2_dSP26_m191.jpg?v=1771617078&width=400"
+     "title": "'90s Baggy Cargo Pant | Olive",
+     "pct": 80,
+     "price": 30.0,
+     "compare": 148.0,
+     "url": "https://www.everlane.com/products/mens-90s-baggy-cargo-pant-olive",
+     "img": "https://cdn.shopify.com/s/files/1/0623/7916/3734/files/bc7b7312_3eff.jpg?v=1762190904&width=400"
     },
     {
-     "title": "Afterglow Wide Leg Track Pant - Black",
-     "pct": 60,
-     "price": 51.0,
-     "compare": 128.0,
-     "url": "https://www.aloyoga.com/products/w54151r-afterglow-wide-leg-track-pant-black",
-     "img": "https://cdn.shopify.com/s/files/1/2185/2813/files/W54151R_01_b1_s1_a1_1_m54.jpg?v=1732563367&width=400"
+     "title": "'90s Baggy Cargo Pant | Washed Black",
+     "pct": 80,
+     "price": 30.0,
+     "compare": 148.0,
+     "url": "https://www.everlane.com/products/mens-90s-baggy-cargo-pant-washed-black",
+     "img": "https://cdn.shopify.com/s/files/1/0623/7916/3734/files/73d40a48_1a9c.jpg?v=1763510419&width=400"
+    },
+    {
+     "title": "The Cargo Mini Skirt | Soft Brown",
+     "pct": 80,
+     "price": 24.0,
+     "compare": 118.0,
+     "url": "https://www.everlane.com/products/womens-cargo-mini-skirt-soft-brown",
+     "img": "https://cdn.shopify.com/s/files/1/0623/7916/3734/files/4b1e43c6_4b7d.jpg?v=1762450063&width=400"
     }
    ]
   },
   {
-   "brand": "KHAITE",
-   "domain": "www.khaite.com",
-   "cat": "designer",
-   "currency": "USD",
-   "checked": 250,
-   "on_sale": 208,
-   "max_pct": 50,
-   "median_pct": 40,
-   "new_14d": 0,
-   "top": [
-    {
-     "title": "Harvey Over-the-Knee High Boot in Zebra Print Haircalf and Black Suede",
-     "pct": 50,
-     "price": 1600.0,
-     "compare": 3200.0,
-     "url": "https://www.khaite.com/products/harvey-otk-boot-85-in-black-white",
-     "img": "https://cdn.shopify.com/s/files/1/1519/7996/files/HARVEY-OTK-BOOT-85_BLACK-WHITE_F1119-997-294_A_jpg.jpg?v=1757969621&width=400"
-    },
-    {
-     "title": "Mia Pump in Bordeaux Patent Leather",
-     "pct": 50,
-     "price": 490.0,
-     "compare": 980.0,
-     "url": "https://www.khaite.com/products/mia-pump-45-in-bordeaux",
-     "img": "https://cdn.shopify.com/s/files/1/1519/7996/files/MIA-PUMP-45_BORDEAUX_F3085-938-531_A.jpg?v=1757083969&width=400"
-    },
-    {
-     "title": "Fallon Boot in Black Leather",
-     "pct": 50,
-     "price": 790.0,
-     "compare": 1580.0,
-     "url": "https://www.khaite.com/products/fallon-boot-35-in-black",
-     "img": "https://cdn.shopify.com/s/files/1/1519/7996/files/FALLON-BOOT-35_BLACK_F1121-994-200_A_jpg.jpg?v=1757969598&width=400"
-    },
-    {
-     "title": "Harvey Over-the-Knee High Boot in Morning Dove Suede and Taupe Python-Embossed Leather",
-     "pct": 50,
-     "price": 1400.0,
-     "compare": 2800.0,
-     "url": "https://www.khaite.com/products/harvey-otk-boot-85-in-morning-dove-taupe",
-     "img": "https://cdn.shopify.com/s/files/1/1519/7996/files/HARVEY-OTK-BOOT-85_MORNING-DOVE-TAUPE_F1119-996-648_A_jpg.jpg?v=1757969606&width=400"
-    },
-    {
-     "title": "Ona Ankle Boot in Zebra Print Haircalf",
-     "pct": 50,
-     "price": 845.0,
-     "compare": 1690.0,
-     "url": "https://www.khaite.com/products/ona-ankle-boot-55-in-black-white",
-     "img": "https://cdn.shopify.com/s/files/1/1519/7996/files/ONA-ANKLE-BOOT-55_BLACK-WHITE_F1100-711-294_A_jpg.jpg?v=1757969628&width=400"
-    },
-    {
-     "title": "Anya Skirt in Cream Multi",
-     "pct": 50,
-     "price": 1400.0,
-     "compare": 2800.0,
-     "url": "https://www.khaite.com/products/anya-skirt-in-cream-multi",
-     "img": "https://cdn.shopify.com/s/files/1/1519/7996/files/ANYA-SKIRT_CREAM-MULTI_41754216-128_GHOST_jpg.jpg?v=1758813751&width=400"
-    },
-    {
-     "title": "Fallon Over-the-Knee Boot in Black Leather",
-     "pct": 50,
-     "price": 1200.0,
-     "compare": 2400.0,
-     "url": "https://www.khaite.com/products/fallon-otk-boot-35-in-black",
-     "img": "https://cdn.shopify.com/s/files/1/1519/7996/files/FALLON-OTK-BOOT-35_BLACK_F1120-994-200_A_jpg.jpg?v=1757969663&width=400"
-    },
-    {
-     "title": "Edgar Dress in Black Multi",
-     "pct": 50,
-     "price": 1990.0,
-     "compare": 3980.0,
-     "url": "https://www.khaite.com/products/edgar-dress-in-black-multi",
-     "img": "https://cdn.shopify.com/s/files/1/1519/7996/files/EDGAR-DRESS_BLACK-MULTI_55653372-283_GHOST_Alt_jpg.jpg?v=1759328119&width=400"
-    }
-   ]
-  },
-  {
-   "brand": "A.P.C. Paris",
-   "domain": "www.apc.fr",
-   "cat": "french",
-   "currency": "EUR",
-   "checked": 250,
-   "on_sale": 172,
-   "max_pct": 50,
-   "median_pct": 50,
-   "new_14d": 51,
-   "top": [
-    {
-     "title": "Sweat Standard Rue Madame",
-     "pct": 50,
-     "price": 110.0,
-     "compare": 220.0,
-     "url": "https://www.apc.fr/products/sweat-standard-rue-madame-ila-cohgr-m27913",
-     "img": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/COHGR-M27913ILA_01.jpg?v=1795006354&width=400"
-    },
-    {
-     "title": "Sac cabas Ninon",
-     "pct": 50,
-     "price": 130.0,
-     "compare": 260.0,
-     "url": "https://www.apc.fr/products/sac-cabas-ninon-cab-puaat-m61565",
-     "img": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/PUAAT-M61565CAB_00.jpg?v=1795006352&width=400"
-    },
-    {
-     "title": "Porte-cartes Genève",
-     "pct": 50,
-     "price": 80.0,
-     "compare": 160.0,
-     "url": "https://www.apc.fr/products/porte-cartes-de-visite-dar-pxawv-f63349",
-     "img": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/PXAWV-F63349DAR_00.jpg?v=1795006352&width=400"
-    },
-    {
-     "title": "Cabas Recuperation",
-     "pct": 50,
-     "price": 115.0,
-     "compare": 230.0,
-     "url": "https://www.apc.fr/products/cabas-recuperation-lab-cohok-h61318",
-     "img": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/COHOK-H61318LAB_00.jpg?v=1779276521&width=400"
-    },
-    {
-     "title": "Tote Lou Rue Madame Small 2.0",
-     "pct": 50,
-     "price": 37.5,
-     "compare": 75.0,
-     "url": "https://www.apc.fr/products/tote-lou-rue-madame-small-20-bad-cohmn-m67065",
-     "img": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/COHMN-M67065BAD_00.jpg?v=1779276525&width=400"
-    },
-    {
-     "title": "pull col v",
-     "pct": 50,
-     "price": 140.0,
-     "compare": 280.0,
-     "url": "https://www.apc.fr/products/pull-col-v-iaa-wvbdn-f23455",
-     "img": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/WVBDN-F23455IAA_00.jpg?v=1778170272&width=400"
-    },
-    {
-     "title": "Chemise Warren",
-     "pct": 50,
-     "price": 115.0,
-     "compare": 230.0,
-     "url": "https://www.apc.fr/products/chemise-warren-cae-cohog-m12006",
-     "img": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/COHOG-M12006CAE_00.jpg?v=1767884091&width=400"
-    },
-    {
-     "title": "jean elisabeth",
-     "pct": 50,
-     "price": 135.0,
-     "compare": 270.0,
-     "url": "https://www.apc.fr/products/jean-elisabeth-iab-cohoa-f09181",
-     "img": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/COHOA-F09181IAB_00.jpg?v=1767634253&width=400"
-    }
-   ]
-  },
-  {
-   "brand": "Outdoor Voices",
-   "domain": "www.outdoorvoices.com",
-   "cat": "active",
-   "currency": "USD",
-   "checked": 250,
-   "on_sale": 164,
-   "max_pct": 83,
-   "median_pct": 41,
-   "new_14d": 0,
-   "top": [
-    {
-     "title": "Court Dress",
-     "pct": 83,
-     "price": 17.97,
-     "compare": 108.0,
-     "url": "https://www.outdoorvoices.com/products/w-court-dress-black",
-     "img": "https://cdn.shopify.com/s/files/1/0190/1390/files/W401725-TXC-BLK_Court_Dress_Black_049_555b15fa-c29d-47b9-8961-540c90532766.jpg?v=1762269288&width=400"
-    },
-    {
-     "title": "Zephyr 29\" Pant",
-     "pct": 82,
-     "price": 17.97,
-     "compare": 98.0,
-     "url": "https://www.outdoorvoices.com/products/w-zephyr-longer-inseam-laurel-wreath",
-     "img": "https://cdn.shopify.com/s/files/1/0190/1390/files/W702097-REC-LWR_Zephyr_Longer_Inseam_RESHOOT_Laurel_Wreath_095_14d1ec76-1547-46cc-b021-9365090dd473.jpg?v=1762269570&width=400"
-    },
-    {
-     "title": "The Exercise 3\" Skort",
-     "pct": 78,
-     "price": 14.97,
-     "compare": 68.0,
-     "url": "https://www.outdoorvoices.com/products/w-the-exercise-3in-skort-evergreen",
-     "img": "https://cdn.shopify.com/s/files/1/0190/1390/files/210625_OP_OV__W701427-WTS-EGR_The_Exercise_322_Skort_Evergreen_084_T1wsNQ6_f731f389-019c-4b04-a2b5-c7bbb9c428be.jpg?v=1762269625&width=400"
-    },
-    {
-     "title": "SuperForm Crop Top",
-     "pct": 71,
-     "price": 16.97,
-     "compare": 58.0,
-     "url": "https://www.outdoorvoices.com/products/w-superform-crop-top-laurel-wreath",
-     "img": "https://cdn.shopify.com/s/files/1/0190/1390/files/W301761-BIT-LWR_SuperFormCropTop_LaurelWreath_000.jpg?v=1757812683&width=400"
-    },
-    {
-     "title": "SolarCool 3\" Beach Short",
-     "pct": 71,
-     "price": 19.97,
-     "compare": 68.0,
-     "url": "https://www.outdoorvoices.com/products/w-solarcool-3-short-unlined-stream",
-     "img": "https://cdn.shopify.com/s/files/1/0190/1390/files/ODV00021-Cropped.jpg?v=1762269457&width=400"
-    },
-    {
-     "title": "Court Skort 4.5\"",
-     "pct": 71,
-     "price": 16.97,
-     "compare": 58.0,
-     "url": "https://www.outdoorvoices.com/products/w-court-skort-4-5in-dove-ash",
-     "img": "https://cdn.shopify.com/s/files/1/0190/1390/files/W701428-TXC-DAS_Court_Skort_4.5in_Dove-Ash_030_6AeCVb5_80f8088e-991f-407a-b252-1398bbd1aa02.jpg?v=1762269690&width=400"
-    },
-    {
-     "title": "SuperForm Crop Top",
-     "pct": 71,
-     "price": 16.97,
-     "compare": 58.0,
-     "url": "https://www.outdoorvoices.com/products/w-superform-crop-top-hot-coral",
-     "img": "https://cdn.shopify.com/s/files/1/0190/1390/files/W301761-BIT-HTC_SuperFormCropTop_HotCoral_000.jpg?v=1757812689&width=400"
-    },
-    {
-     "title": "SolarCool Tourist Shirt",
-     "pct": 71,
-     "price": 22.97,
-     "compare": 78.0,
-     "url": "https://www.outdoorvoices.com/products/w-solarcool-camp-collar-stream",
-     "img": "https://cdn.shopify.com/s/files/1/0190/1390/files/ODV00038.jpg?v=1762269400&width=400"
-    }
-   ]
-  },
-  {
-   "brand": "Allbirds",
-   "domain": "www.allbirds.com",
+   "brand": "STAUD",
+   "domain": "www.staud.clothing",
    "cat": "american",
    "currency": "USD",
-   "checked": 250,
-   "on_sale": 154,
+   "checked": 1826,
+   "on_sale": 1776,
    "max_pct": 75,
-   "median_pct": 50,
-   "new_14d": 0,
+   "median_pct": 30,
    "top": [
     {
-     "title": "Trino® Tubers - Navy Night",
+     "title": "Cece Dress | Espresso Black",
      "pct": 75,
-     "price": 4.0,
-     "compare": 16.0,
-     "url": "https://www.allbirds.com/products/trino-tubers-navy-night",
-     "img": "https://cdn.shopify.com/s/files/1/1104/4168/products/ST1UNNT_SOCKS_NAVY_NIGHT_FRONT.png?v=1666820168&width=400"
+     "price": 149.0,
+     "compare": 595.0,
+     "url": "https://www.staud.clothing/products/cece-dress-espresso-black",
+     "img": "https://cdn.shopify.com/s/files/1/1689/2633/files/301-CECE_DRESS_ESBL_retouch_liner_0026_web.jpg?v=1761006032&width=400"
     },
     {
-     "title": "Men's Allbirds Slide - Verdant Green",
-     "pct": 70,
-     "price": 16.5,
-     "compare": 55.0,
-     "url": "https://www.allbirds.com/products/mens-allbirds-slide-verdant-green",
-     "img": "https://cdn.shopify.com/s/files/1/1104/4168/files/A12659_26Q1_Allbirds-Slide-Verdant-Green_PDP_LEFT.png?v=1769463080&width=400"
+     "title": "Bowery Leather Dress | Tiramisu",
+     "pct": 65,
+     "price": 523.0,
+     "compare": 1495.0,
+     "url": "https://www.staud.clothing/products/bowery-dress-tiramisu",
+     "img": "https://cdn.shopify.com/s/files/1/1689/2633/files/290-BOWERY_DRESS_BROWN_1552_web.jpg?v=1722617627&width=400"
     },
     {
-     "title": "Women's Varsity Strap - Multi (Natural White Sole)",
+     "title": "Cropped Hampton Sweater | Telluride",
+     "pct": 60,
+     "price": 150.0,
+     "compare": 375.0,
+     "url": "https://www.staud.clothing/products/cropped-hampton-sweater-telluride",
+     "img": "https://cdn.shopify.com/s/files/1/1689/2633/files/266-CROPPED_HAMPTON_SWEATER_TELLURIDE_0251_web_950c1a48-f768-4904-a1a2-dac0bed18027.jpg?v=1764813089&width=400"
+    },
+    {
+     "title": "Sabine Suede Jacket | Espresso",
+     "pct": 60,
+     "price": 758.0,
+     "compare": 1895.0,
+     "url": "https://www.staud.clothing/products/sabine-suede-jacket-espresso",
+     "img": "https://cdn.shopify.com/s/files/1/1689/2633/files/143-SABINE_SUEDE_JACKET_ESPR_1061_web.jpg?v=1752807775&width=400"
+    },
+    {
+     "title": "Jonah Long Coat | Riverstone",
+     "pct": 60,
+     "price": 318.0,
+     "compare": 795.0,
+     "url": "https://www.staud.clothing/products/jonah-long-jacket-riverstone",
+     "img": "https://cdn.shopify.com/s/files/1/1689/2633/files/69-JACKSON_MIDI_TRENCH_COAT_RIVR_1806_web.jpg?v=1753394476&width=400"
+    },
+    {
+     "title": "Harlow Bag | Storm Fur",
+     "pct": 60,
+     "price": 158.0,
+     "compare": 395.0,
+     "url": "https://www.staud.clothing/products/harlow-bag-storm-fur",
+     "img": "https://cdn.shopify.com/s/files/1/1689/2633/files/STAUD_HARLOWBAG_STORMFUR_ECOMM_1.jpg?v=1761875052&width=400"
+    },
+    {
+     "title": "Binx Leather Dress | Distressed Brown",
+     "pct": 55,
+     "price": 583.0,
+     "compare": 1295.0,
+     "url": "https://www.staud.clothing/products/binx-leather-dress-distressed-brown",
+     "img": "https://cdn.shopify.com/s/files/1/1689/2633/files/202-BINX_LEATHER_DRESS_DSTB_0182_web_375547cc-2d7d-4c6e-82db-c9a3be3585a3.jpg?v=1761875084&width=400"
+    },
+    {
+     "title": "Crest Skirt | Leaf Suede",
+     "pct": 50,
+     "price": 398.0,
+     "compare": 795.0,
+     "url": "https://www.staud.clothing/products/crest-suede-skirt-leaf",
+     "img": "https://cdn.shopify.com/s/files/1/1689/2633/files/80-CREST_SKIRT_LEF_0731_web.jpg?v=1761776012&width=400"
+    }
+   ]
+  },
+  {
+   "brand": "Kith",
+   "domain": "www.kith.com",
+   "cat": "multi",
+   "currency": "USD",
+   "checked": 2000,
+   "on_sale": 1638,
+   "max_pct": 80,
+   "median_pct": 40,
+   "top": [
+    {
+     "title": "Birkenstock 1774 WMNS Sylt Padded Leather Azalea - Pink",
+     "pct": 80,
+     "price": 78.0,
+     "compare": 390.0,
+     "url": "https://www.kith.com/products/br1025961",
+     "img": "https://cdn.shopify.com/s/files/1/0094/2252/files/BR1025961Birkenstock1774SyltPaddedLeatherAzaleaPinkWmns_2164.jpg?v=1794856275&width=400"
+    },
+    {
+     "title": "Nike Air Max 1 PRM - Summit White / White / Sail / Coconut Milk",
      "pct": 70,
-     "price": 34.5,
+     "price": 48.0,
+     "compare": 160.0,
+     "url": "https://www.kith.com/products/nkdz5317-121",
+     "img": "https://cdn.shopify.com/s/files/1/0094/2252/files/NKDZ5317-121NikeAirMax1PRMSummitWhiteWhiteSailCoconutMilk_26034.jpg?v=1794856292&width=400"
+    },
+    {
+     "title": "Nike Cortez - Midnight Navy / Sail / Noise Aqua",
+     "pct": 69,
+     "price": 26.0,
+     "compare": 85.0,
+     "url": "https://www.kith.com/products/nkdm4044-400",
+     "img": "https://cdn.shopify.com/s/files/1/0094/2252/files/NKDM4044-400-Front.jpg?v=1794590506&width=400"
+    },
+    {
+     "title": "Visvim FKT Runner - Light Brown",
+     "pct": 60,
+     "price": 527.0,
+     "compare": 1317.0,
+     "url": "https://www.kith.com/products/vs125201001004",
+     "img": "https://cdn.shopify.com/s/files/1/0094/2252/files/P01098272.jpg?v=1764620823&width=400"
+    },
+    {
+     "title": "Rick Owens Boat Sneaks Scarpe - Denim Black / Milk / Milk",
+     "pct": 60,
+     "price": 294.0,
+     "compare": 735.0,
+     "url": "https://www.kith.com/products/rodu01e3804-scf-911",
+     "img": "https://cdn.shopify.com/s/files/1/0094/2252/files/RODU01E3804-SCF-911RickOwensBoatSneaksScarpeInDenimBlackMilkMilk_4081_c468001f-15b2-478f-a2ec-bf6c9957a594.jpg?v=1794590469&width=400"
+    },
+    {
+     "title": "VINNY's Yardee Mocassin Loafer - Polido Leather Black",
+     "pct": 60,
+     "price": 140.0,
+     "compare": 350.0,
+     "url": "https://www.kith.com/products/vy0125-01-24",
+     "img": "https://cdn.shopify.com/s/files/1/0094/2252/files/VN0125-01-24VinnysYardeeMocassinLoaferPolidoLeatherBlack_6501.jpg?v=1794856268&width=400"
+    },
+    {
+     "title": "Nike Dunk High Retro BTTYS - Orange / Deep Royal Blue / White",
+     "pct": 60,
+     "price": 46.0,
      "compare": 115.0,
-     "url": "https://www.allbirds.com/products/womens-varsity-strap",
-     "img": "https://cdn.shopify.com/s/files/1/1104/4168/files/A12590_26Q2_Womens-Varsity-Strap-Multi-Natural-White-Sole_PDP_LEFT.png?v=1766771238&width=400"
+     "url": "https://www.kith.com/products/nkdd1399-800",
+     "img": "https://cdn.shopify.com/s/files/1/0094/2252/files/NKDD1399-800NikeDunkHiRetroBTTYSOrangeOrangeDeepRoyalBlueWhite_11225.jpg?v=1794856289&width=400"
     },
     {
-     "title": "Women's Allbirds Slide Terry - Ochre/Warm White (Ochre Sole)",
-     "pct": 70,
-     "price": 18.0,
-     "compare": 60.0,
-     "url": "https://www.allbirds.com/products/womens-allbirds-slide-terry-ochre-warm-white",
-     "img": "https://cdn.shopify.com/s/files/1/1104/4168/files/A12668_26Q2_Allbirds-Slide-Terry-Ochre-Warm-White-Ochre-Sole_PDP_LEFT.png?v=1774474916&width=400"
+     "title": "adidas WMNS Cow Print Samba Long Tongue - Off White / Lucid Pink / Gum",
+     "pct": 50,
+     "price": 65.0,
+     "compare": 130.0,
+     "url": "https://www.kith.com/products/aajs3931",
+     "img": "https://cdn.shopify.com/s/files/1/0094/2252/files/JS3931_1_FOOTWEAR_Photography_SideLateralCenterView_white_03d29baa-501e-47a8-9d5d-ee4c5ae79342.jpg?v=1794531357&width=400"
+    }
+   ]
+  },
+  {
+   "brand": "LoveShackFancy",
+   "domain": "www.loveshackfancy.com",
+   "cat": "american",
+   "currency": "USD",
+   "checked": 1926,
+   "on_sale": 994,
+   "max_pct": 86,
+   "median_pct": 40,
+   "top": [
+    {
+     "title": "Loeffler Randall Rivka Platform Sandal",
+     "pct": 86,
+     "price": 63.0,
+     "compare": 450.0,
+     "url": "https://www.loveshackfancy.com/products/rivka-platform-rivka",
+     "img": "https://cdn.shopify.com/s/files/1/0181/8457/files/RIVKA-N-CHMPN_2CHAMPAGNE.jpg?v=1744134850&width=400"
     },
     {
-     "title": "Men's Allbirds Slide - Spice",
-     "pct": 70,
-     "price": 16.5,
-     "compare": 55.0,
-     "url": "https://www.allbirds.com/products/mens-allbirds-slide",
-     "img": "https://cdn.shopify.com/s/files/1/1104/4168/files/A12655_26Q1_Allbirds-Slide-Spice_PDP_LEFT.png?v=1769463077&width=400"
+     "title": "Deanna Halter Dress - BLACK",
+     "pct": 75,
+     "price": 87.0,
+     "compare": 345.0,
+     "url": "https://www.loveshackfancy.com/products/deanna-halter-dress-2-d1143-493-color-black",
+     "img": "https://cdn.shopify.com/s/files/1/0181/8457/files/DEANNA-HALTER-DRESS-BLACK-D1143-493-015_299292b6-81e3-41d6-9435-ea201a99b3ce.jpg?v=1745010980&width=400"
     },
     {
-     "title": "Women's Varsity Airy - Blizzard (Blizzard Sole)",
-     "pct": 70,
-     "price": 36.0,
-     "compare": 120.0,
-     "url": "https://www.allbirds.com/products/womens-varsity-airy-blizzard",
-     "img": "https://cdn.shopify.com/s/files/1/1104/4168/files/A12444_26Q2_Womens-Varsity-Airy-Blizzard-Blizzard-Sole_PDP_LEFT.png?v=1770677960&width=400"
+     "title": "Liv Cotton Ruffled Heritage Dress",
+     "pct": 75,
+     "price": 98.0,
+     "compare": 395.0,
+     "url": "https://www.loveshackfancy.com/products/liv-dress-ld275-289",
+     "img": "https://cdn.shopify.com/s/files/1/0181/8457/files/LIV-DRESS-ANTIQUE-WHITE-LD275-289-061_2af40b6b-18c9-4908-b081-a8e8e42a0f48.jpg?v=1745249956&width=400"
     },
     {
-     "title": "Women's Allbirds Slide Terry - Warm White",
-     "pct": 70,
-     "price": 18.0,
-     "compare": 60.0,
-     "url": "https://www.allbirds.com/products/womens-allbirds-slide-terry",
-     "img": "https://cdn.shopify.com/s/files/1/1104/4168/files/A12675_26Q2_Allbirds-Slide-Terry-Warm-White_PDP_LEFT.png?v=1774475042&width=400"
+     "title": "Harbor Floral Striped Bikini",
+     "pct": 75,
+     "price": 49.0,
+     "compare": 195.0,
+     "url": "https://www.loveshackfancy.com/products/harbor-bikini-lw092-3338",
+     "img": "https://cdn.shopify.com/s/files/1/0181/8457/files/HARBORBIKINI-HUDLEY-UNISEX-SHIRT-DENIMSKY-LW092-3338_119.jpg?v=1771885546&width=400"
     },
     {
-     "title": "Women's Cruiser Canvas - Auburn (Warm White Sole)",
-     "pct": 70,
-     "price": 22.5,
-     "compare": 75.0,
-     "url": "https://www.allbirds.com/products/womens-cruiser-canvas-auburn",
-     "img": "https://cdn.shopify.com/s/files/1/1104/4168/files/A12438_26Q1_Cruiser-Canvas-Auburn-Warm-White_PDP_LEFT_cceb74e2-4e2c-42cb-91b4-4b23348c9baa.png?v=1768946300&width=400"
+     "title": "Georgeanne Cotton Mini Bubble Skirt",
+     "pct": 75,
+     "price": 87.0,
+     "compare": 345.0,
+     "url": "https://www.loveshackfancy.com/products/georgeanne-skirt-ls994-3123",
+     "img": "https://cdn.shopify.com/s/files/1/0181/8457/files/BENSENBUSTIER-CINCHEDBLUE-T1496-3123GEORGEANNESKIRT-CINCHEDBLUE-LS994-3123_003.jpg?v=1771350474&width=400"
+    },
+    {
+     "title": "Deanna Halter Dress",
+     "pct": 75,
+     "price": 87.0,
+     "compare": 345.0,
+     "url": "https://www.loveshackfancy.com/products/deanna-halter-dress-2-d1143-493",
+     "img": "https://cdn.shopify.com/s/files/1/0181/8457/files/140truewhite.jpg?v=1773839589&width=400"
+    },
+    {
+     "title": "Saoirse Patchwork Bikini",
+     "pct": 74,
+     "price": 50.0,
+     "compare": 195.0,
+     "url": "https://www.loveshackfancy.com/products/saoirse-bikini-lw146-3552",
+     "img": "https://cdn.shopify.com/s/files/1/0181/8457/files/SAOIRSEBIKINI-BLUEBERRYSUNDAE-LW146-3552-UMBERSKIRT-BLUEBERRYSUNDAE-S1040-3553_122.jpg?v=1778258793&width=400"
+    },
+    {
+     "title": "Natasha Heritage Mini Dress",
+     "pct": 72,
+     "price": 98.0,
+     "compare": 345.0,
+     "url": "https://www.loveshackfancy.com/products/natasha-dress-ld194-263",
+     "img": "https://cdn.shopify.com/s/files/1/0181/8457/files/NATASHA-DRESS-WHITE-LD194-263-007_f93ecc11-363f-4721-9024-8b172235231c.jpg?v=1745251051&width=400"
     }
    ]
   },
@@ -700,11 +311,10 @@
    "domain": "www.faithfullthebrand.com",
    "cat": "american",
    "currency": "USD",
-   "checked": 250,
-   "on_sale": 133,
+   "checked": 868,
+   "on_sale": 709,
    "max_pct": 81,
-   "median_pct": 70,
-   "new_14d": 0,
+   "median_pct": 30,
    "top": [
     {
      "title": "Cala Bianca Crochet Hat Black - Final Sale",
@@ -773,16 +383,555 @@
    ]
   },
   {
+   "brand": "Rowing Blazers",
+   "domain": "www.rowingblazers.com",
+   "cat": "american",
+   "currency": "USD",
+   "checked": 850,
+   "on_sale": 557,
+   "max_pct": 70,
+   "median_pct": 50,
+   "top": [
+    {
+     "title": "Men's Canvas Printed Chore Jacket RB All Over",
+     "pct": 70,
+     "price": 74.4,
+     "compare": 248.0,
+     "url": "https://www.rowingblazers.com/products/mens-canvas-printed-chore-jacket-rb-all-over",
+     "img": "https://cdn.shopify.com/s/files/1/1770/6343/files/RB-01JAN25-JACKET-YELLOW-ALLOVER-PRINT-FRONT.jpg?v=1777664950&width=400"
+    },
+    {
+     "title": "Men's Canvas Printed Workwear Pant RB All Over",
+     "pct": 70,
+     "price": 59.4,
+     "compare": 198.0,
+     "url": "https://www.rowingblazers.com/products/mens-canvas-printed-workwear-pant-geo-floral-copy",
+     "img": "https://cdn.shopify.com/s/files/1/1770/6343/files/RB-02FEB25-PANTS-YELLOW-PATTERN-ALLOVER-FRONT.jpg?v=1777664740&width=400"
+    },
+    {
+     "title": "Men's Plain Weave Blazer Yellow Plaid",
+     "pct": 70,
+     "price": 119.4,
+     "compare": 398.0,
+     "url": "https://www.rowingblazers.com/products/mens-plain-weave-blazer-yellow-plaid",
+     "img": "https://cdn.shopify.com/s/files/1/1770/6343/files/RB-6JUN25_BLAZER_CHECK_YELLOW-FRONT.jpg?v=1777665053&width=400"
+    },
+    {
+     "title": "Men's Cotton Linen Camp Shirt NYC Map Print",
+     "pct": 70,
+     "price": 56.4,
+     "compare": 188.0,
+     "url": "https://www.rowingblazers.com/products/mens-cotton-linen-camp-shirt-nyc-map-print",
+     "img": "https://cdn.shopify.com/s/files/1/1770/6343/files/RB-6JUN25_SS_SHIRT_ALL_OVER_PRINT_YELLOW-FRONT.jpg?v=1777472851&width=400"
+    },
+    {
+     "title": "Men's Magic 8™ Ball Cotton Sweater Blue",
+     "pct": 70,
+     "price": 53.4,
+     "compare": 178.0,
+     "url": "https://www.rowingblazers.com/products/mens-magic-8-ball-cotton-sweater-blue",
+     "img": "https://cdn.shopify.com/s/files/1/1770/6343/files/RB-07JULY25_SWEATER_1_BLUE.jpg?v=1774313295&width=400"
+    },
+    {
+     "title": "Men's UNO™ Draw Four Cotton Sweater Black",
+     "pct": 70,
+     "price": 59.4,
+     "compare": 198.0,
+     "url": "https://www.rowingblazers.com/products/mens-uno-draw-four-cotton-sweater-black",
+     "img": "https://cdn.shopify.com/s/files/1/1770/6343/files/FLATS_2.jpg?v=1777659524&width=400"
+    },
+    {
+     "title": "Men's UNO™ Wild Cotton Sweater Multi-Color",
+     "pct": 70,
+     "price": 68.4,
+     "compare": 228.0,
+     "url": "https://www.rowingblazers.com/products/mens-uno-wild-cotton-sweater-multi-color",
+     "img": "https://cdn.shopify.com/s/files/1/1770/6343/files/RB-10OCT25-WILD-COTTON-SWEATER-MULTI-COLOR-FRONT.jpg?v=1763472249&width=400"
+    },
+    {
+     "title": "Autumn Striped Cotton Sweater Red",
+     "pct": 70,
+     "price": 59.4,
+     "compare": 198.0,
+     "url": "https://www.rowingblazers.com/products/mens-autumn-striped-cotton-sweater-red",
+     "img": "https://cdn.shopify.com/s/files/1/1770/6343/files/RB-09SEP25_SWEATER_1_RED-FRONT.jpg?v=1773712492&width=400"
+    }
+   ]
+  },
+  {
+   "brand": "Ulla Johnson",
+   "domain": "www.ullajohnson.com",
+   "cat": "designer",
+   "currency": "USD",
+   "checked": 1323,
+   "on_sale": 523,
+   "max_pct": 50,
+   "median_pct": 40,
+   "top": [
+    {
+     "title": "Ames Barrell Leg Trouser - Cinder",
+     "pct": 50,
+     "price": 295.0,
+     "compare": 590.0,
+     "url": "https://www.ullajohnson.com/products/ames-barrell-leg-trouser-cinder",
+     "img": "https://cdn.shopify.com/s/files/1/0221/7797/2320/files/PS260406_CINDER.jpg?v=1795016805&width=400"
+    },
+    {
+     "title": "Elisa Jacquard Pullover - Ivory",
+     "pct": 50,
+     "price": 295.0,
+     "compare": 590.0,
+     "url": "https://www.ullajohnson.com/products/elisa-ls-jacquard-pullover-ivory",
+     "img": "https://cdn.shopify.com/s/files/1/0221/7797/2320/files/PS260737_IVORY_1.jpg?v=1795016721&width=400"
+    },
+    {
+     "title": "Mariana Top with Peplum - Lichen",
+     "pct": 50,
+     "price": 145.0,
+     "compare": 290.0,
+     "url": "https://www.ullajohnson.com/products/mariana-ss-top-with-peplum-lichen",
+     "img": "https://cdn.shopify.com/s/files/1/0221/7797/2320/files/SP260814_LICHEN_1.jpg?v=1795013358&width=400"
+    },
+    {
+     "title": "Dalila Ruched Maillot - Urchin",
+     "pct": 50,
+     "price": 145.0,
+     "compare": 290.0,
+     "url": "https://www.ullajohnson.com/products/dalila-ruched-maillot-urchin",
+     "img": "https://cdn.shopify.com/s/files/1/0221/7797/2320/files/SP261717_URCHIN_1.jpg?v=1795013229&width=400"
+    },
+    {
+     "title": "Ibiza One Shoulder Maillot - Cowrie",
+     "pct": 50,
+     "price": 185.0,
+     "compare": 370.0,
+     "url": "https://www.ullajohnson.com/products/ibiza-one-shoulder-maillot-cowrie",
+     "img": "https://cdn.shopify.com/s/files/1/0221/7797/2320/files/IbizaOneShoulderMaillotCowrie.jpg?v=1794964096&width=400"
+    },
+    {
+     "title": "Dalila Ruched Maillot - Coral",
+     "pct": 50,
+     "price": 145.0,
+     "compare": 290.0,
+     "url": "https://www.ullajohnson.com/products/dalila-ruched-maillot-coral",
+     "img": "https://cdn.shopify.com/s/files/1/0221/7797/2320/files/DalilaSwimsuitCoral_1.jpg?v=1794963866&width=400"
+    },
+    {
+     "title": "Ines Jersey Top - Prism",
+     "pct": 50,
+     "price": 85.0,
+     "compare": 170.0,
+     "url": "https://www.ullajohnson.com/products/ines-sl-jersey-top-prism",
+     "img": "https://cdn.shopify.com/s/files/1/0221/7797/2320/files/SP260826_PRISM_1.jpg?v=1794956609&width=400"
+    },
+    {
+     "title": "Lakshmi Eyelet Knit Dress - Coral Peony",
+     "pct": 50,
+     "price": 445.0,
+     "compare": 890.0,
+     "url": "https://www.ullajohnson.com/products/lakshmi-eyelet-knit-dress-coral-peony",
+     "img": "https://cdn.shopify.com/s/files/1/0221/7797/2320/files/SP260702_CORALPEONY_1.jpg?v=1794956508&width=400"
+    }
+   ]
+  },
+  {
+   "brand": "KHAITE",
+   "domain": "www.khaite.com",
+   "cat": "designer",
+   "currency": "USD",
+   "checked": 1230,
+   "on_sale": 391,
+   "max_pct": 50,
+   "median_pct": 40,
+   "top": [
+    {
+     "title": "Harvey Over-the-Knee High Boot in Zebra Print Haircalf and Black Suede",
+     "pct": 50,
+     "price": 1600.0,
+     "compare": 3200.0,
+     "url": "https://www.khaite.com/products/harvey-otk-boot-85-in-black-white",
+     "img": "https://cdn.shopify.com/s/files/1/1519/7996/files/HARVEY-OTK-BOOT-85_BLACK-WHITE_F1119-997-294_A_jpg.jpg?v=1757969621&width=400"
+    },
+    {
+     "title": "Mia Pump in Bordeaux Patent Leather",
+     "pct": 50,
+     "price": 490.0,
+     "compare": 980.0,
+     "url": "https://www.khaite.com/products/mia-pump-45-in-bordeaux",
+     "img": "https://cdn.shopify.com/s/files/1/1519/7996/files/MIA-PUMP-45_BORDEAUX_F3085-938-531_A.jpg?v=1757083969&width=400"
+    },
+    {
+     "title": "Fallon Boot in Black Leather",
+     "pct": 50,
+     "price": 790.0,
+     "compare": 1580.0,
+     "url": "https://www.khaite.com/products/fallon-boot-35-in-black",
+     "img": "https://cdn.shopify.com/s/files/1/1519/7996/files/FALLON-BOOT-35_BLACK_F1121-994-200_A_jpg.jpg?v=1757969598&width=400"
+    },
+    {
+     "title": "Harvey Over-the-Knee High Boot in Morning Dove Suede and Taupe Python-Embossed Leather",
+     "pct": 50,
+     "price": 1400.0,
+     "compare": 2800.0,
+     "url": "https://www.khaite.com/products/harvey-otk-boot-85-in-morning-dove-taupe",
+     "img": "https://cdn.shopify.com/s/files/1/1519/7996/files/HARVEY-OTK-BOOT-85_MORNING-DOVE-TAUPE_F1119-996-648_A_jpg.jpg?v=1757969606&width=400"
+    },
+    {
+     "title": "Ona Ankle Boot in Zebra Print Haircalf",
+     "pct": 50,
+     "price": 845.0,
+     "compare": 1690.0,
+     "url": "https://www.khaite.com/products/ona-ankle-boot-55-in-black-white",
+     "img": "https://cdn.shopify.com/s/files/1/1519/7996/files/ONA-ANKLE-BOOT-55_BLACK-WHITE_F1100-711-294_A_jpg.jpg?v=1757969628&width=400"
+    },
+    {
+     "title": "Anya Skirt in Cream Multi",
+     "pct": 50,
+     "price": 1400.0,
+     "compare": 2800.0,
+     "url": "https://www.khaite.com/products/anya-skirt-in-cream-multi",
+     "img": "https://cdn.shopify.com/s/files/1/1519/7996/files/ANYA-SKIRT_CREAM-MULTI_41754216-128_GHOST_jpg.jpg?v=1758813751&width=400"
+    },
+    {
+     "title": "Fallon Over-the-Knee Boot in Black Leather",
+     "pct": 50,
+     "price": 1200.0,
+     "compare": 2400.0,
+     "url": "https://www.khaite.com/products/fallon-otk-boot-35-in-black",
+     "img": "https://cdn.shopify.com/s/files/1/1519/7996/files/FALLON-OTK-BOOT-35_BLACK_F1120-994-200_A_jpg.jpg?v=1757969663&width=400"
+    },
+    {
+     "title": "Edgar Dress in Black Multi",
+     "pct": 50,
+     "price": 1990.0,
+     "compare": 3980.0,
+     "url": "https://www.khaite.com/products/edgar-dress-in-black-multi",
+     "img": "https://cdn.shopify.com/s/files/1/1519/7996/files/EDGAR-DRESS_BLACK-MULTI_55653372-283_GHOST_Alt_jpg.jpg?v=1759328119&width=400"
+    }
+   ]
+  },
+  {
+   "brand": "Outdoor Voices",
+   "domain": "www.outdoorvoices.com",
+   "cat": "active",
+   "currency": "USD",
+   "checked": 425,
+   "on_sale": 296,
+   "max_pct": 83,
+   "median_pct": 41,
+   "top": [
+    {
+     "title": "Court Dress",
+     "pct": 83,
+     "price": 17.97,
+     "compare": 108.0,
+     "url": "https://www.outdoorvoices.com/products/w-court-dress-black",
+     "img": "https://cdn.shopify.com/s/files/1/0190/1390/files/W401725-TXC-BLK_Court_Dress_Black_049_555b15fa-c29d-47b9-8961-540c90532766.jpg?v=1762269288&width=400"
+    },
+    {
+     "title": "Zephyr 29\" Pant",
+     "pct": 82,
+     "price": 17.97,
+     "compare": 98.0,
+     "url": "https://www.outdoorvoices.com/products/w-zephyr-longer-inseam-laurel-wreath",
+     "img": "https://cdn.shopify.com/s/files/1/0190/1390/files/W702097-REC-LWR_Zephyr_Longer_Inseam_RESHOOT_Laurel_Wreath_095_14d1ec76-1547-46cc-b021-9365090dd473.jpg?v=1762269570&width=400"
+    },
+    {
+     "title": "The Exercise 3\" Skort",
+     "pct": 78,
+     "price": 14.97,
+     "compare": 68.0,
+     "url": "https://www.outdoorvoices.com/products/w-the-exercise-3in-skort-evergreen",
+     "img": "https://cdn.shopify.com/s/files/1/0190/1390/files/210625_OP_OV__W701427-WTS-EGR_The_Exercise_322_Skort_Evergreen_084_T1wsNQ6_f731f389-019c-4b04-a2b5-c7bbb9c428be.jpg?v=1762269625&width=400"
+    },
+    {
+     "title": "LightSpeed Minimal 3\" Skort",
+     "pct": 75,
+     "price": 11.97,
+     "compare": 48.0,
+     "url": "https://www.outdoorvoices.com/products/w-lightspeed-minimal-3-skort-rainstorm-blur",
+     "img": "https://cdn.shopify.com/s/files/1/0190/1390/files/lightspeed-minimal-outdoor-voices-3-inch-skort-cloudknit-phone-pocket.jpg?v=1776647910&width=400"
+    },
+    {
+     "title": "Boulder Dress",
+     "pct": 74,
+     "price": 35.97,
+     "compare": 138.0,
+     "url": "https://www.outdoorvoices.com/products/w-boulder-dress-soil",
+     "img": "https://cdn.shopify.com/s/files/1/0190/1390/files/boulder-dress-outdoor-voices-brown-recfleece-zipper.jpg?v=1776620076&width=400"
+    },
+    {
+     "title": "Venus Crop Top",
+     "pct": 73,
+     "price": 12.97,
+     "compare": 48.0,
+     "url": "https://www.outdoorvoices.com/products/w-venus-crop-top-blizzard",
+     "img": "https://cdn.shopify.com/s/files/1/0190/1390/files/venus-crop-top-outdoor-voices-blue-light-support-cloudknit_2.jpg?v=1776645880&width=400"
+    },
+    {
+     "title": "Club Polo",
+     "pct": 72,
+     "price": 29.97,
+     "compare": 108.0,
+     "url": "https://www.outdoorvoices.com/products/w-club-polo-bark-stripe",
+     "img": "https://cdn.shopify.com/s/files/1/0190/1390/files/club-polo-outdoor-voices-burgundy-yarn-dyed-rugby_2.jpg?v=1776644612&width=400"
+    },
+    {
+     "title": "SuperForm Crop Top",
+     "pct": 71,
+     "price": 16.97,
+     "compare": 58.0,
+     "url": "https://www.outdoorvoices.com/products/w-superform-crop-top-laurel-wreath",
+     "img": "https://cdn.shopify.com/s/files/1/0190/1390/files/W301761-BIT-LWR_SuperFormCropTop_LaurelWreath_000.jpg?v=1757812683&width=400"
+    }
+   ]
+  },
+  {
+   "brand": "Loeffler Randall",
+   "domain": "www.loefflerrandall.com",
+   "cat": "designer",
+   "currency": "USD",
+   "checked": 1061,
+   "on_sale": 267,
+   "max_pct": 60,
+   "median_pct": 40,
+   "top": [
+    {
+     "title": "Everett Denim Short",
+     "pct": 60,
+     "price": 78.0,
+     "compare": 195.0,
+     "url": "https://www.loefflerrandall.com/products/everett-black-denim-short",
+     "img": "https://cdn.shopify.com/s/files/1/0253/4385/2596/files/EVERETT-DEN-BLACK_2619.jpg?v=1755016120&width=400"
+    },
+    {
+     "title": "Mallory Toffee Woven Suede Crossbody",
+     "pct": 40,
+     "price": 210.0,
+     "compare": 350.0,
+     "url": "https://www.loefflerrandall.com/products/mallory-toffee-woven-suede-crossbody",
+     "img": "https://cdn.shopify.com/s/files/1/0253/4385/2596/files/MALLORY-SPLS-TOFFE_1.jpg?v=1712860526&width=400"
+    },
+    {
+     "title": "Margot Leopard Jersey Bow Mule",
+     "pct": 40,
+     "price": 237.0,
+     "compare": 395.0,
+     "url": "https://www.loefflerrandall.com/products/margot-leopard-jersey-bow-mule",
+     "img": "https://cdn.shopify.com/s/files/1/0253/4385/2596/files/MARGOT-JE-LEPRD_1.jpg?v=1758566333&width=400"
+    },
+    {
+     "title": "Shelly Sandal MD",
+     "pct": 40,
+     "price": 177.0,
+     "compare": 295.0,
+     "url": "https://www.loefflerrandall.com/products/shelly-sandal-1",
+     "img": "https://cdn.shopify.com/s/files/1/0253/4385/2596/files/SHELLY-KS-TMORO_3.jpg?v=1771971009&width=400"
+    },
+    {
+     "title": "Nico Sandal MD",
+     "pct": 40,
+     "price": 225.0,
+     "compare": 375.0,
+     "url": "https://www.loefflerrandall.com/products/nico-sandal-1",
+     "img": "https://cdn.shopify.com/s/files/1/0253/4385/2596/files/nico-chocolate-natural-two-band-sandal_1.jpg?v=1780603244&width=400"
+    },
+    {
+     "title": "Minna Heel",
+     "pct": 40,
+     "price": 225.0,
+     "compare": 375.0,
+     "url": "https://www.loefflerrandall.com/products/minna-heel-1",
+     "img": "https://cdn.shopify.com/s/files/1/0253/4385/2596/files/minna-snake-leather-heeled-sandal_6.jpg?v=1790184945&width=400"
+    },
+    {
+     "title": "Mareka Heel",
+     "pct": 40,
+     "price": 237.0,
+     "compare": 395.0,
+     "url": "https://www.loefflerrandall.com/products/mareka-heel-1",
+     "img": "https://cdn.shopify.com/s/files/1/0253/4385/2596/files/MAREKA-N-DUNE_2.jpg?v=1769722534&width=400"
+    },
+    {
+     "title": "Cooper Sneaker",
+     "pct": 40,
+     "price": 117.0,
+     "compare": 195.0,
+     "url": "https://www.loefflerrandall.com/products/cooper-sneaker",
+     "img": "https://cdn.shopify.com/s/files/1/0253/4385/2596/files/COOPER-VL-LEPRD_3.jpg?v=1755014876&width=400"
+    }
+   ]
+  },
+  {
+   "brand": "Alo Yoga",
+   "domain": "www.aloyoga.com",
+   "cat": "active",
+   "currency": "USD",
+   "checked": 228,
+   "on_sale": 213,
+   "max_pct": 61,
+   "median_pct": 31,
+   "top": [
+    {
+     "title": "Aces Tennis Skirt - Black",
+     "pct": 61,
+     "price": 29.0,
+     "compare": 74.0,
+     "url": "https://www.aloyoga.com/products/w6235r-aces-tennis-skirt-black",
+     "img": "https://cdn.shopify.com/s/files/1/2185/2813/files/W6235R_01_b1_s1_a1_1_m125.jpg?v=1704221494&width=400"
+    },
+    {
+     "title": "3\" ALO Softsculpt High-Waist Precision Short - Green Olive",
+     "pct": 61,
+     "price": 33.0,
+     "compare": 84.0,
+     "url": "https://www.aloyoga.com/products/w6495r-3-alo-softsculpt-high-waist-precision-short-green-olive",
+     "img": "https://cdn.shopify.com/s/files/1/2185/2813/files/W6495R_06464_b1_s1_a1_m207.jpg?v=1756826486&width=400"
+    },
+    {
+     "title": "Alosoft High-Waist 7/8 Relay Legging - Candy Red/White",
+     "pct": 61,
+     "price": 45.0,
+     "compare": 114.0,
+     "url": "https://www.aloyoga.com/products/w54177r-alosoft-high-waist-7-8-relay-legging-candy-red-white",
+     "img": "https://cdn.shopify.com/s/files/1/2185/2813/files/W54177R_06335_b2_s1_a1_m18.jpg?v=1745900940&width=400"
+    },
+    {
+     "title": "Washed Alosoft Crop Finesse Long Sleeve - Grey Sky Wash",
+     "pct": 61,
+     "price": 33.0,
+     "compare": 84.0,
+     "url": "https://www.aloyoga.com/products/w3930r-washed-alosoft-crop-finesse-long-sleeve-grey-sky-wash",
+     "img": "https://cdn.shopify.com/s/files/1/2185/2813/files/W3930R_06024_b1_s1_a1_1_m233.jpg?v=1741298005&width=400"
+    },
+    {
+     "title": "Light Weight Takeaway Track Pullover - Burgundy",
+     "pct": 60,
+     "price": 59.0,
+     "compare": 148.0,
+     "url": "https://www.aloyoga.com/products/m3259r-light-weight-takeaway-track-pullover-burgundy",
+     "img": "https://cdn.shopify.com/s/files/1/2185/2813/files/M3259R_06465_b1_s1_a1_m253_8b7bd98e-ca00-4a0f-98e7-b00b54ad1750.jpg?v=1766783062&width=400"
+    },
+    {
+     "title": "Denim Knit Sleeveless Full Zip Top - Black/Anthracite",
+     "pct": 60,
+     "price": 67.0,
+     "compare": 168.0,
+     "url": "https://www.aloyoga.com/products/w1459r-denim-knit-sleeveless-full-zip-top-black-anthracite",
+     "img": "https://cdn.shopify.com/s/files/1/2185/2813/files/W1459R_02620_b2_s1_a1_1_m227.jpg?v=1730392361&width=400"
+    },
+    {
+     "title": "Airlift Double Trouble Bra - Black",
+     "pct": 60,
+     "price": 27.0,
+     "compare": 68.0,
+     "url": "https://www.aloyoga.com/products/w9620r-airlift-double-trouble-bra-black",
+     "img": "https://cdn.shopify.com/s/files/1/2185/2813/files/W9782R_01_b1_s1_a2_dSP26_m191.jpg?v=1771617078&width=400"
+    },
+    {
+     "title": "Afterglow Wide Leg Track Pant - Black",
+     "pct": 60,
+     "price": 51.0,
+     "compare": 128.0,
+     "url": "https://www.aloyoga.com/products/w54151r-afterglow-wide-leg-track-pant-black",
+     "img": "https://cdn.shopify.com/s/files/1/2185/2813/files/W54151R_01_b1_s1_a1_1_m54.jpg?v=1732563367&width=400"
+    }
+   ]
+  },
+  {
+   "brand": "Allbirds",
+   "domain": "www.allbirds.com",
+   "cat": "american",
+   "currency": "USD",
+   "checked": 355,
+   "on_sale": 204,
+   "max_pct": 75,
+   "median_pct": 40,
+   "top": [
+    {
+     "title": "Trino® Tubers - Navy Night",
+     "pct": 75,
+     "price": 4.0,
+     "compare": 16.0,
+     "url": "https://www.allbirds.com/products/trino-tubers-navy-night",
+     "img": "https://cdn.shopify.com/s/files/1/1104/4168/products/ST1UNNT_SOCKS_NAVY_NIGHT_FRONT.png?v=1666820168&width=400"
+    },
+    {
+     "title": "Men's Allbirds Slide - Verdant Green",
+     "pct": 70,
+     "price": 16.5,
+     "compare": 55.0,
+     "url": "https://www.allbirds.com/products/mens-allbirds-slide-verdant-green",
+     "img": "https://cdn.shopify.com/s/files/1/1104/4168/files/A12659_26Q1_Allbirds-Slide-Verdant-Green_PDP_LEFT.png?v=1769463080&width=400"
+    },
+    {
+     "title": "Women's Varsity Strap - Multi (Natural White Sole)",
+     "pct": 70,
+     "price": 34.5,
+     "compare": 115.0,
+     "url": "https://www.allbirds.com/products/womens-varsity-strap",
+     "img": "https://cdn.shopify.com/s/files/1/1104/4168/files/A12590_26Q2_Womens-Varsity-Strap-Multi-Natural-White-Sole_PDP_LEFT.png?v=1766771238&width=400"
+    },
+    {
+     "title": "Women's Allbirds Slide Terry - Ochre/Warm White (Ochre Sole)",
+     "pct": 70,
+     "price": 18.0,
+     "compare": 60.0,
+     "url": "https://www.allbirds.com/products/womens-allbirds-slide-terry-ochre-warm-white",
+     "img": "https://cdn.shopify.com/s/files/1/1104/4168/files/A12668_26Q2_Allbirds-Slide-Terry-Ochre-Warm-White-Ochre-Sole_PDP_LEFT.png?v=1774474916&width=400"
+    },
+    {
+     "title": "Men's Allbirds Slide - Spice",
+     "pct": 70,
+     "price": 16.5,
+     "compare": 55.0,
+     "url": "https://www.allbirds.com/products/mens-allbirds-slide",
+     "img": "https://cdn.shopify.com/s/files/1/1104/4168/files/A12655_26Q1_Allbirds-Slide-Spice_PDP_LEFT.png?v=1769463077&width=400"
+    },
+    {
+     "title": "Women's Varsity Airy - Blizzard (Blizzard Sole)",
+     "pct": 70,
+     "price": 36.0,
+     "compare": 120.0,
+     "url": "https://www.allbirds.com/products/womens-varsity-airy-blizzard",
+     "img": "https://cdn.shopify.com/s/files/1/1104/4168/files/A12444_26Q2_Womens-Varsity-Airy-Blizzard-Blizzard-Sole_PDP_LEFT.png?v=1770677960&width=400"
+    },
+    {
+     "title": "Women's Allbirds Slide Terry - Warm White",
+     "pct": 70,
+     "price": 18.0,
+     "compare": 60.0,
+     "url": "https://www.allbirds.com/products/womens-allbirds-slide-terry",
+     "img": "https://cdn.shopify.com/s/files/1/1104/4168/files/A12675_26Q2_Allbirds-Slide-Terry-Warm-White_PDP_LEFT.png?v=1774475042&width=400"
+    },
+    {
+     "title": "Women's Cruiser Canvas - Auburn (Warm White Sole)",
+     "pct": 70,
+     "price": 22.5,
+     "compare": 75.0,
+     "url": "https://www.allbirds.com/products/womens-cruiser-canvas-auburn",
+     "img": "https://cdn.shopify.com/s/files/1/1104/4168/files/A12438_26Q1_Cruiser-Canvas-Auburn-Warm-White_PDP_LEFT_cceb74e2-4e2c-42cb-91b4-4b23348c9baa.png?v=1768946300&width=400"
+    }
+   ]
+  },
+  {
    "brand": "Rouje",
    "domain": "www.rouje.com",
    "cat": "french",
    "currency": "EUR",
-   "checked": 250,
-   "on_sale": 108,
-   "max_pct": 40,
+   "checked": 733,
+   "on_sale": 177,
+   "max_pct": 48,
    "median_pct": 30,
-   "new_14d": 0,
    "top": [
+    {
+     "title": "Le Stylo Margaux",
+     "pct": 48,
+     "price": 15.0,
+     "compare": 29.0,
+     "url": "https://www.rouje.com/products/lesfillesenrouje-le-stylo-margaux-cherry-red",
+     "img": "https://cdn.shopify.com/s/files/1/0699/2914/0544/files/MAKESTYLO-MARGAUX-1_70bd5fe8-70ae-46cf-8f99-b523b888eba9.jpg?v=1689245042&width=400"
+    },
     {
      "title": "Blouse HAZEL",
      "pct": 40,
@@ -838,14 +987,82 @@
      "compare": 150.0,
      "url": "https://www.rouje.com/products/daleya-top-uni-rouge",
      "img": "https://cdn.shopify.com/s/files/1/0699/2914/0544/files/DALEYA_ROMUALD_0010_CROP.jpg?v=1737113352&width=400"
+    }
+   ]
+  },
+  {
+   "brand": "A.P.C. Paris",
+   "domain": "www.apc.fr",
+   "cat": "french",
+   "currency": "EUR",
+   "checked": 1132,
+   "on_sale": 173,
+   "max_pct": 50,
+   "median_pct": 50,
+   "top": [
+    {
+     "title": "Sweat Standard Rue Madame",
+     "pct": 50,
+     "price": 110.0,
+     "compare": 220.0,
+     "url": "https://www.apc.fr/products/sweat-standard-rue-madame-ila-cohgr-m27913",
+     "img": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/COHGR-M27913ILA_01.jpg?v=1795006354&width=400"
     },
     {
-     "title": "Cardigan RANDY",
-     "pct": 40,
-     "price": 138.0,
+     "title": "Sac cabas Ninon",
+     "pct": 50,
+     "price": 130.0,
+     "compare": 260.0,
+     "url": "https://www.apc.fr/products/sac-cabas-ninon-cab-puaat-m61565",
+     "img": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/PUAAT-M61565CAB_00.jpg?v=1795006352&width=400"
+    },
+    {
+     "title": "Porte-cartes Genève",
+     "pct": 50,
+     "price": 80.0,
+     "compare": 160.0,
+     "url": "https://www.apc.fr/products/porte-cartes-de-visite-dar-pxawv-f63349",
+     "img": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/PXAWV-F63349DAR_00.jpg?v=1795006352&width=400"
+    },
+    {
+     "title": "Cabas Recuperation",
+     "pct": 50,
+     "price": 115.0,
      "compare": 230.0,
-     "url": "https://www.rouje.com/products/randy-cardigan-uni-anthracite",
-     "img": "https://cdn.shopify.com/s/files/1/0699/2914/0544/files/RANDY_PARIGOT_CEINTURE_0028.jpg?v=1737045514&width=400"
+     "url": "https://www.apc.fr/products/cabas-recuperation-lab-cohok-h61318",
+     "img": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/COHOK-H61318LAB_00.jpg?v=1779276521&width=400"
+    },
+    {
+     "title": "Tote Lou Rue Madame Small 2.0",
+     "pct": 50,
+     "price": 37.5,
+     "compare": 75.0,
+     "url": "https://www.apc.fr/products/tote-lou-rue-madame-small-20-bad-cohmn-m67065",
+     "img": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/COHMN-M67065BAD_00.jpg?v=1779276525&width=400"
+    },
+    {
+     "title": "pull col v",
+     "pct": 50,
+     "price": 140.0,
+     "compare": 280.0,
+     "url": "https://www.apc.fr/products/pull-col-v-iaa-wvbdn-f23455",
+     "img": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/WVBDN-F23455IAA_00.jpg?v=1778170272&width=400"
+    },
+    {
+     "title": "Chemise Warren",
+     "pct": 50,
+     "price": 115.0,
+     "compare": 230.0,
+     "url": "https://www.apc.fr/products/chemise-warren-cae-cohog-m12006",
+     "img": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/COHOG-M12006CAE_00.jpg?v=1767884091&width=400"
+    },
+    {
+     "title": "jean elisabeth",
+     "pct": 50,
+     "price": 135.0,
+     "compare": 270.0,
+     "url": "https://www.apc.fr/products/jean-elisabeth-iab-cohoa-f09181",
+     "img": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/COHOA-F09181IAB_00.jpg?v=1767634253&width=400"
     }
    ]
   },
@@ -854,11 +1071,10 @@
    "domain": "www.byfar.com",
    "cat": "designer",
    "currency": "EUR",
-   "checked": 241,
+   "checked": 188,
    "on_sale": 85,
    "max_pct": 50,
    "median_pct": 30,
-   "new_14d": 0,
    "top": [
     {
      "title": "Eloise Leather Shoulder Bag",
@@ -927,83 +1143,6 @@
    ]
   },
   {
-   "brand": "Rowing Blazers",
-   "domain": "www.rowingblazers.com",
-   "cat": "american",
-   "currency": "USD",
-   "checked": 250,
-   "on_sale": 80,
-   "max_pct": 50,
-   "median_pct": 30,
-   "new_14d": 0,
-   "top": [
-    {
-     "title": "Cashmere Ski Beanie Orange",
-     "pct": 50,
-     "price": 49.0,
-     "compare": 98.0,
-     "url": "https://www.rowingblazers.com/products/cashmere-ski-beanie-orange",
-     "img": "https://cdn.shopify.com/s/files/1/1770/6343/files/RB-12DEC24-BEANIE-ORANGE-FRONT.jpg?v=1792637988&width=400"
-    },
-    {
-     "title": "Men's Wool Tartan Ripley Blazer Gordon Modern",
-     "pct": 50,
-     "price": 299.0,
-     "compare": 598.0,
-     "url": "https://www.rowingblazers.com/products/mens-wool-tartan-ripley-blazer-gordon-modern",
-     "img": "https://cdn.shopify.com/s/files/1/1770/6343/files/RB-12DEC24-BLAZER-GREEN-CHECK-FRONT.jpg?v=1792636152&width=400"
-    },
-    {
-     "title": "Men's Velvet Classic Tuxedo Pant Black",
-     "pct": 50,
-     "price": 174.0,
-     "compare": 348.0,
-     "url": "https://www.rowingblazers.com/products/mens-velvet-classic-tuxedo-pant-black",
-     "img": "https://cdn.shopify.com/s/files/1/1770/6343/files/RB-12DEC24-PANTS-BLACK-FRONT.jpg?v=1792340672&width=400"
-    },
-    {
-     "title": "Women's Button Down Pleated Shirt Dress White",
-     "pct": 50,
-     "price": 114.0,
-     "compare": 228.0,
-     "url": "https://www.rowingblazers.com/products/womens-button-down-pleated-shirt-dress-white",
-     "img": "https://cdn.shopify.com/s/files/1/1770/6343/files/DONE-NEEDSSNATCHING_1_WHITE.jpg?v=1773774829&width=400"
-    },
-    {
-     "title": "Heart Icon Piqué Polo",
-     "pct": 50,
-     "price": 49.0,
-     "compare": 98.0,
-     "url": "https://www.rowingblazers.com/products/heart-icon-pique-polo-4",
-     "img": "https://cdn.shopify.com/s/files/1/1770/6343/files/ROWINGBLAZERS6.4.241529.jpg?v=1792340895&width=400"
-    },
-    {
-     "title": "Mt. Joy T-Shirt White",
-     "pct": 50,
-     "price": 34.0,
-     "compare": 68.0,
-     "url": "https://www.rowingblazers.com/products/mt-joy-t-shirt-white",
-     "img": "https://cdn.shopify.com/s/files/1/1770/6343/files/RB-09SEP25_TEE_RUGBY_TEAM_WHITE-FRONT.jpg?v=1773840144&width=400"
-    },
-    {
-     "title": "Women's Cotton Blend Cable Dress Camel",
-     "pct": 50,
-     "price": 99.0,
-     "compare": 198.0,
-     "url": "https://www.rowingblazers.com/products/womens-cotton-blend-cable-dress-camel",
-     "img": "https://cdn.shopify.com/s/files/1/1770/6343/files/20_WF25S04S12CML_008.jpg?v=1773799637&width=400"
-    },
-    {
-     "title": "Women's Fitted Lace Collar Button Down Shirt Navy",
-     "pct": 50,
-     "price": 94.0,
-     "compare": 188.0,
-     "url": "https://www.rowingblazers.com/products/womens-fitted-lace-collar-button-down-shirt-navy",
-     "img": "https://cdn.shopify.com/s/files/1/1770/6343/files/img_RM_10.jpg?v=1792637801&width=400"
-    }
-   ]
-  },
-  {
    "brand": "HOMMEGIRLS",
    "domain": "www.hommegirls.com",
    "cat": "american",
@@ -1012,7 +1151,6 @@
    "on_sale": 62,
    "max_pct": 60,
    "median_pct": 30,
-   "new_14d": 3,
    "top": [
     {
      "title": "Classic Shirt in Ticking Stripe With Contrast Collar",
@@ -1081,15 +1219,42 @@
    ]
   },
   {
+   "brand": "Stine Goya",
+   "domain": "www.stinegoya.com",
+   "cat": "scandi",
+   "currency": "DKK",
+   "checked": 282,
+   "on_sale": 2,
+   "max_pct": 50,
+   "median_pct": 50,
+   "top": [
+    {
+     "title": "Voluminous Midi Skirt - Black Dots",
+     "pct": 50,
+     "price": 1799.5,
+     "compare": 3599.0,
+     "url": "https://www.stinegoya.com/products/voluminous-midi-skirt-skirt-black-dots",
+     "img": "https://cdn.shopify.com/s/files/1/1125/8518/files/Voluminous_Midi_Skirt-Skirt-SG-EX26-SK005-2536-Black_Dots-2.jpg?v=1765973291&width=400"
+    },
+    {
+     "title": "Long Sleeve Midi Dress - Black Dots",
+     "pct": 50,
+     "price": 2349.5,
+     "compare": 4699.0,
+     "url": "https://www.stinegoya.com/products/long-sleeve-midi-dress-dress-black-dots",
+     "img": "https://cdn.shopify.com/s/files/1/1125/8518/files/Long_Sleeve_Midi_Dress-Dress-SG-EX26-D017-2536-Black_Dots-2.jpg?v=1765973271&width=400"
+    }
+   ]
+  },
+  {
    "brand": "Madhappy",
    "domain": "madhappy.com",
    "cat": "american",
    "currency": "USD",
-   "checked": 250,
+   "checked": 807,
    "on_sale": 1,
    "max_pct": 75,
    "median_pct": 75,
-   "new_14d": 0,
    "top": [
     {
      "title": "Yankees Flannel Boxer Pant",
@@ -1102,69 +1267,34 @@
    ]
   },
   {
-   "brand": "Kith",
-   "domain": "www.kith.com",
-   "cat": "multi",
-   "currency": "USD",
-   "checked": 250,
-   "on_sale": 1,
-   "max_pct": 40,
-   "median_pct": 40,
-   "new_14d": 239,
-   "top": [
-    {
-     "title": "New Balance Abzorb 1890 - Black / Silver Metallic / Black Cement",
-     "pct": 40,
-     "price": 108.0,
-     "compare": 180.0,
-     "url": "https://www.kith.com/products/nwbu189093h",
-     "img": "https://cdn.shopify.com/s/files/1/0094/2252/files/u189093h_nb_02_i.jpg?v=1794501721&width=400"
-    }
-   ]
-  },
-  {
-   "brand": "Loeffler Randall",
-   "domain": "www.loefflerrandall.com",
-   "cat": "designer",
-   "currency": "USD",
-   "checked": 250,
-   "on_sale": 1,
-   "max_pct": 40,
-   "median_pct": 40,
-   "new_14d": 1,
-   "top": [
-    {
-     "title": "Mallory Toffee Woven Suede Crossbody",
-     "pct": 40,
-     "price": 210.0,
-     "compare": 350.0,
-     "url": "https://www.loefflerrandall.com/products/mallory-toffee-woven-suede-crossbody",
-     "img": "https://cdn.shopify.com/s/files/1/0253/4385/2596/files/MALLORY-SPLS-TOFFE_1.jpg?v=1712860526&width=400"
-    }
-   ]
-  },
-  {
-   "brand": "Stine Goya",
-   "domain": "www.stinegoya.com",
+   "brand": "TOTEME",
+   "domain": "www.toteme.com",
    "cat": "scandi",
-   "currency": "DKK",
-   "checked": 250,
-   "on_sale": 0,
-   "max_pct": 0,
-   "median_pct": 0,
-   "new_14d": 1,
-   "top": []
+   "currency": "SEK",
+   "checked": 1934,
+   "on_sale": 1,
+   "max_pct": 60,
+   "median_pct": 60,
+   "top": [
+    {
+     "title": "Fine knit cardigan black",
+     "pct": 60,
+     "price": 1400.0,
+     "compare": 3500.0,
+     "url": "https://www.toteme.com/products/fine-knit-cardigan-black",
+     "img": "https://cdn.shopify.com/s/files/1/0480/1141/1607/files/TOTEME_ECOM_PF24_CARRY_OVER_KNITWEAR_243-WRT0329-YA0079_FINE_KNIT_CARDIGAN_BLACK_A.jpg?v=1745846921&width=400"
+    }
+   ]
   },
   {
    "brand": "AGOLDE",
    "domain": "www.agolde.com",
    "cat": "designer",
    "currency": "USD",
-   "checked": 250,
+   "checked": 659,
    "on_sale": 0,
    "max_pct": 0,
    "median_pct": 0,
-   "new_14d": 0,
    "top": []
   },
   {
@@ -1172,11 +1302,10 @@
    "domain": "www.r13denim.com",
    "cat": "designer",
    "currency": "USD",
-   "checked": 250,
+   "checked": 487,
    "on_sale": 0,
    "max_pct": 0,
    "median_pct": 0,
-   "new_14d": 0,
    "top": []
   },
   {
@@ -1184,23 +1313,10 @@
    "domain": "www.citizensofhumanity.com",
    "cat": "designer",
    "currency": "USD",
-   "checked": 250,
+   "checked": 924,
    "on_sale": 0,
    "max_pct": 0,
    "median_pct": 0,
-   "new_14d": 0,
-   "top": []
-  },
-  {
-   "brand": "TOTEME",
-   "domain": "www.toteme.com",
-   "cat": "scandi",
-   "currency": "SEK",
-   "checked": 250,
-   "on_sale": 0,
-   "max_pct": 0,
-   "median_pct": 0,
-   "new_14d": 0,
    "top": []
   },
   {
@@ -1208,11 +1324,10 @@
    "domain": "www.sportyandrich.com",
    "cat": "american",
    "currency": "USD",
-   "checked": 250,
+   "checked": 740,
    "on_sale": 0,
    "max_pct": 0,
    "median_pct": 0,
-   "new_14d": 0,
    "top": []
   },
   {
@@ -1220,11 +1335,10 @@
    "domain": "www.aimeleondore.com",
    "cat": "american",
    "currency": "USD",
-   "checked": 250,
+   "checked": 1095,
    "on_sale": 0,
    "max_pct": 0,
    "median_pct": 0,
-   "new_14d": 48,
    "top": []
   },
   {
@@ -1232,11 +1346,10 @@
    "domain": "www.cuyana.com",
    "cat": "american",
    "currency": "USD",
-   "checked": 250,
+   "checked": 959,
    "on_sale": 0,
    "max_pct": 0,
    "median_pct": 0,
-   "new_14d": 0,
    "top": []
   }
  ],
