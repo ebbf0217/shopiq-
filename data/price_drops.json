@@ -1,10 +1,43 @@
 {
- "fetched_at": "2026-11-26T08:26:45+00:00",
+ "fetched_at": "2026-11-26T19:04:23+00:00",
  "tracking_since": "2026-11-24T07:03:45+00:00",
- "runs_compared": 6,
- "products_tracked": 24711,
- "new_this_run": 446,
+ "runs_compared": 7,
+ "products_tracked": 24733,
+ "new_this_run": 3,
  "items": [
+  {
+   "title": "Luxe Rib Deep U-Neck Top | Burnished Lilac",
+   "brand": "Everlane",
+   "currency": "USD",
+   "url": "https://www.everlane.com/products/womens-luxe-rib-deep-u-neck-top-burnished-lilac",
+   "img": "https://cdn.shopify.com/s/files/1/0623/7916/3734/files/f52cb10e_dbae.jpg?v=1768986003&width=400",
+   "old": 23.0,
+   "new": 19.0,
+   "pct": 17,
+   "detected_at": "2026-11-26T19:04:23+00:00"
+  },
+  {
+   "title": "RetroSoft Cotton Ragland Crew | Cashmere Blue",
+   "brand": "Everlane",
+   "currency": "USD",
+   "url": "https://www.everlane.com/products/womens-retrosoft-cotton-ragland-crew-cashmere-blue",
+   "img": "https://cdn.shopify.com/s/files/1/0623/7916/3734/files/Reshoot_2026-08-30_F-T-NRB-RAG-LS-BLU_01.jpg?v=1788327835&width=400",
+   "old": 35.0,
+   "new": 29.0,
+   "pct": 17,
+   "detected_at": "2026-11-26T19:04:23+00:00"
+  },
+  {
+   "title": "RetroSoft Cotton Ragland Crew | Bone",
+   "brand": "Everlane",
+   "currency": "USD",
+   "url": "https://www.everlane.com/products/womens-retrosoft-cotton-ragland-crew-bone",
+   "img": "https://cdn.shopify.com/s/files/1/0623/7916/3734/files/Reshoot_2026-08-30_F-T-NRB-RAG-LS-BNE_01_02b32869-a710-41df-bce1-5f077aa78b72.jpg?v=1789426415&width=400",
+   "old": 35.0,
+   "new": 29.0,
+   "pct": 17,
+   "detected_at": "2026-11-26T19:04:23+00:00"
+  },
   {
    "title": "MARKÉTT Tote Bag Stripe Aqua Chocolate - Final Sale",
    "brand": "Faithfull the Brand",
@@ -3267,39 +3300,6 @@
    "currency": "USD",
    "url": "https://www.everlane.com/products/womens-boxy-long-sleeve-white",
    "img": "https://cdn.shopify.com/s/files/1/0623/7916/3734/files/PDP-FILM_F-T-FVJ-BOXY-LS-WHT_02.jpg?v=1793251227&width=400",
-   "old": 29.0,
-   "new": 24.0,
-   "pct": 17,
-   "detected_at": "2026-11-26T08:26:45+00:00"
-  },
-  {
-   "title": "Forever Jersey Boxy Long-Sleeve Crew | Cocoa",
-   "brand": "Everlane",
-   "currency": "USD",
-   "url": "https://www.everlane.com/products/womens-boxy-long-sleeve-cocoa",
-   "img": "https://cdn.shopify.com/s/files/1/0623/7916/3734/files/Reshoot_2026-08-09_F-T-FVJ-BOXY-LS-COCO_03.jpg?v=1785863758&width=400",
-   "old": 29.0,
-   "new": 24.0,
-   "pct": 17,
-   "detected_at": "2026-11-26T08:26:45+00:00"
-  },
-  {
-   "title": "Forever Jersey Boxy Long-Sleeve Crew | Cashmere Blue / Bone",
-   "brand": "Everlane",
-   "currency": "USD",
-   "url": "https://www.everlane.com/products/womens-boxy-long-sleeve-cashmere-blue",
-   "img": "https://cdn.shopify.com/s/files/1/0623/7916/3734/files/2026-08-09_F-T-FVJ-BOXY-LS-BLUST_flat.jpg?v=1786041983&width=400",
-   "old": 29.0,
-   "new": 24.0,
-   "pct": 17,
-   "detected_at": "2026-11-26T08:26:45+00:00"
-  },
-  {
-   "title": "Forever Jersey Boxy Long-Sleeve Crew | Cabernet / Birch",
-   "brand": "Everlane",
-   "currency": "USD",
-   "url": "https://www.everlane.com/products/womens-boxy-long-sleeve-cabernet-birch",
-   "img": "https://cdn.shopify.com/s/files/1/0623/7916/3734/files/Reshoot_2026-08-09_F-T-FVJ-BOXY-LS-CABST_03.jpg?v=1785862764&width=400",
    "old": 29.0,
    "new": 24.0,
    "pct": 17,

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-26T08:26:45+00:00",
+ "fetched_at": "2026-11-26T19:04:23+00:00",
  "min_pct": 20,
  "brands": [
   {
@@ -8,9 +8,9 @@
    "cat": "american",
    "currency": "USD",
    "checked": 2000,
-   "on_sale": 1849,
+   "on_sale": 1848,
    "max_pct": 80,
-   "median_pct": 65,
+   "median_pct": 69,
    "top": [
     {
      "title": "Ultrasoft Polo Sweater | Heather Mid Charcoal",
@@ -160,7 +160,7 @@
    "cat": "multi",
    "currency": "USD",
    "checked": 2000,
-   "on_sale": 1481,
+   "on_sale": 1480,
    "max_pct": 80,
    "median_pct": 40,
    "top": [
@@ -311,8 +311,8 @@
    "domain": "www.faithfullthebrand.com",
    "cat": "american",
    "currency": "USD",
-   "checked": 892,
-   "on_sale": 723,
+   "checked": 889,
+   "on_sale": 720,
    "max_pct": 81,
    "median_pct": 50,
    "top": [
@@ -387,8 +387,8 @@
    "domain": "www.ullajohnson.com",
    "cat": "designer",
    "currency": "USD",
-   "checked": 1320,
-   "on_sale": 520,
+   "checked": 1317,
+   "on_sale": 517,
    "max_pct": 50,
    "median_pct": 40,
    "top": [
@@ -919,7 +919,7 @@
    "domain": "www.rouje.com",
    "cat": "french",
    "currency": "EUR",
-   "checked": 733,
+   "checked": 751,
    "on_sale": 177,
    "max_pct": 48,
    "median_pct": 30,
@@ -995,7 +995,7 @@
    "domain": "www.apc.fr",
    "cat": "french",
    "currency": "EUR",
-   "checked": 1141,
+   "checked": 1153,
    "on_sale": 173,
    "max_pct": 50,
    "median_pct": 50,
@@ -1304,7 +1304,7 @@
    "domain": "www.toteme.com",
    "cat": "scandi",
    "currency": "SEK",
-   "checked": 1930,
+   "checked": 1931,
    "on_sale": 0,
    "max_pct": 0,
    "median_pct": 0,
@@ -1315,7 +1315,7 @@
    "domain": "www.sportyandrich.com",
    "cat": "american",
    "currency": "USD",
-   "checked": 1310,
+   "checked": 1307,
    "on_sale": 0,
    "max_pct": 0,
    "median_pct": 0,

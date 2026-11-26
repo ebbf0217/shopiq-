@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-26T08:26:45+00:00",
+ "fetched_at": "2026-11-26T19:04:23+00:00",
  "per_brand": 24,
  "brands": [
   {
@@ -757,6 +757,30 @@
      "img": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/PXCEN-F67057CAN_00.jpg?v=1794223462&width=400"
     },
     {
+     "title": "Chemise en coton",
+     "price": 230.0,
+     "compare": null,
+     "type": "Prêt-à-porter",
+     "url": "https://www.apc.fr/products/chemise-en-coton-law-cohur-f12684",
+     "img": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/COHUR-F12684LAW_00.jpg?v=1794567788&width=400"
+    },
+    {
+     "title": "Pantalon en toile de laine",
+     "price": 370.0,
+     "compare": null,
+     "type": "Prêt-à-porter",
+     "url": "https://www.apc.fr/products/pantalon-en-toile-de-laine-lag-psanf-f08532",
+     "img": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/PSANF-F08532LAG_00.jpg?v=1794567790&width=400"
+    },
+    {
+     "title": "Sac Grace Small",
+     "price": 700.0,
+     "compare": null,
+     "type": "Sac",
+     "url": "https://www.apc.fr/products/sac-grace-small-lzz-pxcex-f61413",
+     "img": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/PXCEX-F61413LZZ_00.jpg?v=1794224496&width=400"
+    },
+    {
      "title": "Pull en laine",
      "price": 310.0,
      "compare": null,
@@ -779,30 +803,6 @@
      "type": "Sac",
      "url": "https://www.apc.fr/products/sac-simone-cad-pxcey-f67050",
      "img": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/PXCEY-F67050CAD_00.jpg?v=1794224494&width=400"
-    },
-    {
-     "title": "Veste en toile de laine",
-     "price": 570.0,
-     "compare": null,
-     "type": "Prêt-à-porter",
-     "url": "https://www.apc.fr/products/veste-en-toile-de-laine-lag-psanf-f03253",
-     "img": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/PSANF-F03253LAG_00.jpg?v=1794567790&width=400"
-    },
-    {
-     "title": "Top en coton côtelé",
-     "price": 150.0,
-     "compare": null,
-     "type": "Prêt-à-porter",
-     "url": "https://www.apc.fr/products/top-en-coton-cotele-lzz-cohup-f26640",
-     "img": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/COHUP-F26640LZZ_00.jpg?v=1794567786&width=400"
-    },
-    {
-     "title": "Sandales en cuir",
-     "price": 295.0,
-     "compare": null,
-     "type": "Chaussure",
-     "url": "https://www.apc.fr/products/sandales-en-cuir-lzz-pxcex-f50160",
-     "img": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/PXCEX-F50160LZZ_00.jpg?v=1794224495&width=400"
     }
    ]
   },
@@ -971,7 +971,7 @@
      "compare": null,
      "type": "Bags",
      "url": "https://www.rouje.com/products/darling-sac-cuir-noir",
-     "img": "https://cdn.shopify.com/s/files/1/0699/2914/0544/files/DARLING_1150.jpg?v=1782978451&width=400"
+     "img": "https://cdn.shopify.com/s/files/1/0699/2914/0544/files/DARLING_1153.jpg?v=1782978453&width=400"
     },
     {
      "title": "Bottines CHELSEA",
@@ -2196,20 +2196,20 @@
      "img": "https://cdn.shopify.com/s/files/1/0903/9039/7315/files/CARRE89WHITENAPPALEATHER_4_a6135e43-9779-4a73-8c7d-9f618a837258.jpg?v=1782715474&width=400"
     },
     {
+     "title": "Prudence 45 Leather Pump",
+     "price": 360.0,
+     "compare": null,
+     "type": "FOOTWEAR",
+     "url": "https://www.byfar.com/products/prudence-45-honey-mahogany-nappa-leather",
+     "img": "https://cdn.shopify.com/s/files/1/0903/9039/7315/files/Prudence45HoneyMahoganyGrainNubuckLeather_1.jpg?v=1769680576&width=400"
+    },
+    {
      "title": "Vic Pony Hair Belt",
      "price": 130.0,
      "compare": null,
      "type": "BELTS",
      "url": "https://www.byfar.com/products/vic-cheetah-pony-hair-leather",
      "img": "https://cdn.shopify.com/s/files/1/0903/9039/7315/files/VicCheetahPonyHairLeather_1.jpg?v=1769681886&width=400"
-    },
-    {
-     "title": "Prudence 45 Leather Pump",
-     "price": 360.0,
-     "compare": null,
-     "type": "FOOTWEAR",
-     "url": "https://www.byfar.com/products/prudence-45-rosalie-nappa-leather",
-     "img": "https://cdn.shopify.com/s/files/1/0903/9039/7315/files/Prudence45RosalieNappaLeather_2.jpg?v=1769680031&width=400"
     }
    ]
   },
@@ -2357,14 +2357,6 @@
      "img": "https://cdn.shopify.com/s/files/1/2554/3534/files/Madhappy-Dodgers-World-Series-Jacket-Flat-Ravine-01.jpg?v=1774399399&width=400"
     },
     {
-     "title": "Classics Dad Hat",
-     "price": 55.0,
-     "compare": null,
-     "type": "Hat",
-     "url": "https://madhappy.com/products/classics-dad-hat-black",
-     "img": "https://cdn.shopify.com/s/files/1/2554/3534/files/Madhappy-47-Core-Wordmark-Dad-Hat-Flat-Black-01.jpg?v=1771290537&width=400"
-    },
-    {
      "title": "Dodgers Oval Fleece Crewneck",
      "price": 185.0,
      "compare": null,
@@ -2411,6 +2403,14 @@
      "type": "Sweatpant",
      "url": "https://madhappy.com/products/dodgers-heart-fleece-straight-sweatpant-ravine",
      "img": "https://cdn.shopify.com/s/files/1/2554/3534/files/Madhappy-Dodgers-Heart-Straight-Sweatpant-Flat-Ravine-01.jpg?v=1774396180&width=400"
+    },
+    {
+     "title": "Pantry Strawberry Heavyweight Tee",
+     "price": 80.0,
+     "compare": null,
+     "type": "T-Shirt",
+     "url": "https://madhappy.com/products/pantry-core-heavyweight-tee-ash",
+     "img": "https://cdn.shopify.com/s/files/1/2554/3534/files/Madhappy-Pantry-Mid-Weight-Tee-Flat-Light-Grey-Heather-01.jpg?v=1770783469&width=400"
     }
    ]
   },
@@ -3185,14 +3185,6 @@
      "img": "https://cdn.shopify.com/s/files/1/0094/2252/files/KHMG030206-001-Detail.jpg?v=1795212504&width=400"
     },
     {
-     "title": "STAR WARS™ | Kith Darth Vader Painting Vintage Tee - Black",
-     "price": 70.0,
-     "compare": null,
-     "type": "Short Sleeve Tees",
-     "url": "https://www.kith.com/products/khmg030421-001",
-     "img": "https://cdn.shopify.com/s/files/1/0094/2252/files/KHMG030421-001-Detail.jpg?v=1795212679&width=400"
-    },
-    {
      "title": "STAR WARS™ | Kith Charcoal Tee - White",
      "price": 70.0,
      "compare": null,
@@ -3215,6 +3207,14 @@
      "type": "Snapback Hats",
      "url": "https://www.kith.com/products/khma050178-001",
      "img": "https://cdn.shopify.com/s/files/1/0094/2252/files/KHMA050178-001-Detail.jpg?v=1795214128&width=400"
+    },
+    {
+     "title": "STAR WARS™ | Kith Washed Classic Cap - Black",
+     "price": 60.0,
+     "compare": null,
+     "type": "Caps",
+     "url": "https://www.kith.com/products/khma050176-001",
+     "img": "https://cdn.shopify.com/s/files/1/0094/2252/files/KHMA050176-001-Detail.jpg?v=1795101375&width=400"
     }
    ]
   },
