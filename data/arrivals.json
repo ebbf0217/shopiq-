@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-25T23:39:26+00:00",
+ "fetched_at": "2026-11-26T08:26:45+00:00",
  "per_brand": 24,
  "brands": [
   {
@@ -3033,14 +3033,6 @@
      "img": "https://cdn.shopify.com/s/files/1/0094/2252/files/KHLA150274-Detail.jpg?v=1795212530&width=400"
     },
     {
-     "title": "STAR WARS™ | Kith Death Star Wall Clock - Multi",
-     "price": 90.0,
-     "compare": null,
-     "type": "Decor & Accessories",
-     "url": "https://www.kith.com/products/khla150275",
-     "img": "https://cdn.shopify.com/s/files/1/0094/2252/files/KHLA150275-Detail_a19b3a65-4fb7-4467-b5a9-7c049157b121.jpg?v=1795214039&width=400"
-    },
-    {
      "title": "STAR WARS™ | Kith for Corkcicle Sport Canteen - White",
      "price": 55.0,
      "compare": null,
@@ -3071,14 +3063,6 @@
      "type": "Decor & Accessories",
      "url": "https://www.kith.com/products/khla150183-906",
      "img": "https://cdn.shopify.com/s/files/1/0094/2252/files/KHLA150183-906-Detail.jpg?v=1795212511&width=400"
-    },
-    {
-     "title": "STAR WARS™ | Kith Lenticular Movie Poster - Multi",
-     "price": 35.0,
-     "compare": null,
-     "type": "Decor & Accessories",
-     "url": "https://www.kith.com/products/khla150171-906",
-     "img": "https://cdn.shopify.com/s/files/1/0094/2252/files/KHLA150171-906-Detail.jpg?v=1795212509&width=400"
     },
     {
      "title": "STAR WARS™ | Kith Lenticular Movie Poster - Multi",
@@ -3209,12 +3193,28 @@
      "img": "https://cdn.shopify.com/s/files/1/0094/2252/files/KHMG030421-001-Detail.jpg?v=1795212679&width=400"
     },
     {
-     "title": "STAR WARS™ | Kith Foreshadow Tee - White",
+     "title": "STAR WARS™ | Kith Charcoal Tee - White",
      "price": 70.0,
      "compare": null,
      "type": "Short Sleeve Tees",
-     "url": "https://www.kith.com/products/khmg030201-101",
-     "img": "https://cdn.shopify.com/s/files/1/0094/2252/files/KHMG030201-101-Detail.jpg?v=1795101383&width=400"
+     "url": "https://www.kith.com/products/khmg030207-101",
+     "img": "https://cdn.shopify.com/s/files/1/0094/2252/files/KHMG030207-101-Detail.jpg?v=1795101394&width=400"
+    },
+    {
+     "title": "STAR WARS™ | Kith Logo Lockup Tee - Black",
+     "price": 65.0,
+     "compare": null,
+     "type": "Short Sleeve Tees",
+     "url": "https://www.kith.com/products/khmg030210-001",
+     "img": "https://cdn.shopify.com/s/files/1/0094/2252/files/KHMG030210-001-Detail.jpg?v=1795101407&width=400"
+    },
+    {
+     "title": "STAR WARS™ | Kith Darth Vader BL Pinch Crown Cap - Black",
+     "price": 60.0,
+     "compare": null,
+     "type": "Snapback Hats",
+     "url": "https://www.kith.com/products/khma050178-001",
+     "img": "https://cdn.shopify.com/s/files/1/0094/2252/files/KHMA050178-001-Detail.jpg?v=1795214128&width=400"
     }
    ]
   },
@@ -3299,7 +3299,7 @@
     },
     {
      "title": "The Organic Cotton Box-Cut Pocket Tee | Lavender Herb | No Pocket",
-     "price": 20.0,
+     "price": 17.0,
      "compare": 34.0,
      "type": "Knit Tops",
      "url": "https://www.everlane.com/products/f-t-ctn-orgn-box-lav",
