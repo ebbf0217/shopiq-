@@ -1,83 +1,7 @@
 {
- "fetched_at": "2026-11-27T03:39:57+00:00",
+ "fetched_at": "2026-11-27T16:44:11+00:00",
  "min_pct": 20,
  "brands": [
-  {
-   "brand": "Everlane",
-   "domain": "www.everlane.com",
-   "cat": "american",
-   "currency": "USD",
-   "checked": 2000,
-   "on_sale": 1848,
-   "max_pct": 80,
-   "median_pct": 69,
-   "top": [
-    {
-     "title": "Ultrasoft Polo Sweater | Heather Mid Charcoal",
-     "pct": 80,
-     "price": 30.0,
-     "compare": 148.0,
-     "url": "https://www.everlane.com/products/mens-ultrasoft-polo-sweater-heather-mid-charcoal",
-     "img": "https://cdn.shopify.com/s/files/1/0623/7916/3734/files/7ee2053a_3e3c.jpg?v=1765994406&width=400"
-    },
-    {
-     "title": "The ’90s Cheeky® Jean | Deep Atlantic | 30.5\" Inseam",
-     "pct": 80,
-     "price": 26.0,
-     "compare": 128.0,
-     "url": "https://www.everlane.com/products/womens-90s-cheeky-straight-jean-tall-deep-atlantic",
-     "img": "https://cdn.shopify.com/s/files/1/0623/7916/3734/files/ec4e9ff8_dbe6.jpg?v=1753411539&width=400"
-    },
-    {
-     "title": "The Way-High® Skinny Jean | Mid Blue | 28 3/4\" Inseam",
-     "pct": 80,
-     "price": 18.0,
-     "compare": 88.0,
-     "url": "https://www.everlane.com/products/womens-mcj-way-high-skinny-jean-authentic-blue",
-     "img": "https://cdn.shopify.com/s/files/1/0623/7916/3734/files/bb0ebfba_e36f.jpg?v=1753411404&width=400"
-    },
-    {
-     "title": "The ’90s Cheeky® Jean | Vintage Sunbleached Blue | 28.5\" Inseam",
-     "pct": 80,
-     "price": 26.0,
-     "compare": 128.0,
-     "url": "https://www.everlane.com/products/womens-90s-cheeky-straight-jean-vintage-sbblue",
-     "img": "https://cdn.shopify.com/s/files/1/0623/7916/3734/files/83c168e4_db01.jpg?v=1753411464&width=400"
-    },
-    {
-     "title": "The Wide-Leg Pant in Stretch Linen | Trench Coat Khaki",
-     "pct": 80,
-     "price": 32.0,
-     "compare": 158.0,
-     "url": "https://www.everlane.com/products/womens-wide-leg-pant-stretch-linen-trench-coat-khaki",
-     "img": "https://cdn.shopify.com/s/files/1/0623/7916/3734/files/ea0c96a3_b410.jpg?v=1753411845&width=400"
-    },
-    {
-     "title": "Paneled Ultra Wide-Leg Jean | Twilight",
-     "pct": 80,
-     "price": 34.0,
-     "compare": 168.0,
-     "url": "https://www.everlane.com/products/womens-paneled-wide-leg-jean-twilight",
-     "img": "https://cdn.shopify.com/s/files/1/0623/7916/3734/files/02b4988f_e5c1.jpg?v=1768514403&width=400"
-    },
-    {
-     "title": "'90s Baggy Cargo Pant | Olive",
-     "pct": 80,
-     "price": 30.0,
-     "compare": 148.0,
-     "url": "https://www.everlane.com/products/mens-90s-baggy-cargo-pant-olive",
-     "img": "https://cdn.shopify.com/s/files/1/0623/7916/3734/files/bc7b7312_3eff.jpg?v=1762190904&width=400"
-    },
-    {
-     "title": "'90s Baggy Cargo Pant | Washed Black",
-     "pct": 80,
-     "price": 30.0,
-     "compare": 148.0,
-     "url": "https://www.everlane.com/products/mens-90s-baggy-cargo-pant-washed-black",
-     "img": "https://cdn.shopify.com/s/files/1/0623/7916/3734/files/73d40a48_1a9c.jpg?v=1763510419&width=400"
-    }
-   ]
-  },
   {
    "brand": "STAUD",
    "domain": "www.staud.clothing",
@@ -86,7 +10,7 @@
    "checked": 1898,
    "on_sale": 1848,
    "max_pct": 75,
-   "median_pct": 30,
+   "median_pct": 35,
    "top": [
     {
      "title": "Cece Dress | Espresso Black",
@@ -155,12 +79,88 @@
    ]
   },
   {
+   "brand": "Everlane",
+   "domain": "www.everlane.com",
+   "cat": "american",
+   "currency": "USD",
+   "checked": 2000,
+   "on_sale": 1847,
+   "max_pct": 80,
+   "median_pct": 70,
+   "top": [
+    {
+     "title": "Ultrasoft Polo Sweater | Heather Mid Charcoal",
+     "pct": 80,
+     "price": 30.0,
+     "compare": 148.0,
+     "url": "https://www.everlane.com/products/mens-ultrasoft-polo-sweater-heather-mid-charcoal",
+     "img": "https://cdn.shopify.com/s/files/1/0623/7916/3734/files/7ee2053a_3e3c.jpg?v=1765994406&width=400"
+    },
+    {
+     "title": "The ’90s Cheeky® Jean | Deep Atlantic | 30.5\" Inseam",
+     "pct": 80,
+     "price": 26.0,
+     "compare": 128.0,
+     "url": "https://www.everlane.com/products/womens-90s-cheeky-straight-jean-tall-deep-atlantic",
+     "img": "https://cdn.shopify.com/s/files/1/0623/7916/3734/files/ec4e9ff8_dbe6.jpg?v=1753411539&width=400"
+    },
+    {
+     "title": "The Way-High® Skinny Jean | Mid Blue | 28 3/4\" Inseam",
+     "pct": 80,
+     "price": 18.0,
+     "compare": 88.0,
+     "url": "https://www.everlane.com/products/womens-mcj-way-high-skinny-jean-authentic-blue",
+     "img": "https://cdn.shopify.com/s/files/1/0623/7916/3734/files/bb0ebfba_e36f.jpg?v=1753411404&width=400"
+    },
+    {
+     "title": "The ’90s Cheeky® Jean | Vintage Sunbleached Blue | 28.5\" Inseam",
+     "pct": 80,
+     "price": 26.0,
+     "compare": 128.0,
+     "url": "https://www.everlane.com/products/womens-90s-cheeky-straight-jean-vintage-sbblue",
+     "img": "https://cdn.shopify.com/s/files/1/0623/7916/3734/files/83c168e4_db01.jpg?v=1753411464&width=400"
+    },
+    {
+     "title": "The Wide-Leg Pant in Stretch Linen | Trench Coat Khaki",
+     "pct": 80,
+     "price": 32.0,
+     "compare": 158.0,
+     "url": "https://www.everlane.com/products/womens-wide-leg-pant-stretch-linen-trench-coat-khaki",
+     "img": "https://cdn.shopify.com/s/files/1/0623/7916/3734/files/ea0c96a3_b410.jpg?v=1753411845&width=400"
+    },
+    {
+     "title": "Paneled Ultra Wide-Leg Jean | Twilight",
+     "pct": 80,
+     "price": 34.0,
+     "compare": 168.0,
+     "url": "https://www.everlane.com/products/womens-paneled-wide-leg-jean-twilight",
+     "img": "https://cdn.shopify.com/s/files/1/0623/7916/3734/files/02b4988f_e5c1.jpg?v=1768514403&width=400"
+    },
+    {
+     "title": "'90s Baggy Cargo Pant | Olive",
+     "pct": 80,
+     "price": 30.0,
+     "compare": 148.0,
+     "url": "https://www.everlane.com/products/mens-90s-baggy-cargo-pant-olive",
+     "img": "https://cdn.shopify.com/s/files/1/0623/7916/3734/files/bc7b7312_3eff.jpg?v=1762190904&width=400"
+    },
+    {
+     "title": "'90s Baggy Cargo Pant | Washed Black",
+     "pct": 80,
+     "price": 30.0,
+     "compare": 148.0,
+     "url": "https://www.everlane.com/products/mens-90s-baggy-cargo-pant-washed-black",
+     "img": "https://cdn.shopify.com/s/files/1/0623/7916/3734/files/73d40a48_1a9c.jpg?v=1763510419&width=400"
+    }
+   ]
+  },
+  {
    "brand": "Kith",
    "domain": "www.kith.com",
    "cat": "multi",
    "currency": "USD",
    "checked": 2000,
-   "on_sale": 1480,
+   "on_sale": 1474,
    "max_pct": 80,
    "median_pct": 40,
    "top": [
@@ -235,8 +235,8 @@
    "domain": "www.loveshackfancy.com",
    "cat": "american",
    "currency": "USD",
-   "checked": 1913,
-   "on_sale": 978,
+   "checked": 1899,
+   "on_sale": 964,
    "max_pct": 86,
    "median_pct": 40,
    "top": [
@@ -311,8 +311,8 @@
    "domain": "www.faithfullthebrand.com",
    "cat": "american",
    "currency": "USD",
-   "checked": 885,
-   "on_sale": 716,
+   "checked": 852,
+   "on_sale": 713,
    "max_pct": 81,
    "median_pct": 50,
    "top": [
@@ -387,27 +387,11 @@
    "domain": "www.ullajohnson.com",
    "cat": "designer",
    "currency": "USD",
-   "checked": 1319,
-   "on_sale": 519,
+   "checked": 1311,
+   "on_sale": 511,
    "max_pct": 60,
    "median_pct": 60,
    "top": [
-    {
-     "title": "Milos Halter Maillot with Ring Detail - Olive Flora",
-     "pct": 60,
-     "price": 144.0,
-     "compare": 360.0,
-     "url": "https://www.ullajohnson.com/products/milos-halter-maillot-with-ring-detail-olive-flora",
-     "img": "https://cdn.shopify.com/s/files/1/0221/7797/2320/files/ULLAJOHNSON_MilosHalterMaillotwithRingDetail_OLIVEFLORA_PS261705_01_MAIN_1373aa06-013d-4918-ba05-bbdd9c299273.jpg?v=1764086677&width=400"
-    },
-    {
-     "title": "Kiki Flat - Dove",
-     "pct": 60,
-     "price": 198.0,
-     "compare": 495.0,
-     "url": "https://www.ullajohnson.com/products/kiki-flat-dove-grey",
-     "img": "https://cdn.shopify.com/s/files/1/0221/7797/2320/files/KIKIFLAT_CENERE_a_web.jpg?v=1789522070&width=400"
-    },
     {
      "title": "Sofie Jacquard Knit Dress - Ocean",
      "pct": 60,
@@ -455,6 +439,22 @@
      "compare": 290.0,
      "url": "https://www.ullajohnson.com/products/dalila-ruched-maillot-urchin",
      "img": "https://cdn.shopify.com/s/files/1/0221/7797/2320/files/SP261717_URCHIN_1.jpg?v=1795013229&width=400"
+    },
+    {
+     "title": "Ibiza One Shoulder Maillot - Cowrie",
+     "pct": 60,
+     "price": 148.0,
+     "compare": 370.0,
+     "url": "https://www.ullajohnson.com/products/ibiza-one-shoulder-maillot-cowrie",
+     "img": "https://cdn.shopify.com/s/files/1/0221/7797/2320/files/IbizaOneShoulderMaillotCowrie.jpg?v=1794964096&width=400"
+    },
+    {
+     "title": "Dalila Ruched Maillot - Coral",
+     "pct": 60,
+     "price": 116.0,
+     "compare": 290.0,
+     "url": "https://www.ullajohnson.com/products/dalila-ruched-maillot-coral",
+     "img": "https://cdn.shopify.com/s/files/1/0221/7797/2320/files/DalilaSwimsuitCoral_1.jpg?v=1794963866&width=400"
     }
    ]
   },
@@ -919,7 +919,7 @@
    "domain": "www.rouje.com",
    "cat": "french",
    "currency": "EUR",
-   "checked": 751,
+   "checked": 752,
    "on_sale": 177,
    "max_pct": 48,
    "median_pct": 30,
@@ -1219,42 +1219,6 @@
    ]
   },
   {
-   "brand": "Madhappy",
-   "domain": "madhappy.com",
-   "cat": "american",
-   "currency": "USD",
-   "checked": 816,
-   "on_sale": 3,
-   "max_pct": 75,
-   "median_pct": 75,
-   "top": [
-    {
-     "title": "Cotton Crew Sock",
-     "pct": 75,
-     "price": 9.0,
-     "compare": 36.0,
-     "url": "https://madhappy.com/products/cotton-crew-sock",
-     "img": "https://cdn.shopify.com/s/files/1/2554/3534/files/Madhappy-Holiday-Gifting-Socks-3-Pack-Flat-01_3206ee01-c89a-4877-a34d-80a6ec57db88.jpg?v=1733176308&width=400"
-    },
-    {
-     "title": "Yankees Flannel Boxer Pant",
-     "pct": 75,
-     "price": 49.0,
-     "compare": 195.0,
-     "url": "https://madhappy.com/products/yankees-flannel-boxer-pant-navy",
-     "img": "https://cdn.shopify.com/s/files/1/2554/3534/files/Madhappy-Yankees-All-Over-Embr-Cargo-Pant-Flat-Navy-01.jpg?v=1757357605&width=400"
-    },
-    {
-     "title": "Olga Goose Heart Candle",
-     "pct": 69,
-     "price": 11.0,
-     "compare": 35.0,
-     "url": "https://madhappy.com/products/olga-goose-heart-candle",
-     "img": "https://cdn.shopify.com/s/files/1/2554/3534/files/Madhappy-V-Day-Olga-Goosse-Candle-Flat-01.jpg?v=1769112351&width=400"
-    }
-   ]
-  },
-  {
    "brand": "Stine Goya",
    "domain": "www.stinegoya.com",
    "cat": "scandi",
@@ -1298,7 +1262,7 @@
    "domain": "www.r13denim.com",
    "cat": "designer",
    "currency": "USD",
-   "checked": 855,
+   "checked": 853,
    "on_sale": 0,
    "max_pct": 0,
    "median_pct": 0,
@@ -1320,7 +1284,7 @@
    "domain": "www.toteme.com",
    "cat": "scandi",
    "currency": "SEK",
-   "checked": 1931,
+   "checked": 1930,
    "on_sale": 0,
    "max_pct": 0,
    "median_pct": 0,
@@ -1331,7 +1295,7 @@
    "domain": "www.sportyandrich.com",
    "cat": "american",
    "currency": "USD",
-   "checked": 1307,
+   "checked": 991,
    "on_sale": 0,
    "max_pct": 0,
    "median_pct": 0,
@@ -1360,5 +1324,7 @@
    "top": []
   }
  ],
- "failed": []
+ "failed": [
+  "madhappy.com"
+ ]
 }

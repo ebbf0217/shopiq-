@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-27T03:39:57+00:00",
+ "fetched_at": "2026-11-27T16:44:11+00:00",
  "per_brand": 24,
  "brands": [
   {
@@ -814,12 +814,12 @@
    "collection": "https://www.rouje.com/collections/new-in",
    "items": [
     {
-     "title": "Robe ALVARO",
-     "price": 185.0,
+     "title": "Robe LISERON",
+     "price": 235.0,
      "compare": null,
-     "type": "Dresses",
-     "url": "https://www.rouje.com/products/alvaro-robe-courte-manches-longues-imprime-fleuri-marron",
-     "img": "https://cdn.shopify.com/s/files/1/0699/2914/0544/files/ALVARO_0045.jpg?v=1792584980&width=400"
+     "type": "Robes",
+     "url": "https://www.rouje.com/products/liseron-robe-midi-manches-courtes-pois-noir",
+     "img": "https://cdn.shopify.com/s/files/1/0699/2914/0544/files/LISERON_FOULARD_0665.jpg?v=1794929257&width=400"
     },
     {
      "title": "SOHO Escarpins",
@@ -830,140 +830,76 @@
      "img": "https://cdn.shopify.com/s/files/1/0699/2914/0544/files/ABEL_RENEE_SOHO_0224.jpg?v=1787647284&width=400"
     },
     {
-     "title": "Veste ROMEO",
-     "price": 345.0,
-     "compare": null,
-     "type": "Coats & Jackets",
-     "url": "https://www.rouje.com/products/romeo-veste-chevrons-marron",
-     "img": "https://cdn.shopify.com/s/files/1/0699/2914/0544/files/romeo-marron-d4.jpg?v=1793382899&width=400"
-    },
-    {
-     "title": "Sac L'AMANT",
-     "price": 375.0,
-     "compare": null,
-     "type": "Bags",
-     "url": "https://www.rouje.com/products/lamant-sac-cuir-bordeaux",
-     "img": "https://cdn.shopify.com/s/files/1/0699/2914/0544/files/AMANT_GRIOTTE_1083.jpg?v=1782978452&width=400"
-    },
-    {
-     "title": "Manteau THEODORE",
-     "price": 450.0,
-     "compare": null,
-     "type": "Coats & Jackets",
-     "url": "https://www.rouje.com/products/theodore-manteau-ceinture-gris-chine",
-     "img": "https://cdn.shopify.com/s/files/1/0699/2914/0544/files/CHARLOTTA_THEODORE_0519.jpg?v=1790159358&width=400"
-    },
-    {
-     "title": "Top BASILE",
-     "price": 115.0,
-     "compare": null,
-     "type": "Tops",
-     "url": "https://www.rouje.com/products/basile-top-manches-longues-gris",
-     "img": "https://cdn.shopify.com/s/files/1/0699/2914/0544/files/BASIL_1473.jpg?v=1792584979&width=400"
-    },
-    {
-     "title": "Cardigan BRIDGETTA",
-     "price": 195.0,
-     "compare": null,
-     "type": "Knits",
-     "url": "https://www.rouje.com/products/bridgetta-cardigan-manches-longues-gris",
-     "img": "https://cdn.shopify.com/s/files/1/0699/2914/0544/files/BRIDGETTA_TRESURE_1225.jpg?v=1792584981&width=400"
-    },
-    {
-     "title": "Manteau TOMMASO",
-     "price": 430.0,
-     "compare": null,
-     "type": "Coats & Jackets",
-     "url": "https://www.rouje.com/products/tommaso-manteau-long-laine-gris-anthracite",
-     "img": "https://cdn.shopify.com/s/files/1/0699/2914/0544/files/TOMMAZO_1646.jpg?v=1792584982&width=400"
-    },
-    {
-     "title": "Sac TRESOR",
-     "price": 375.0,
-     "compare": null,
-     "type": "Bags",
-     "url": "https://www.rouje.com/products/tresor-sac-suede-imprime-leopard",
-     "img": "https://cdn.shopify.com/s/files/1/0699/2914/0544/files/TRESOR_1092.jpg?v=1782978455&width=400"
-    },
-    {
-     "title": "Jean ANVERS",
-     "price": 150.0,
-     "compare": null,
-     "type": "Pants",
-     "url": "https://www.rouje.com/products/anvers-jean-denim-blanc",
-     "img": "https://cdn.shopify.com/s/files/1/0699/2914/0544/files/ALDERIC_ANVER_BLANC_2083.jpg?v=1792584978&width=400"
-    },
-    {
-     "title": "Manteau MARCELLO",
-     "price": 344.0,
-     "compare": 430.0,
-     "type": "Coats & Jackets",
-     "url": "https://www.rouje.com/products/marcello-manteau-long-laine-gris-1",
-     "img": "https://cdn.shopify.com/s/files/1/0699/2914/0544/files/CLOTHILDA_CHOCOLAT_MARCELLO_2380.jpg?v=1787647316&width=400"
-    },
-    {
-     "title": "Bottes CHRISTY",
-     "price": 316.0,
-     "compare": 395.0,
-     "type": "Shoes",
-     "url": "https://www.rouje.com/products/christy-boots-croute-ebene",
-     "img": "https://cdn.shopify.com/s/files/1/0699/2914/0544/files/CHRISTY_1_33f11673-3a59-4012-9195-6470b4d9e645.jpg?v=1767993181&width=400"
-    },
-    {
      "title": "Robe ALEXINE",
      "price": 195.0,
      "compare": null,
-     "type": "Dresses",
-     "url": "https://www.rouje.com/products/alexine-robe-midi-manches-longues-mesh-imprime-fleuri-marron",
-     "img": "https://cdn.shopify.com/s/files/1/0699/2914/0544/files/ALEXINE_0111.jpg?v=1792584980&width=400"
+     "type": "Robes",
+     "url": "https://www.rouje.com/products/alexine-robe-midi-manches-longues-mesh-pois-rose",
+     "img": "https://cdn.shopify.com/s/files/1/0699/2914/0544/files/ALEXINE_MESH_TWILLA_0762.jpg?v=1794929242&width=400"
     },
     {
-     "title": "Body CHERRY",
-     "price": 195.0,
+     "title": "Boucles d'oreilles CHERI",
+     "price": 80.0,
      "compare": null,
-     "type": "Bodysuits",
-     "url": "https://www.rouje.com/products/cherry-body-manches-longues-cotele-noir",
-     "img": "https://cdn.shopify.com/s/files/1/0699/2914/0544/files/CHERRY_1957.jpg?v=1792584980&width=400"
+     "type": "Jewelry",
+     "url": "https://www.rouje.com/products/cheri-boucles-oreilles-laiton-argente",
+     "img": "https://cdn.shopify.com/s/files/1/0699/2914/0544/files/Group_4_1.jpg?v=1793357828&width=400"
     },
     {
-     "title": "Jean VERNEUIL",
-     "price": 150.0,
+     "title": "Robe ESTHER",
+     "price": 225.0,
      "compare": null,
-     "type": "Pants",
-     "url": "https://www.rouje.com/products/verneuil-jean-evase-coton-bleu",
-     "img": "https://cdn.shopify.com/s/files/1/0699/2914/0544/files/VERNEUIL_OLIVE_1067.jpg?v=1790159433&width=400"
+     "type": "Robes",
+     "url": "https://www.rouje.com/products/esther-robe-courte-velours-noir",
+     "img": "https://cdn.shopify.com/s/files/1/0699/2914/0544/files/ESTHER_0317.jpg?v=1794929247&width=400"
     },
     {
-     "title": "Robe CLERIA",
-     "price": 165.0,
-     "compare": null,
-     "type": "Dresses",
-     "url": "https://www.rouje.com/products/cleria-robe-midi-manches-longues-gris",
-     "img": "https://cdn.shopify.com/s/files/1/0699/2914/0544/files/CLERIAJERSEY_SULLYFLEUR_0054.jpg?v=1792584979&width=400"
-    },
-    {
-     "title": "Escarpins BRERA",
-     "price": 285.0,
+     "title": "Ballerines PRADO",
+     "price": 270.0,
      "compare": null,
      "type": "Shoes",
-     "url": "https://www.rouje.com/products/brera-escarpins-cuir-bordeaux",
-     "img": "https://cdn.shopify.com/s/files/1/0699/2914/0544/files/BRERA_1290.jpg?v=1782978452&width=400"
+     "url": "https://www.rouje.com/products/prado-ballerines-cuir-noir",
+     "img": "https://cdn.shopify.com/s/files/1/0699/2914/0544/files/PRADO_1298.jpg?v=1782978451&width=400"
     },
     {
-     "title": "Robe CLERIA",
+     "title": "Chemise LOTTA",
+     "price": 155.0,
+     "compare": null,
+     "type": "Hauts",
+     "url": "https://www.rouje.com/products/lotta-chemise-manches-longues-pois-noir",
+     "img": "https://cdn.shopify.com/s/files/1/0699/2914/0544/files/LOTTA_0899.jpg?v=1794929258&width=400"
+    },
+    {
+     "title": "Haut YURA",
+     "price": 145.0,
+     "compare": null,
+     "type": "Hauts",
+     "url": "https://www.rouje.com/products/yura-top-manches-longues-mesh-pois-rose",
+     "img": "https://cdn.shopify.com/s/files/1/0699/2914/0544/files/YURA_CHOUCHOU_CHERRY_0193.jpg?v=1794929265&width=400"
+    },
+    {
+     "title": "Robe GABINETTE",
      "price": 195.0,
      "compare": null,
-     "type": "Dresses",
-     "url": "https://www.rouje.com/products/cleria-robe-midi-manches-longues-imprime-fleuri-noir",
-     "img": "https://cdn.shopify.com/s/files/1/0699/2914/0544/files/CLERIA_LUCKY_0060.jpg?v=1792584982&width=400"
+     "type": "Robes",
+     "url": "https://www.rouje.com/products/gabinette-robe-portefeuille-courte-manches-longues-rouge",
+     "img": "https://cdn.shopify.com/s/files/1/0699/2914/0544/files/GABINETTE_0020.jpg?v=1794929248&width=400"
     },
     {
-     "title": "Top PETRA",
-     "price": 115.0,
+     "title": "Chemise IRENE",
+     "price": 165.0,
      "compare": null,
-     "type": "Tops",
-     "url": "https://www.rouje.com/products/petra-top-manches-longues-gris",
-     "img": "https://cdn.shopify.com/s/files/1/0699/2914/0544/files/PETRA_1771.jpg?v=1792584980&width=400"
+     "type": "Hauts",
+     "url": "https://www.rouje.com/products/irene-chemise-manches-longues-rouge",
+     "img": "https://cdn.shopify.com/s/files/1/0699/2914/0544/files/IRENE_1624.jpg?v=1794929250&width=400"
+    },
+    {
+     "title": "Haut ANTONIA",
+     "price": 165.0,
+     "compare": null,
+     "type": "Hauts",
+     "url": "https://www.rouje.com/products/antonia-top-velours-noir",
+     "img": "https://cdn.shopify.com/s/files/1/0699/2914/0544/files/ANTONIA_GABRIELA_RAFAEL_0867_copie.jpg?v=1794929244&width=400"
     },
     {
      "title": "Sac DARLING",
@@ -974,36 +910,100 @@
      "img": "https://cdn.shopify.com/s/files/1/0699/2914/0544/files/DARLING_1153.jpg?v=1782978453&width=400"
     },
     {
-     "title": "Bottines CHELSEA",
+     "title": "Manteau MARION",
      "price": 345.0,
      "compare": null,
-     "type": "Shoes",
-     "url": "https://www.rouje.com/products/chelsea-bottines-a-talon-cuir-vernis-noir-1",
-     "img": "https://cdn.shopify.com/s/files/1/0699/2914/0544/files/CHELSEA_CUIR_1303.jpg?v=1782978452&width=400"
+     "type": "Coats & Jackets",
+     "url": "https://www.rouje.com/products/marion-veste-courte-fausse-fourrure-marron",
+     "img": "https://cdn.shopify.com/s/files/1/0699/2914/0544/files/MARION_LUCKY_0165.jpg?v=1792584982&width=400"
     },
     {
-     "title": "Top TERRY",
-     "price": 145.0,
+     "title": "Jupe GABRIELLA",
+     "price": 165.0,
      "compare": null,
-     "type": "Tops",
-     "url": "https://www.rouje.com/products/terry-top-manches-longues-imprime-fleuri-noir",
-     "img": "https://cdn.shopify.com/s/files/1/0699/2914/0544/files/TERRY_0723.jpg?v=1792584982&width=400"
+     "type": "Jupes",
+     "url": "https://www.rouje.com/products/gabriella-jupe-courte-velours-noir",
+     "img": "https://cdn.shopify.com/s/files/1/0699/2914/0544/files/ANTONIA_GABRIELA_RAFAEL_CHOUCHOU_0914.jpg?v=1794929243&width=400"
     },
     {
-     "title": "Robe JOSE",
-     "price": 285.0,
+     "title": "Body MIA",
+     "price": 155.0,
      "compare": null,
-     "type": "Dresses",
-     "url": "https://www.rouje.com/products/jose-robe-midi-manches-longues-noir",
-     "img": "https://cdn.shopify.com/s/files/1/0699/2914/0544/files/JOSE_0920.jpg?v=1792584979&width=400"
+     "type": "Bodys",
+     "url": "https://www.rouje.com/products/mia-body-manches-longues-noir",
+     "img": "https://cdn.shopify.com/s/files/1/0699/2914/0544/files/MIA_1437.jpg?v=1794929262&width=400"
     },
     {
-     "title": "Pull ENORA",
+     "title": "Pull ALDERIC",
      "price": 145.0,
      "compare": null,
      "type": "Knits",
-     "url": "https://www.rouje.com/products/enora-pull-manches-longues-laine-raye-beige",
-     "img": "https://cdn.shopify.com/s/files/1/0699/2914/0544/files/ENORA_DEPHINA_1184.jpg?v=1792584980&width=400"
+     "url": "https://www.rouje.com/products/alderic-pull-manches-longues-gris",
+     "img": "https://cdn.shopify.com/s/files/1/0699/2914/0544/files/ALDERIC_ANVER_BLANC_2057.jpg?v=1792584979&width=400"
+    },
+    {
+     "title": "Jupe JULIO",
+     "price": 165.0,
+     "compare": null,
+     "type": "Jupes",
+     "url": "https://www.rouje.com/products/julio-jupe-midi-imprime-fleuri-marine",
+     "img": "https://cdn.shopify.com/s/files/1/0699/2914/0544/files/JULIO_0944.jpg?v=1794929255&width=400"
+    },
+    {
+     "title": "Body ENEA",
+     "price": 135.0,
+     "compare": null,
+     "type": "Bodys",
+     "url": "https://www.rouje.com/products/enea-body-mesh-dentelle-framboise-beige",
+     "img": "https://cdn.shopify.com/s/files/1/0699/2914/0544/files/ENEA_2021.jpg?v=1794929246&width=400"
+    },
+    {
+     "title": "Pantalon RAPHAEL",
+     "price": 185.0,
+     "compare": null,
+     "type": "Pantalons",
+     "url": "https://www.rouje.com/products/raphael-pantalon-laine-noir",
+     "img": "https://cdn.shopify.com/s/files/1/0699/2914/0544/files/ANTONIA_GABRIELA_RAFAEL_1163.jpg?v=1794929244&width=400"
+    },
+    {
+     "title": "Sac FIANCE",
+     "price": 350.0,
+     "compare": null,
+     "type": "Bags",
+     "url": "https://www.rouje.com/products/fiance-sac-cuir-champagne",
+     "img": "https://cdn.shopify.com/s/files/1/0699/2914/0544/files/FIANCE_CHAMPAGNE_1142.jpg?v=1782978452&width=400"
+    },
+    {
+     "title": "Cardigan PETE",
+     "price": 185.0,
+     "compare": null,
+     "type": "Maille",
+     "url": "https://www.rouje.com/products/pete-cardigan-laine-noir",
+     "img": "https://cdn.shopify.com/s/files/1/0699/2914/0544/files/PETE_1819.jpg?v=1794929263&width=400"
+    },
+    {
+     "title": "Robe MALLOLA",
+     "price": 250.0,
+     "compare": null,
+     "type": "Robes",
+     "url": "https://www.rouje.com/products/mallola-robe-midi-manches-longues-laine-rouge",
+     "img": "https://cdn.shopify.com/s/files/1/0699/2914/0544/files/MALLOLA_0774.jpg?v=1794929259&width=400"
+    },
+    {
+     "title": "Cardigan ABELINA",
+     "price": 185.0,
+     "compare": null,
+     "type": "Knits",
+     "url": "https://www.rouje.com/products/abelina-cardigan-manches-longues-gris-clair",
+     "img": "https://cdn.shopify.com/s/files/1/0699/2914/0544/files/ABELINA_GRIS_2355.jpg?v=1787647292&width=400"
+    },
+    {
+     "title": "Robe MANON",
+     "price": 215.0,
+     "compare": null,
+     "type": "Robes",
+     "url": "https://www.rouje.com/products/manon-robe-midi-imprime-fleuri-marine",
+     "img": "https://cdn.shopify.com/s/files/1/0699/2914/0544/files/MANON_HONEY_0572.jpg?v=1794929262&width=400"
     }
    ]
   },
@@ -1820,7 +1820,7 @@
    "items": [
     {
      "title": "James Silk Dress | Coast",
-     "price": 557.0,
+     "price": 517.0,
      "compare": 795.0,
      "type": "DRESSES",
      "url": "https://www.staud.clothing/products/james-silk-dress-coast",
@@ -1828,7 +1828,7 @@
     },
     {
      "title": "Cyrus Short | Pear Gilded",
-     "price": 298.0,
+     "price": 276.0,
      "compare": 425.0,
      "type": "SHORTS",
      "url": "https://www.staud.clothing/products/cyrus-short-pear-gilded",
@@ -1836,7 +1836,7 @@
     },
     {
      "title": "Sterling Dress | Still Life",
-     "price": 627.0,
+     "price": 582.0,
      "compare": 895.0,
      "type": "DRESSES",
      "url": "https://www.staud.clothing/products/sterling-dress-still-life",
@@ -1844,7 +1844,7 @@
     },
     {
      "title": "Liam Relaxed Tee | Washed Black",
-     "price": 116.0,
+     "price": 107.0,
      "compare": 165.0,
      "type": "TOPS",
      "url": "https://www.staud.clothing/products/liam-relaxed-tee-washed-black",
@@ -1852,7 +1852,7 @@
     },
     {
      "title": "Vatolla Top | Black",
-     "price": 77.0,
+     "price": 72.0,
      "compare": 110.0,
      "type": "TOPS",
      "url": "https://www.staud.clothing/products/vatolla-top-black",
@@ -1860,7 +1860,7 @@
     },
     {
      "title": "Portia Silk Dress | Tapestry Midnight",
-     "price": 508.0,
+     "price": 471.0,
      "compare": 725.0,
      "type": "DRESSES",
      "url": "https://www.staud.clothing/products/portia-silk-dress-tapestry-midnight",
@@ -1868,7 +1868,7 @@
     },
     {
      "title": "Charli Silk Dress | Tapestry Midnight",
-     "price": 525.0,
+     "price": 488.0,
      "compare": 750.0,
      "type": "DRESSES",
      "url": "https://www.staud.clothing/products/charli-silk-dress-tapestry-midnight",
@@ -1876,7 +1876,7 @@
     },
     {
      "title": "Muse Clutch | Black",
-     "price": 207.0,
+     "price": 192.0,
      "compare": 295.0,
      "type": "FASHION HANDBAGS",
      "url": "https://www.staud.clothing/products/muse-clutch-black",
@@ -1884,7 +1884,7 @@
     },
     {
      "title": "Blake Mule | Seafoam Suede",
-     "price": 263.0,
+     "price": 244.0,
      "compare": 375.0,
      "type": "SHOES",
      "url": "https://www.staud.clothing/products/blake-mule-seafoam",
@@ -1940,7 +1940,7 @@
     },
     {
      "title": "Brigitte Satin Mule | Cashew",
-     "price": 207.0,
+     "price": 192.0,
      "compare": 295.0,
      "type": "SHOES",
      "url": "https://www.staud.clothing/products/brigitte-mule-cashew",
@@ -1948,7 +1948,7 @@
     },
     {
      "title": "Viviana Dress | Earth",
-     "price": 487.0,
+     "price": 452.0,
      "compare": 695.0,
      "type": "DRESSES",
      "url": "https://www.staud.clothing/products/viviana-dress-earth",
@@ -1956,7 +1956,7 @@
     },
     {
      "title": "Selene Silk Dress | Pear",
-     "price": 487.0,
+     "price": 452.0,
      "compare": 695.0,
      "type": "DRESSES",
      "url": "https://www.staud.clothing/products/selene-silk-dress-pear",
@@ -1964,7 +1964,7 @@
     },
     {
      "title": "Phare Silk Dress | Pear",
-     "price": 487.0,
+     "price": 452.0,
      "compare": 695.0,
      "type": "DRESSES",
      "url": "https://www.staud.clothing/products/phare-silk-dress-pear",
@@ -1972,7 +1972,7 @@
     },
     {
      "title": "Wells Dress | Pear",
-     "price": 200.0,
+     "price": 185.0,
      "compare": 285.0,
      "type": "DRESSES",
      "url": "https://www.staud.clothing/products/wells-dress-pear",
@@ -1980,7 +1980,7 @@
     },
     {
      "title": "Lara Silk Dress | Pear",
-     "price": 417.0,
+     "price": 387.0,
      "compare": 595.0,
      "type": "DRESSES",
      "url": "https://www.staud.clothing/products/lara-silk-dress-pear",
@@ -1996,7 +1996,7 @@
     },
     {
      "title": "Winslow Bag | Black",
-     "price": 277.0,
+     "price": 257.0,
      "compare": 395.0,
      "type": "FASHION HANDBAGS",
      "url": "https://www.staud.clothing/products/winslow-bag-black",
@@ -2164,20 +2164,20 @@
      "img": "https://cdn.shopify.com/s/files/1/0903/9039/7315/files/EsteCavoloNeroGrainNubuckLeather_2.jpg?v=1769612598&width=400"
     },
     {
-     "title": "Carre 89 Leather Pump",
-     "price": 410.0,
-     "compare": null,
-     "type": "FOOTWEAR",
-     "url": "https://www.byfar.com/products/carre-89-cyan-nappa-leather",
-     "img": "https://cdn.shopify.com/s/files/1/0903/9039/7315/files/Carre89CyanNappaLeather_1_f800e21d-8b68-4349-87fa-8de323f69131.jpg?v=1784102864&width=400"
-    },
-    {
      "title": "Stevie 42 Pony Hair Knee-High Boot",
      "price": 590.0,
      "compare": null,
      "type": "FOOTWEAR",
      "url": "https://www.byfar.com/products/stevie-42-cheetah-pony-hair-leather",
      "img": "https://cdn.shopify.com/s/files/1/0903/9039/7315/files/RGG6396.jpg?v=1770644110&width=400"
+    },
+    {
+     "title": "Carre 89 Leather Pump",
+     "price": 410.0,
+     "compare": null,
+     "type": "FOOTWEAR",
+     "url": "https://www.byfar.com/products/carre-89-cyan-nappa-leather",
+     "img": "https://cdn.shopify.com/s/files/1/0903/9039/7315/files/Carre89CyanNappaLeather_1_f800e21d-8b68-4349-87fa-8de323f69131.jpg?v=1784102864&width=400"
     },
     {
      "title": "Edie Nubuck Knee-High Boot",
@@ -2214,207 +2214,6 @@
    ]
   },
   {
-   "brand": "Madhappy",
-   "domain": "madhappy.com",
-   "cat": "american",
-   "currency": "USD",
-   "collection": "https://madhappy.com/collections/new-arrivals",
-   "items": [
-    {
-     "title": "Dodgers Stars Fleece Hoodie",
-     "price": 195.0,
-     "compare": null,
-     "type": "Hoodie",
-     "url": "https://madhappy.com/products/dodgers-stars-fleece-hoodie-white",
-     "img": "https://cdn.shopify.com/s/files/1/2554/3534/files/Madhappy-Dodgers-Stars-Hoodie-Flat-White-01.jpg?v=1774629709&width=400"
-    },
-    {
-     "title": "Washed Dodgers '47 Clean Up",
-     "price": 70.0,
-     "compare": null,
-     "type": "Hat",
-     "url": "https://madhappy.com/products/washed-dodgers-47-clean-up-olive",
-     "img": "https://cdn.shopify.com/s/files/1/2554/3534/files/Madhappy-Dodgers-Dad-Hat-47-Brand-Flat-Olive-01.jpg?v=1774546389&width=400"
-    },
-    {
-     "title": "Hanes Everyday Tee 3-Pack",
-     "price": 95.0,
-     "compare": null,
-     "type": "T-Shirt",
-     "url": "https://madhappy.com/products/hanes-everyday-tee-3-pack-monochrome",
-     "img": "https://cdn.shopify.com/s/files/1/2554/3534/files/010126-Madhappy-Flats29181.jpg?v=1770339797&width=400"
-    },
-    {
-     "title": "Dodgers Oval Fleece Crewneck",
-     "price": 185.0,
-     "compare": null,
-     "type": "Crewneck",
-     "url": "https://madhappy.com/products/dodgers-oval-fleece-crewneck-lemon-grove",
-     "img": "https://cdn.shopify.com/s/files/1/2554/3534/files/Madhappy-Dodgers-Oval-Crewneck-Flat-Lemon-Grove-01.jpg?v=1774396378&width=400"
-    },
-    {
-     "title": "Dodgers Heart Cardigan Sweater",
-     "price": 275.0,
-     "compare": null,
-     "type": "Sweater",
-     "url": "https://madhappy.com/products/dodgers-heart-cardigan-sweater-dark-gray-heather",
-     "img": "https://cdn.shopify.com/s/files/1/2554/3534/files/Madhappy-Dodgers-Cardigan-Sweater-Flat-Dark-Grey-Heather-01.jpg?v=1774395334&width=400"
-    },
-    {
-     "title": "Dodgers Heart Cardigan Sweater",
-     "price": 275.0,
-     "compare": null,
-     "type": "Sweater",
-     "url": "https://madhappy.com/products/dodgers-heart-cardigan-sweater-blue-moon",
-     "img": "https://cdn.shopify.com/s/files/1/2554/3534/files/Madhappy-Dodgers-Cardigan-Sweater-Flat-Blue-Moon-01.jpg?v=1774395189&width=400"
-    },
-    {
-     "title": "Dodgers Oval Fleece Short",
-     "price": 130.0,
-     "compare": null,
-     "type": "Short",
-     "url": "https://madhappy.com/products/dodgers-oval-fleece-short-olive",
-     "img": "https://cdn.shopify.com/s/files/1/2554/3534/files/Madhappy-Dodgers-Oval-Short-Flat-Olive-01.jpg?v=1774396808&width=400"
-    },
-    {
-     "title": "Dodgers Heart Sweater Short",
-     "price": 175.0,
-     "compare": null,
-     "type": "Short",
-     "url": "https://madhappy.com/products/dodgers-sweater-short-dark-gray-heather",
-     "img": "https://cdn.shopify.com/s/files/1/2554/3534/files/Madhappy-Dodgers-Sweater-Shorts-Flat-Dark-Grey-Heather-01.jpg?v=1774399035&width=400"
-    },
-    {
-     "title": "Dodgers Heart Sweater Short",
-     "price": 175.0,
-     "compare": null,
-     "type": "Short",
-     "url": "https://madhappy.com/products/dodgers-sweater-short-blue-moon",
-     "img": "https://cdn.shopify.com/s/files/1/2554/3534/files/Madhappy-Dodgers-Sweater-Shorts-Flat-Dark-Blue-Moon-01.jpg?v=1774398947&width=400"
-    },
-    {
-     "title": "Dodgers Stars Fleece Hoodie",
-     "price": 195.0,
-     "compare": null,
-     "type": "Hoodie",
-     "url": "https://madhappy.com/products/dodgers-stars-fleece-hoodie-lemon-grove",
-     "img": "https://cdn.shopify.com/s/files/1/2554/3534/files/Madhappy-Dodgers-Stars-Hoodie-Flat-Lemon-Grove-01.jpg?v=1774397482&width=400"
-    },
-    {
-     "title": "Dodgers Stars Fleece Sweatpant",
-     "price": 185.0,
-     "compare": null,
-     "type": "Sweatpant",
-     "url": "https://madhappy.com/products/dodgers-stars-fleece-sweatpant-ravine",
-     "img": "https://cdn.shopify.com/s/files/1/2554/3534/files/Madhappy-Dodgers-Stars-Sweatpant-Flat-Ravine-01.jpg?v=1774398766&width=400"
-    },
-    {
-     "title": "Dodgers Stars Fleece Sweatpant",
-     "price": 185.0,
-     "compare": null,
-     "type": "Sweatpant",
-     "url": "https://madhappy.com/products/dodgers-stars-fleece-sweatpant-white",
-     "img": "https://cdn.shopify.com/s/files/1/2554/3534/files/Madhappy-Dodgers-Stars-Sweatpant-Flat-White-01.jpg?v=1774398640&width=400"
-    },
-    {
-     "title": "Classics Dad Hat",
-     "price": 55.0,
-     "compare": null,
-     "type": "Hat",
-     "url": "https://madhappy.com/products/classics-dad-hat-white",
-     "img": "https://cdn.shopify.com/s/files/1/2554/3534/files/Madhappy-47-Core-Wordmark-Dad-Hat-Flat-White-01.jpg?v=1771290582&width=400"
-    },
-    {
-     "title": "Dodgers Oval '47 Clean Up",
-     "price": 70.0,
-     "compare": null,
-     "type": "Hat",
-     "url": "https://madhappy.com/products/dodgers-oval-47-clean-up-lemon-grove",
-     "img": "https://cdn.shopify.com/s/files/1/2554/3534/files/Madhappy-Dodgers-Dad-Hat-47-Brand-Flat-Lemon-Grove-01.jpg?v=1774394712&width=400"
-    },
-    {
-     "title": "Dodgers Stars Heavyweight Tee",
-     "price": 85.0,
-     "compare": null,
-     "type": "T-Shirt",
-     "url": "https://madhappy.com/products/dodgers-stars-heavyweight-tee-ravine",
-     "img": "https://cdn.shopify.com/s/files/1/2554/3534/files/Madhappy-Dodgers-Stars-Heavyweight-Tee-Flat-Ravine-01.jpg?v=1774397328&width=400"
-    },
-    {
-     "title": "Dodgers Stars Heavyweight Tee",
-     "price": 85.0,
-     "compare": null,
-     "type": "T-Shirt",
-     "url": "https://madhappy.com/products/dodgers-stars-heavyweight-tee-white",
-     "img": "https://cdn.shopify.com/s/files/1/2554/3534/files/Madhappy-Dodgers-Stars-Heavyweight-Tee-Flat-White-01.jpg?v=1774397221&width=400"
-    },
-    {
-     "title": "Dodgers World Series Jacket",
-     "price": 350.0,
-     "compare": null,
-     "type": "Jacket",
-     "url": "https://madhappy.com/products/dodgers-world-series-jacket-ravine",
-     "img": "https://cdn.shopify.com/s/files/1/2554/3534/files/Madhappy-Dodgers-World-Series-Jacket-Flat-Ravine-01.jpg?v=1774399399&width=400"
-    },
-    {
-     "title": "Dodgers Oval Fleece Crewneck",
-     "price": 185.0,
-     "compare": null,
-     "type": "Crewneck",
-     "url": "https://madhappy.com/products/dodgers-oval-fleece-crewneck-olive",
-     "img": "https://cdn.shopify.com/s/files/1/2554/3534/files/Madhappy-Dodgers-Oval-Crewneck-Flat-Olive-01.jpg?v=1774396594&width=400"
-    },
-    {
-     "title": "Dodgers Oval Fleece Short",
-     "price": 130.0,
-     "compare": null,
-     "type": "Short",
-     "url": "https://madhappy.com/products/dodgers-oval-fleece-short-lemon-grove",
-     "img": "https://cdn.shopify.com/s/files/1/2554/3534/files/Madhappy-Dodgers-Oval-Short-Flat-Lemon-Grove-01.jpg?v=1774396896&width=400"
-    },
-    {
-     "title": "Dodgers Bowtie '47 Clean Up",
-     "price": 80.0,
-     "compare": null,
-     "type": "Hat",
-     "url": "https://madhappy.com/products/dodgers-bowtie-47-clean-up-ravine",
-     "img": "https://cdn.shopify.com/s/files/1/2554/3534/files/Madhappy-Dodgers-Bow-Hat-47-Brand-Flat-Ravine-03.jpg?v=1774570288&width=400"
-    },
-    {
-     "title": "Dodgers Stars Fleece Crewneck",
-     "price": 185.0,
-     "compare": null,
-     "type": "Crewneck",
-     "url": "https://madhappy.com/products/dodgers-star-fleece-crewneck-ash",
-     "img": "https://cdn.shopify.com/s/files/1/2554/3534/files/Madhappy-Dodgers-Stars-Crewneck-Flat-Ash-01.jpg?v=1774396693&width=400"
-    },
-    {
-     "title": "Dodgers Zip Up Sweater",
-     "price": 275.0,
-     "compare": null,
-     "type": "Sweater",
-     "url": "https://madhappy.com/products/dodgers-zip-up-sweater-navy",
-     "img": "https://cdn.shopify.com/s/files/1/2554/3534/files/Madhappy-Dodgers-Zip-Up-Sweater-Flat-Navy-01.jpg?v=1774399551&width=400"
-    },
-    {
-     "title": "Dodgers Heart Fleece Sweatpant",
-     "price": 185.0,
-     "compare": null,
-     "type": "Sweatpant",
-     "url": "https://madhappy.com/products/dodgers-heart-fleece-straight-sweatpant-ravine",
-     "img": "https://cdn.shopify.com/s/files/1/2554/3534/files/Madhappy-Dodgers-Heart-Straight-Sweatpant-Flat-Ravine-01.jpg?v=1774396180&width=400"
-    },
-    {
-     "title": "Pantry Strawberry Heavyweight Tee",
-     "price": 80.0,
-     "compare": null,
-     "type": "T-Shirt",
-     "url": "https://madhappy.com/products/pantry-core-heavyweight-tee-ash",
-     "img": "https://cdn.shopify.com/s/files/1/2554/3534/files/Madhappy-Pantry-Mid-Weight-Tee-Flat-Light-Grey-Heather-01.jpg?v=1770783469&width=400"
-    }
-   ]
-  },
-  {
    "brand": "Sporty & Rich",
    "domain": "www.sportyandrich.com",
    "cat": "american",
@@ -2422,196 +2221,196 @@
    "collection": "https://www.sportyandrich.com/collections/new-arrivals",
    "items": [
     {
-     "title": "Eliana Bold Logo Zip Hoodie - Camo Woodland",
-     "price": 275.0,
+     "title": "Mika BH Riding Club Trucker Hat - White/Kelly",
+     "price": 75.0,
      "compare": null,
-     "type": "Zipped Hoodie",
-     "url": "https://www.sportyandrich.com/products/bold-logo-zip-hoodie-camo-woodland-fw26-90s-streetwear",
-     "img": "https://cdn.shopify.com/s/files/1/1567/4667/files/01.ElianaBoldLogoZipHoodie-CamoWoodland_669a63ed-04c9-468d-86c4-f49482b99218.jpg?v=1795087623&width=400"
+     "type": "Trucker Cap",
+     "url": "https://www.sportyandrich.com/products/mika-bh-riding-club-trucker-hat-white-kelly-fw26-equestrian",
+     "img": "https://cdn.shopify.com/s/files/1/1567/4667/files/01.MikaBHRidingClubTruckerHat-White_Kellycopie.png?v=1791194007&width=400"
     },
     {
-     "title": "Bennett Bold Logo Baggy Sweatpant - Camo Woodland",
-     "price": 205.0,
+     "title": "Demba Bold Logo Coco Puffer - Black",
+     "price": 415.0,
      "compare": null,
-     "type": "Extra-wide Sweatpants",
-     "url": "https://www.sportyandrich.com/products/bold-logo-baggy-sweatpant-camo-woodland-fw26-90s-streetwear",
-     "img": "https://cdn.shopify.com/s/files/1/1567/4667/files/01.BennettBoldLogoBaggySweatpant-CamoWoodland_3b072d05-8624-41d6-b7c4-d73a5e094626.jpg?v=1795205757&width=400"
+     "type": "",
+     "url": "https://www.sportyandrich.com/products/demba-bold-logo-coco-puffer-black-fw26-rich-bitch",
+     "img": "https://cdn.shopify.com/s/files/1/1567/4667/files/01.DembaBoldLogoCocoPuffer-Black.png?v=1793770694&width=400"
     },
     {
-     "title": "Opra Serif Logo Bodysuit - Black",
-     "price": 135.0,
+     "title": "Demba Bold Logo Coco Puffer - Merlot",
+     "price": 415.0,
      "compare": null,
-     "type": "High Neck Bodysuit",
-     "url": "https://www.sportyandrich.com/products/opra-serif-logo-bodysuit-black-fw26-90s-streetwear",
-     "img": "https://cdn.shopify.com/s/files/1/1567/4667/files/01.OpraSerifLogoBodysuit-Black.jpg?v=1795032241&width=400"
+     "type": "",
+     "url": "https://www.sportyandrich.com/products/demba-bold-logo-coco-puffer-merlot-fw26-rich-bitch",
+     "img": "https://cdn.shopify.com/s/files/1/1567/4667/files/01.DembaBoldLogoCocoPuffer-Merlot.png?v=1793770750&width=400"
     },
     {
-     "title": "Falo Signature Logo Pocket Longsleeve - Camo Woodland",
-     "price": 135.0,
-     "compare": null,
-     "type": "Long Sleeves T-Shirt",
-     "url": "https://www.sportyandrich.com/products/falo-signature-logo-pocket-longsleeve-camo-woodland-fw26-90s-streetwear",
-     "img": "https://cdn.shopify.com/s/files/1/1567/4667/files/SIGNATURELOGOPOCKETLONGSLEEVECAMOWOODLAND_WHITE-1_0917a85c-dd5e-4e3f-8ac1-7d6694b1a61c.jpg?v=1795205850&width=400"
-    },
-    {
-     "title": "Gloria Bold Logo Pilot Jacket - Army Green/Tan",
-     "price": 395.0,
-     "compare": null,
-     "type": "Pilot Jacket",
-     "url": "https://www.sportyandrich.com/products/gloria-bold-logo-pilot-jacket-army-green-tan-fw26-90s-streetwear",
-     "img": "https://cdn.shopify.com/s/files/1/1567/4667/files/01.GloriaBoldLogoPilotJacket-ArmyGreen_Tan.jpg?v=1795037277&width=400"
-    },
-    {
-     "title": "Opra Serif Logo Bodysuit - Heather Gray",
-     "price": 135.0,
-     "compare": null,
-     "type": "High Neck Bodysuit",
-     "url": "https://www.sportyandrich.com/products/opra-serif-logo-bodysuit-heather-gray-fw26-90s-streetwear",
-     "img": "https://cdn.shopify.com/s/files/1/1567/4667/files/01.OpraSerifLogoBodysuit-HeatherGray_63fc7d48-6a98-403d-810c-28355cce25cd.jpg?v=1795032331&width=400"
-    },
-    {
-     "title": "Davo Bold Logo Color Block Puffer - Faded Black/Black",
-     "price": 435.0,
+     "title": "Drea Bold Logo Ski Jacket - Rosso",
+     "price": 525.0,
      "compare": null,
      "type": "Puffer Jacket",
-     "url": "https://www.sportyandrich.com/products/davo-bold-logo-color-block-puffer-faded-black-black-fw26-90s-streetwear",
-     "img": "https://cdn.shopify.com/s/files/1/1567/4667/files/FW26-W11-1.jpg?v=1795035528&width=400"
+     "url": "https://www.sportyandrich.com/products/drea-bold-logo-ski-jacket-rosso-fw26-ski",
+     "img": "https://cdn.shopify.com/s/files/1/1567/4667/files/01.DreaBoldLogoSkiJacket-Rosso_5074c2b8-d6e5-4960-96a4-a362097fae07.png?v=1792746973&width=400"
     },
     {
-     "title": "Benson Cargo Pants - Army Green",
+     "title": "Boso Bold Logo Ski Pants - Rosso",
+     "price": 355.0,
+     "compare": null,
+     "type": "Ski Pants",
+     "url": "https://www.sportyandrich.com/products/boso-bold-logo-ski-pants-rosso-fw26-ski",
+     "img": "https://cdn.shopify.com/s/files/1/1567/4667/files/01.BosoBoldLogoSkiPants-Rosso.png?v=1792747089&width=400"
+    },
+    {
+     "title": "Drea Bold Logo Ski Jacket - Black",
+     "price": 525.0,
+     "compare": null,
+     "type": "Puffer Jacket",
+     "url": "https://www.sportyandrich.com/products/drea-bold-logo-ski-jacket-black-fw26-ski",
+     "img": "https://cdn.shopify.com/s/files/1/1567/4667/files/01.DreaBoldLogoSkiJacket-Black_be70d454-345f-47c7-bca5-9517c949e84a.png?v=1792746918&width=400"
+    },
+    {
+     "title": "Divy Bold Logo Ski Jumpsuit - Black",
+     "price": 425.0,
+     "compare": null,
+     "type": "Ski Jumpsuit",
+     "url": "https://www.sportyandrich.com/products/divy-bold-logo-ski-jumpsuit-black-fw26-ski",
+     "img": "https://cdn.shopify.com/s/files/1/1567/4667/files/01.DivyBoldLogoSkiJumpsuit-Black.jpg?v=1792747258&width=400"
+    },
+    {
+     "title": "Boso Bold Logo Ski Pants - Black",
+     "price": 355.0,
+     "compare": null,
+     "type": "Ski Pants",
+     "url": "https://www.sportyandrich.com/products/boso-bold-logo-ski-pants-black-fw26-ski",
+     "img": "https://cdn.shopify.com/s/files/1/1567/4667/files/01.BosoBoldLogoSkiPants-Black_d01dbeb7-e80b-4568-88c8-fad5ecbc8b76.png?v=1792747144&width=400"
+    },
+    {
+     "title": "Dulce Bold Logo Hooded Ski Suit - Black",
+     "price": 755.0,
+     "compare": null,
+     "type": "Ski Suit",
+     "url": "https://www.sportyandrich.com/products/dulce-bold-logo-hooded-ski-suit-black-fw26-ski",
+     "img": "https://cdn.shopify.com/s/files/1/1567/4667/files/01.DulceBoldLogoHoodedSkiSuit-Black_6ae0e2db-ca26-4fd6-92ed-80b3102e2b47.png?v=1792748063&width=400"
+    },
+    {
+     "title": "Devano Bold Logo Mountain Puffer Vest - Rosso/Rosso",
+     "price": 335.0,
+     "compare": null,
+     "type": "Sleeveless Puffer Jacket",
+     "url": "https://www.sportyandrich.com/products/devano-bold-logo-mountain-puffer-vest-rosso-rosso-fw26-ski",
+     "img": "https://cdn.shopify.com/s/files/1/1567/4667/files/01.DevanoBoldLogoMountainPufferVest-Rosso_Rosso_ae2f66f9-5c41-4016-9c6d-aa6bb4863c7f.png?v=1792746227&width=400"
+    },
+    {
+     "title": "Devan Bold Logo Mountain Puffer - Cream/Beige",
+     "price": 455.0,
+     "compare": null,
+     "type": "Puffer Jacket",
+     "url": "https://www.sportyandrich.com/products/devan-bold-logo-mountain-puffer-cream-beige-fw26-ski",
+     "img": "https://cdn.shopify.com/s/files/1/1567/4667/files/01.DevanBoldLogoMountainPuffer-Cream_Beige_65a20fd0-0c16-426e-b7f4-5a5e05d544f5.png?v=1792746337&width=400"
+    },
+    {
+     "title": "Devano Bold Logo Mountain Puffer Vest - Cream/Beige",
+     "price": 335.0,
+     "compare": null,
+     "type": "Sleeveless Puffer Jacket",
+     "url": "https://www.sportyandrich.com/products/devano-bold-logo-mountain-puffer-vest-cream-beige-fw26-ski",
+     "img": "https://cdn.shopify.com/s/files/1/1567/4667/files/01.DevanoBoldLogoMountainPufferVest-Cream_Beige_5d85ae1d-83e0-44f7-8fa6-c0f856337b72.png?v=1792746283&width=400"
+    },
+    {
+     "title": "Devan Bold Logo Mountain Puffer - Black/Black",
+     "price": 455.0,
+     "compare": null,
+     "type": "Puffer Jacket",
+     "url": "https://www.sportyandrich.com/products/devan-bold-logo-mountain-puffer-black-black-fw26-ski",
+     "img": "https://cdn.shopify.com/s/files/1/1567/4667/files/01.DevanBoldLogoMountainPuffer-Black_Black_efc5dd30-7c5a-4902-ab43-2d8c6e75b0a7.png?v=1792746386&width=400"
+    },
+    {
+     "title": "Maeve Serif Logo Hat - White",
+     "price": 75.0,
+     "compare": null,
+     "type": "5 Pannel Cap",
+     "url": "https://www.sportyandrich.com/products/maeve-serif-logo-hat-white-fw26-essentials-fleece",
+     "img": "https://cdn.shopify.com/s/files/1/1567/4667/files/01.SerifLogoHat-White_DarkNavy.jpg?v=1786102011&width=400"
+    },
+    {
+     "title": "Sidi SRC Cashmere Cableknit Socks - Off White",
+     "price": 55.0,
+     "compare": null,
+     "type": "Cable Socks",
+     "url": "https://www.sportyandrich.com/products/sidi-src-cashmere-cableknit-socks-off-white-fw26-menswear-prep",
+     "img": "https://cdn.shopify.com/s/files/1/1567/4667/files/01.SidiSRCCashmereCableknitSocks-OffWhitecopie.png?v=1789997189&width=400"
+    },
+    {
+     "title": "Abigail Signature Logo Pleated Skirt - Dark Navy",
+     "price": 235.0,
+     "compare": null,
+     "type": "Low-waist pleated skirt",
+     "url": "https://www.sportyandrich.com/products/abigail-signature-logo-abigail-skirt-dark-navy-fw26-menswear-prep",
+     "img": "https://cdn.shopify.com/s/files/1/1567/4667/files/01.AbigailSignatureLogoAbigailSkirt-DarkNavycopie.png?v=1790153062&width=400"
+    },
+    {
+     "title": "Maeve NY Crest Hat - Off White",
+     "price": 75.0,
+     "compare": null,
+     "type": "5 Pannel Cap",
+     "url": "https://www.sportyandrich.com/products/maeve-ny-crest-hat-off-white-fw26-menswear-prep",
+     "img": "https://cdn.shopify.com/s/files/1/1567/4667/files/01.MaeveNYCrestHat-OffWhitecopie.png?v=1790071334&width=400"
+    },
+    {
+     "title": "Azalee Serif Logo Tie Skirt - Ruby",
+     "price": 135.0,
+     "compare": null,
+     "type": "Low Waist Skirt",
+     "url": "https://www.sportyandrich.com/products/azalee-serif-logo-tie-skirt-ruby-fw26-menswear-prep",
+     "img": "https://cdn.shopify.com/s/files/1/1567/4667/files/01.AzaleeSerifLogoTieSkirt-Rubycopie.png?v=1790152723&width=400"
+    },
+    {
+     "title": "Jannie Signature Logo Cashmere SS Cardigan - Ruby",
      "price": 225.0,
      "compare": null,
-     "type": "Cargo Pants",
-     "url": "https://www.sportyandrich.com/products/benson-cargo-pants-army-green-fw26-90s-streetwear",
-     "img": "https://cdn.shopify.com/s/files/1/1567/4667/files/CARGOPANTSARMYGREEN-1.jpg?v=1795041600&width=400"
+     "type": "Short sleeves Polo",
+     "url": "https://www.sportyandrich.com/products/jannie-signature-logo-cashmere-ss-cardigan-ruby-fw26-menswear-prep",
+     "img": "https://cdn.shopify.com/s/files/1/1567/4667/files/01.JannieSignatureLogoCashmereSSCardigan-Rubycopie.png?v=1789996194&width=400"
     },
     {
-     "title": "Driss Bold Logo Techfur Jacket - Faded Black/White",
-     "price": 315.0,
-     "compare": null,
-     "type": "Reversible Zipped Jacket",
-     "url": "https://www.sportyandrich.com/products/driss-bold-logo-techfur-jacket-faded-black-white-fw26-90s-streetwear",
-     "img": "https://cdn.shopify.com/s/files/1/1567/4667/files/FW26-W22-1.jpg?v=1795037413&width=400"
-    },
-    {
-     "title": "Vinnie Bold Logo Move Tee - Faded Black",
-     "price": 95.0,
-     "compare": null,
-     "type": "V Neck Tee",
-     "url": "https://www.sportyandrich.com/products/vinnie-bold-logo-move-tee-faded-black-fw26-90s-streetwear",
-     "img": "https://cdn.shopify.com/s/files/1/1567/4667/files/01.VinnieBoldLogoMoveTee-FadedBlack_f7bf0e85-bdd5-420c-9fcd-e2e29d1dd5cc.jpg?v=1795205203&width=400"
-    },
-    {
-     "title": "Emmett Sporting Club Crewneck - Faded Black",
+     "title": "Evin Serif Logo Embroidered Polo - Dark Navy/White",
      "price": 195.0,
      "compare": null,
-     "type": "Classic Crewneck",
-     "url": "https://www.sportyandrich.com/products/sporting-club-crewneck-faded-black-fw26-90s-streetwear",
-     "img": "https://cdn.shopify.com/s/files/1/1567/4667/files/1.SPORTINGCLUBCREWNECKFADEDBLACK_WHITE-1.jpg?v=1795033530&width=400"
+     "type": "Cropped Polo",
+     "url": "https://www.sportyandrich.com/products/evin-serif-logo-embroidered-polo-dark-navy-white-fw26-menswear-prep",
+     "img": "https://cdn.shopify.com/s/files/1/1567/4667/files/01.EvinSerifLogoEmbroideredPolo-DarkNavy_Whitecopie.png?v=1790066651&width=400"
     },
     {
-     "title": "Brianno Sporting Club Jogger - Faded Black",
-     "price": 205.0,
-     "compare": null,
-     "type": "Classic Sweatpants",
-     "url": "https://www.sportyandrich.com/products/sporting-club-jogger-faded-black-fw26-90s-streetwear",
-     "img": "https://cdn.shopify.com/s/files/1/1567/4667/files/1.SPORTINGCLUBSWEATPANTFADEDBLACK_WHITE-1.jpg?v=1795033322&width=400"
-    },
-    {
-     "title": "Davo Bold Logo Color Block Puffer - Saffron/Black",
-     "price": 435.0,
-     "compare": null,
-     "type": "Puffer Jacket",
-     "url": "https://www.sportyandrich.com/products/davo-bold-logo-color-block-puffer-saffron-black-fw26-90s-streetwear",
-     "img": "https://cdn.shopify.com/s/files/1/1567/4667/files/01.DavoBoldLogoColorBlockPuffer-Saffron_Black.jpg?v=1795036457&width=400"
-    },
-    {
-     "title": "Polly Sporting Club Essential Tee - White",
-     "price": 95.0,
-     "compare": null,
-     "type": "Essential Tee",
-     "url": "https://www.sportyandrich.com/products/polly-sporting-club-essential-tee-white-fw26-90s-streetwear",
-     "img": "https://cdn.shopify.com/s/files/1/1567/4667/files/01.PollySportingClubEssentialTee-White.jpg?v=1795035221&width=400"
-    },
-    {
-     "title": "Delia Bold Logo Nylon Windbreaker - Faded Black/White",
-     "price": 255.0,
-     "compare": null,
-     "type": "Windbreaker",
-     "url": "https://www.sportyandrich.com/products/delia-bold-logo-nylon-windbreaker-faded-black-white-fw26-90s-streetwear",
-     "img": "https://cdn.shopify.com/s/files/1/1567/4667/files/FW26-W21-1_2bf6c681-e3a6-40c8-982a-5ba264aa2b3a.jpg?v=1795037792&width=400"
-    },
-    {
-     "title": "Bennett Bold Logo Baggy Sweatpant - Faded Black",
-     "price": 205.0,
-     "compare": null,
-     "type": "Extra-wide Sweatpants",
-     "url": "https://www.sportyandrich.com/products/bold-logo-baggy-sweatpant-faded-black-fw26-90s-streetwear",
-     "img": "https://cdn.shopify.com/s/files/1/1567/4667/files/1.BennettBoldLogoBaggySweatpant-FadedBlack.jpg?v=1795033248&width=400"
-    },
-    {
-     "title": "Gloria Bold Logo Pilot Jacket - Faded Black/Tan",
-     "price": 395.0,
-     "compare": null,
-     "type": "Pilot Jacket",
-     "url": "https://www.sportyandrich.com/products/gloria-bold-logo-pilot-jacket-faded-black-tan-fw26-90s-streetwear",
-     "img": "https://cdn.shopify.com/s/files/1/1567/4667/files/BOLDLOGOPILOTJACKETFADEDBLACK_WHITE_TAN-1.jpg?v=1795037329&width=400"
-    },
-    {
-     "title": "Gery Bold Logo Cropped Flight Jacket - Faded Black",
-     "price": 385.0,
-     "compare": null,
-     "type": "Flight jacket",
-     "url": "https://www.sportyandrich.com/products/gery-bold-logo-cropped-flight-jacket-faded-black-fw26-90s-streetwear",
-     "img": "https://cdn.shopify.com/s/files/1/1567/4667/files/BOLDLOGOCROPPEDFLIGHTJACKETFADEDBLACK-1.jpg?v=1795036822&width=400"
-    },
-    {
-     "title": "Venus Bold Logo Crystal Micro Tee - Camo Woodland",
-     "price": 105.0,
-     "compare": null,
-     "type": "Baby Tee",
-     "url": "https://www.sportyandrich.com/products/venus-bold-logo-krystal-micro-tee-camo-woodland-fw26-90s-streetwear",
-     "img": "https://cdn.shopify.com/s/files/1/1567/4667/files/01.VenusBoldLogoCrystalMicroTee-CamoWoodland.jpg?v=1795039378&width=400"
-    },
-    {
-     "title": "Venus Bold Logo Crystal Micro Tee - Faded Black",
-     "price": 95.0,
-     "compare": null,
-     "type": "Baby Tee",
-     "url": "https://www.sportyandrich.com/products/venus-bold-logo-krystal-micro-tee-faded-black-fw26-90s-streetwear",
-     "img": "https://cdn.shopify.com/s/files/1/1567/4667/files/BOLDLOGOKRYSTALMICROTEEFADEDBLACK-1.jpg?v=1795039312&width=400"
-    },
-    {
-     "title": "Pia Bold Logo Mini Sports Bra - Army Green/White",
-     "price": 95.0,
-     "compare": null,
-     "type": "Halter Bra",
-     "url": "https://www.sportyandrich.com/products/pia-bold-logo-mini-sports-bra-army-green-white-fw26-90s-streetwear",
-     "img": "https://cdn.shopify.com/s/files/1/1567/4667/files/BOLDLOGOMINISPORTSBRAARMYGREEN_WHITE-1.jpg?v=1795031801&width=400"
-    },
-    {
-     "title": "Bora Bold Logo Legging - Army Green/White",
+     "title": "Azalee Serif Logo Tie Skirt - Dark Navy",
      "price": 135.0,
      "compare": null,
-     "type": "Classic leggings",
-     "url": "https://www.sportyandrich.com/products/bora-bold-logo-legging-army-green-white-fw26-90s-streetwear",
-     "img": "https://cdn.shopify.com/s/files/1/1567/4667/files/SRRUNNERLEGGINGLIGHTNAVY_WHITE-1_0ccbbf8a-343b-4f31-a2df-9f0bf14c85bc.jpg?v=1795031609&width=400"
+     "type": "Low Waist Skirt",
+     "url": "https://www.sportyandrich.com/products/azalee-serif-logo-tie-skirt-dark-navy-fw26-menswear-prep",
+     "img": "https://cdn.shopify.com/s/files/1/1567/4667/files/01.AzaleeSerifLogoTieSkirt-DarkNavycopie.png?v=1790152923&width=400"
     },
     {
-     "title": "Fifi Bold Logo SS Sports Quarter Zip - Army Green",
-     "price": 135.0,
+     "title": "Edgar Signature Logo Polo Top - Navy Stripe/White",
+     "price": 185.0,
      "compare": null,
-     "type": "Quarter Zip Short Sleeves",
-     "url": "https://www.sportyandrich.com/products/fredj-bold-logo-ss-sports-quarter-zip-army-green-fw26-90s-streetwear",
-     "img": "https://cdn.shopify.com/s/files/1/1567/4667/files/SERIFLOGOSSSPORTSQUARTERZIPSAND_WHITE-1.jpg?v=1795031676&width=400"
+     "type": "Long sleeves Polo",
+     "url": "https://www.sportyandrich.com/products/edgar-signature-logo-polo-top-navy-stripe-white-fw26-menswear-prep",
+     "img": "https://cdn.shopify.com/s/files/1/1567/4667/files/01.EdgarSignatureLogoPoloTop-NavyStripe_Whitecopie.png?v=1790002749&width=400"
     },
     {
-     "title": "Frayo Bold Logo Sports Quarter Zip - Army Green/White",
-     "price": 165.0,
+     "title": "Jannie Signature Logo Cashmere SS Cardigan - Off White",
+     "price": 225.0,
      "compare": null,
-     "type": "Quarter Zip Long Sleeves",
-     "url": "https://www.sportyandrich.com/products/frayo-bold-logo-sports-quarter-zip-army-green-white-fw26-90s-streetwear",
-     "img": "https://cdn.shopify.com/s/files/1/1567/4667/files/BOLDLOGOSPORTSQUARTERZIPARMYGREEN_WHITE-1.jpg?v=1795031735&width=400"
+     "type": "Short sleeves Polo",
+     "url": "https://www.sportyandrich.com/products/jannie-signature-logo-cashmere-ss-cardigan-off-white-fw26-menswear-prep",
+     "img": "https://cdn.shopify.com/s/files/1/1567/4667/files/01.JannieSignatureLogoCashmereSSCardigan-OffWhitecopie.png?v=1789996230&width=400"
+    },
+    {
+     "title": "Item SRC Cricket Sweater - Dark Navy/Off White",
+     "price": 185.0,
+     "compare": null,
+     "type": "V-neck sweater",
+     "url": "https://www.sportyandrich.com/products/item-src-cricket-sweater-dark-navy-off-white-fw26-menswear-prep",
+     "img": "https://cdn.shopify.com/s/files/1/1567/4667/files/01.ItemSRCCricketSweater-DarkNavy_OffWhitecopie.png?v=1789998356&width=400"
     }
    ]
   },
@@ -2912,14 +2711,6 @@
      "img": "https://cdn.shopify.com/s/files/1/1770/6343/files/MH26S18S04BLK_1.jpg?v=1793289416&width=400"
     },
     {
-     "title": "Grateful Dead Clark Sherpa Blue",
-     "price": 328.0,
-     "compare": null,
-     "type": "Sherpas",
-     "url": "https://www.rowingblazers.com/products/grateful-dead-clark-sherpa-blue",
-     "img": "https://cdn.shopify.com/s/files/1/1770/6343/files/MH26J14K06BLU_1_fix_2000x2500_261016.jpg?v=1794411160&width=400"
-    },
-    {
      "title": "100% Cashmere Clubhouse Crewneck Diana Red",
      "price": 198.0,
      "compare": null,
@@ -3014,6 +2805,14 @@
      "type": "Sherpas",
      "url": "https://www.rowingblazers.com/products/dodo-classic-sherpa-green",
      "img": "https://cdn.shopify.com/s/files/1/1770/6343/files/MH26J10K06GRN_1_fix_2000x2500_261015.jpg?v=1794410488&width=400"
+    },
+    {
+     "title": "Zag Classic Sherpa Navy",
+     "price": 298.0,
+     "compare": null,
+     "type": "Sherpas",
+     "url": "https://www.rowingblazers.com/products/zag-classic-sherpa-navy",
+     "img": "https://cdn.shopify.com/s/files/1/1770/6343/files/MH26J16K06NAV_1_fix_2000x2500_261016.jpg?v=1794410670&width=400"
     }
    ]
   },
@@ -3299,7 +3098,7 @@
     },
     {
      "title": "The Organic Cotton Box-Cut Pocket Tee | Lavender Herb | No Pocket",
-     "price": 17.0,
+     "price": 20.0,
      "compare": 34.0,
      "type": "Knit Tops",
      "url": "https://www.everlane.com/products/f-t-ctn-orgn-box-lav",
