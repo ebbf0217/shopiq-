@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-26T19:04:23+00:00",
+ "fetched_at": "2026-11-27T03:39:57+00:00",
  "min_pct": 20,
  "brands": [
   {
@@ -311,8 +311,8 @@
    "domain": "www.faithfullthebrand.com",
    "cat": "american",
    "currency": "USD",
-   "checked": 889,
-   "on_sale": 720,
+   "checked": 885,
+   "on_sale": 716,
    "max_pct": 81,
    "median_pct": 50,
    "top": [
@@ -387,74 +387,74 @@
    "domain": "www.ullajohnson.com",
    "cat": "designer",
    "currency": "USD",
-   "checked": 1317,
-   "on_sale": 517,
-   "max_pct": 50,
-   "median_pct": 40,
+   "checked": 1319,
+   "on_sale": 519,
+   "max_pct": 60,
+   "median_pct": 60,
    "top": [
     {
+     "title": "Milos Halter Maillot with Ring Detail - Olive Flora",
+     "pct": 60,
+     "price": 144.0,
+     "compare": 360.0,
+     "url": "https://www.ullajohnson.com/products/milos-halter-maillot-with-ring-detail-olive-flora",
+     "img": "https://cdn.shopify.com/s/files/1/0221/7797/2320/files/ULLAJOHNSON_MilosHalterMaillotwithRingDetail_OLIVEFLORA_PS261705_01_MAIN_1373aa06-013d-4918-ba05-bbdd9c299273.jpg?v=1764086677&width=400"
+    },
+    {
+     "title": "Kiki Flat - Dove",
+     "pct": 60,
+     "price": 198.0,
+     "compare": 495.0,
+     "url": "https://www.ullajohnson.com/products/kiki-flat-dove-grey",
+     "img": "https://cdn.shopify.com/s/files/1/0221/7797/2320/files/KIKIFLAT_CENERE_a_web.jpg?v=1789522070&width=400"
+    },
+    {
+     "title": "Sofie Jacquard Knit Dress - Ocean",
+     "pct": 60,
+     "price": 316.0,
+     "compare": 790.0,
+     "url": "https://www.ullajohnson.com/products/sofie-ss-jacquard-knit-dress-ocean",
+     "img": "https://cdn.shopify.com/s/files/1/0221/7797/2320/files/PF260728_OCEAN_1.jpg?v=1795019143&width=400"
+    },
+    {
+     "title": "Carina Knit Jacquard Cardigan - Ocean",
+     "pct": 60,
+     "price": 220.0,
+     "compare": 550.0,
+     "url": "https://www.ullajohnson.com/products/carina-knit-jacquard-cardigan-ocean",
+     "img": "https://cdn.shopify.com/s/files/1/0221/7797/2320/files/PF260731_OCEAN_1.jpg?v=1795018234&width=400"
+    },
+    {
      "title": "Ames Barrell Leg Trouser - Cinder",
-     "pct": 50,
-     "price": 295.0,
+     "pct": 60,
+     "price": 236.0,
      "compare": 590.0,
      "url": "https://www.ullajohnson.com/products/ames-barrell-leg-trouser-cinder",
      "img": "https://cdn.shopify.com/s/files/1/0221/7797/2320/files/PS260406_CINDER.jpg?v=1795016805&width=400"
     },
     {
      "title": "Elisa Jacquard Pullover - Ivory",
-     "pct": 50,
-     "price": 295.0,
+     "pct": 60,
+     "price": 236.0,
      "compare": 590.0,
      "url": "https://www.ullajohnson.com/products/elisa-ls-jacquard-pullover-ivory",
      "img": "https://cdn.shopify.com/s/files/1/0221/7797/2320/files/PS260737_IVORY_1.jpg?v=1795016721&width=400"
     },
     {
      "title": "Mariana Top with Peplum - Lichen",
-     "pct": 50,
-     "price": 145.0,
+     "pct": 60,
+     "price": 116.0,
      "compare": 290.0,
      "url": "https://www.ullajohnson.com/products/mariana-ss-top-with-peplum-lichen",
      "img": "https://cdn.shopify.com/s/files/1/0221/7797/2320/files/SP260814_LICHEN_1.jpg?v=1795013358&width=400"
     },
     {
      "title": "Dalila Ruched Maillot - Urchin",
-     "pct": 50,
-     "price": 145.0,
+     "pct": 60,
+     "price": 116.0,
      "compare": 290.0,
      "url": "https://www.ullajohnson.com/products/dalila-ruched-maillot-urchin",
      "img": "https://cdn.shopify.com/s/files/1/0221/7797/2320/files/SP261717_URCHIN_1.jpg?v=1795013229&width=400"
-    },
-    {
-     "title": "Ibiza One Shoulder Maillot - Cowrie",
-     "pct": 50,
-     "price": 185.0,
-     "compare": 370.0,
-     "url": "https://www.ullajohnson.com/products/ibiza-one-shoulder-maillot-cowrie",
-     "img": "https://cdn.shopify.com/s/files/1/0221/7797/2320/files/IbizaOneShoulderMaillotCowrie.jpg?v=1794964096&width=400"
-    },
-    {
-     "title": "Dalila Ruched Maillot - Coral",
-     "pct": 50,
-     "price": 145.0,
-     "compare": 290.0,
-     "url": "https://www.ullajohnson.com/products/dalila-ruched-maillot-coral",
-     "img": "https://cdn.shopify.com/s/files/1/0221/7797/2320/files/DalilaSwimsuitCoral_1.jpg?v=1794963866&width=400"
-    },
-    {
-     "title": "Ines Jersey Top - Prism",
-     "pct": 50,
-     "price": 85.0,
-     "compare": 170.0,
-     "url": "https://www.ullajohnson.com/products/ines-sl-jersey-top-prism",
-     "img": "https://cdn.shopify.com/s/files/1/0221/7797/2320/files/SP260826_PRISM_1.jpg?v=1794956609&width=400"
-    },
-    {
-     "title": "Lakshmi Eyelet Knit Dress - Coral Peony",
-     "pct": 50,
-     "price": 445.0,
-     "compare": 890.0,
-     "url": "https://www.ullajohnson.com/products/lakshmi-eyelet-knit-dress-coral-peony",
-     "img": "https://cdn.shopify.com/s/files/1/0221/7797/2320/files/SP260702_CORALPEONY_1.jpg?v=1794956508&width=400"
     }
    ]
   },
@@ -466,24 +466,8 @@
    "checked": 707,
    "on_sale": 414,
    "max_pct": 70,
-   "median_pct": 50,
+   "median_pct": 40,
    "top": [
-    {
-     "title": "Men's Canvas Printed Chore Jacket RB All Over",
-     "pct": 70,
-     "price": 74.4,
-     "compare": 248.0,
-     "url": "https://www.rowingblazers.com/products/mens-canvas-printed-chore-jacket-rb-all-over",
-     "img": "https://cdn.shopify.com/s/files/1/1770/6343/files/RB-01JAN25-JACKET-YELLOW-ALLOVER-PRINT-FRONT.jpg?v=1777664950&width=400"
-    },
-    {
-     "title": "Men's Canvas Printed Workwear Pant RB All Over",
-     "pct": 70,
-     "price": 59.4,
-     "compare": 198.0,
-     "url": "https://www.rowingblazers.com/products/mens-canvas-printed-workwear-pant-geo-floral-copy",
-     "img": "https://cdn.shopify.com/s/files/1/1770/6343/files/RB-02FEB25-PANTS-YELLOW-PATTERN-ALLOVER-FRONT.jpg?v=1777664740&width=400"
-    },
     {
      "title": "Men's Plain Weave Blazer Yellow Plaid",
      "pct": 70,
@@ -491,30 +475,6 @@
      "compare": 398.0,
      "url": "https://www.rowingblazers.com/products/mens-plain-weave-blazer-yellow-plaid",
      "img": "https://cdn.shopify.com/s/files/1/1770/6343/files/RB-6JUN25_BLAZER_CHECK_YELLOW-FRONT.jpg?v=1777665053&width=400"
-    },
-    {
-     "title": "Men's UNO™ Draw Four Cotton Sweater Black",
-     "pct": 70,
-     "price": 59.4,
-     "compare": 198.0,
-     "url": "https://www.rowingblazers.com/products/mens-uno-draw-four-cotton-sweater-black",
-     "img": "https://cdn.shopify.com/s/files/1/1770/6343/files/FLATS_2.jpg?v=1777659524&width=400"
-    },
-    {
-     "title": "Men's UNO™ Wild Cotton Sweater Multi-Color",
-     "pct": 70,
-     "price": 68.4,
-     "compare": 228.0,
-     "url": "https://www.rowingblazers.com/products/mens-uno-wild-cotton-sweater-multi-color",
-     "img": "https://cdn.shopify.com/s/files/1/1770/6343/files/RB-10OCT25-WILD-COTTON-SWEATER-MULTI-COLOR-FRONT.jpg?v=1763472249&width=400"
-    },
-    {
-     "title": "Men's Knot Hoodie Classic Navy",
-     "pct": 65,
-     "price": 51.8,
-     "compare": 148.0,
-     "url": "https://www.rowingblazers.com/products/mens-knot-hoodie-classic-navy",
-     "img": "https://cdn.shopify.com/s/files/1/1770/6343/files/RB-03MAR25-HOODIE-NAVY-FRONT_ff73bdae-8dc2-4b89-99db-92957bbe3965.jpg?v=1777665738&width=400"
     },
     {
      "title": "Women's Stripe Rugby Dress Croquet",
@@ -531,6 +491,46 @@
      "compare": 198.0,
      "url": "https://www.rowingblazers.com/products/womens-cotton-center-stripe-pieced-rugby-dress-navy-red",
      "img": "https://cdn.shopify.com/s/files/1/1770/6343/files/WSU26D08K03RNS_197.jpg?v=1778197710&width=400"
+    },
+    {
+     "title": "Men's Frog Hat Light Blue",
+     "pct": 60,
+     "price": 23.2,
+     "compare": 58.0,
+     "url": "https://www.rowingblazers.com/products/mens-cotton-dog-t-shirt-baby-blue-copy",
+     "img": "https://cdn.shopify.com/s/files/1/1770/6343/files/Hat-front-blue.jpg?v=1777662316&width=400"
+    },
+    {
+     "title": "Soccer Boy Logo Scarf",
+     "pct": 60,
+     "price": 27.2,
+     "compare": 68.0,
+     "url": "https://www.rowingblazers.com/products/soccer-boy-logo-scarf",
+     "img": "https://cdn.shopify.com/s/files/1/1770/6343/files/RB-12DEC24-SCARF-PURPLE-FRONT.jpg?v=1777664480&width=400"
+    },
+    {
+     "title": "Women's Mohair Argyle Maxi Skirt Mohair Blend",
+     "pct": 60,
+     "price": 59.2,
+     "compare": 148.0,
+     "url": "https://www.rowingblazers.com/products/womens-mohair-argyle-maxi-skirt-mohair-blend-sally",
+     "img": "https://cdn.shopify.com/s/files/1/1770/6343/files/RB-02FEB25-TUBE-DRESS-YELLOW-PURPLE-FRONT.jpg?v=1777662517&width=400"
+    },
+    {
+     "title": "Women's Stripe Rugby Dress Green",
+     "pct": 60,
+     "price": 79.2,
+     "compare": 198.0,
+     "url": "https://www.rowingblazers.com/products/womens-stripe-rugby-dress-green",
+     "img": "https://cdn.shopify.com/s/files/1/1770/6343/files/RB-03MAR25-RUGBY-WITH-POCKET-GREEN-FRONT_6e55eb26-d855-45d3-b7e8-b6c84e9e3544.jpg?v=1777665001&width=400"
+    },
+    {
+     "title": "Men's Canvas Printed Chore Jacket RB All Over",
+     "pct": 60,
+     "price": 99.2,
+     "compare": 248.0,
+     "url": "https://www.rowingblazers.com/products/mens-canvas-printed-chore-jacket-rb-all-over",
+     "img": "https://cdn.shopify.com/s/files/1/1770/6343/files/RB-01JAN25-JACKET-YELLOW-ALLOVER-PRINT-FRONT.jpg?v=1777664950&width=400"
     }
    ]
   },
@@ -1072,7 +1072,7 @@
    "cat": "designer",
    "currency": "EUR",
    "checked": 188,
-   "on_sale": 85,
+   "on_sale": 86,
    "max_pct": 50,
    "median_pct": 30,
    "top": [
@@ -1147,74 +1147,110 @@
    "domain": "www.hommegirls.com",
    "cat": "american",
    "currency": "USD",
-   "checked": 164,
-   "on_sale": 62,
-   "max_pct": 60,
+   "checked": 180,
+   "on_sale": 77,
+   "max_pct": 70,
    "median_pct": 30,
    "top": [
     {
-     "title": "Classic Shirt in Ticking Stripe With Contrast Collar",
+     "title": "Cropped Shirt in Multi Blue Stripe",
+     "pct": 70,
+     "price": 82.0,
+     "compare": 275.0,
+     "url": "https://www.hommegirls.com/products/copy-of-chambray-blue-cropped-shirt-with-contrast-collar",
+     "img": "https://cdn.shopify.com/s/files/1/0058/6517/7191/files/Hommegirls_082624_ecomm1233-2.jpg?v=1725395490&width=400"
+    },
+    {
+     "title": "Pajama Pant in White Stripe",
+     "pct": 69,
+     "price": 78.0,
+     "compare": 250.0,
+     "url": "https://www.hommegirls.com/products/pajama-pant-in-white-japanese-stripe",
+     "img": "https://cdn.shopify.com/s/files/1/0058/6517/7191/files/WhitestripePJpant.jpg?v=1753972949&width=400"
+    },
+    {
+     "title": "Flip Waist Mini Skirt with Belt in Check Plaid",
+     "pct": 67,
+     "price": 198.0,
+     "compare": 595.0,
+     "url": "https://www.hommegirls.com/products/flip-waist-mini-skirt-with-belt-in-check-plaid-copy",
+     "img": "https://cdn.shopify.com/s/files/1/0058/6517/7191/files/Plaidcheckflipwaistminiskirt.jpg?v=1753816938&width=400"
+    },
+    {
+     "title": "Big Pant with Belt in Khaki",
+     "pct": 67,
+     "price": 198.0,
+     "compare": 595.0,
+     "url": "https://www.hommegirls.com/products/big-pant-with-belt-in-khaki",
+     "img": "https://cdn.shopify.com/s/files/1/0058/6517/7191/files/050725_HOMMEGIRLS_CAPSULE7-12.jpg?v=1747408311&width=400"
+    },
+    {
+     "title": "Flip Waist Pant with Belt in Check Plaid",
+     "pct": 65,
+     "price": 278.0,
+     "compare": 795.0,
+     "url": "https://www.hommegirls.com/products/flip-waist-pant-with-belt-in-check-plaid",
+     "img": "https://cdn.shopify.com/s/files/1/0058/6517/7191/files/Plaidcheckflipwaistpant-Front.jpg?v=1769773062&width=400"
+    },
+    {
+     "title": "Oxford Shirt in White Poplin",
      "pct": 60,
-     "price": 140.0,
-     "compare": 350.0,
-     "url": "https://www.hommegirls.com/products/classic-shirt-in-ticking-stripe-with-contrast-collar-copy",
-     "img": "https://cdn.shopify.com/s/files/1/0058/6517/7191/files/ClassicTickingStripeShirt.jpg?v=1743521928&width=400"
+     "price": 130.0,
+     "compare": 325.0,
+     "url": "https://www.hommegirls.com/products/oxford-shirt-in-white-poplin",
+     "img": "https://cdn.shopify.com/s/files/1/0058/6517/7191/files/OxfordShirt_HGSH061_White-front_248993b0-1204-48d7-87ba-a6e206f7d526.jpg?v=1773332835&width=400"
     },
     {
-     "title": "HommeGirls x Fruit Of The Loom Graphic Tee in Navy",
+     "title": "Shirting Rugby in Black White Combo",
      "pct": 60,
-     "price": 30.0,
-     "compare": 75.0,
-     "url": "https://www.hommegirls.com/products/hg-x-fruit-of-the-loom-graphic-tee-in-navy",
-     "img": "https://cdn.shopify.com/s/files/1/0058/6517/7191/files/Bluetee-Front_a9166a05-97da-4fcc-8ec4-e99080abfe90.jpg?v=1758885840&width=400"
+     "price": 220.0,
+     "compare": 550.0,
+     "url": "https://www.hommegirls.com/products/shirting-rugby-in-black-white-combo",
+     "img": "https://cdn.shopify.com/s/files/1/0058/6517/7191/files/Greystriperugbyshirt.jpg?v=1769772986&width=400"
     },
     {
-     "title": "HommeGirls x Fruit Of The Loom Polo in Navy",
+     "title": "Knit Stripe Polo in Blue Stripe",
      "pct": 60,
-     "price": 60.0,
-     "compare": 150.0,
-     "url": "https://www.hommegirls.com/products/hg-x-fotl-long-sleeve-polo-in-navy",
-     "img": "https://cdn.shopify.com/s/files/1/0058/6517/7191/files/RoyalBluepolo-Front.jpg?v=1758898786&width=400"
+     "price": 198.0,
+     "compare": 495.0,
+     "url": "https://www.hommegirls.com/products/knit-stripe-polo-in-blue-stripe",
+     "img": "https://cdn.shopify.com/s/files/1/0058/6517/7191/files/BlueBlackstripewoolpolo_40298798-bb03-4df2-993d-a8aa22b11b39.jpg?v=1753816712&width=400"
+    }
+   ]
+  },
+  {
+   "brand": "Madhappy",
+   "domain": "madhappy.com",
+   "cat": "american",
+   "currency": "USD",
+   "checked": 816,
+   "on_sale": 3,
+   "max_pct": 75,
+   "median_pct": 75,
+   "top": [
+    {
+     "title": "Cotton Crew Sock",
+     "pct": 75,
+     "price": 9.0,
+     "compare": 36.0,
+     "url": "https://madhappy.com/products/cotton-crew-sock",
+     "img": "https://cdn.shopify.com/s/files/1/2554/3534/files/Madhappy-Holiday-Gifting-Socks-3-Pack-Flat-01_3206ee01-c89a-4877-a34d-80a6ec57db88.jpg?v=1733176308&width=400"
     },
     {
-     "title": "HommeGirls x Fruit Of The Loom \"Fruity\" Baby Tee in Baby Blue",
-     "pct": 60,
-     "price": 34.0,
-     "compare": 85.0,
-     "url": "https://www.hommegirls.com/products/hg-x-fotl-baby-tee-w-double-logo-in-baby-blue",
-     "img": "https://cdn.shopify.com/s/files/1/0058/6517/7191/files/LightBlueBabytee-Front.jpg?v=1757365564&width=400"
+     "title": "Yankees Flannel Boxer Pant",
+     "pct": 75,
+     "price": 49.0,
+     "compare": 195.0,
+     "url": "https://madhappy.com/products/yankees-flannel-boxer-pant-navy",
+     "img": "https://cdn.shopify.com/s/files/1/2554/3534/files/Madhappy-Yankees-All-Over-Embr-Cargo-Pant-Flat-Navy-01.jpg?v=1757357605&width=400"
     },
     {
-     "title": "Straight Leg Pants in Navy",
-     "pct": 30,
-     "price": 277.0,
-     "compare": 395.0,
-     "url": "https://www.hommegirls.com/products/straight-leg-pants-in-navy",
-     "img": "https://cdn.shopify.com/s/files/1/0058/6517/7191/files/HGPT022_NAVY-Front_1.jpg?v=1782195302&width=400"
-    },
-    {
-     "title": "Pleated Mini Skirt in Navy",
-     "pct": 30,
-     "price": 263.0,
-     "compare": 375.0,
-     "url": "https://www.hommegirls.com/products/pleated-mini-skirt-in-navy",
-     "img": "https://cdn.shopify.com/s/files/1/0058/6517/7191/files/HGSK011_WASHED_NAVY-154.jpg?v=1782217538&width=400"
-    },
-    {
-     "title": "HOMMEGIRLS X FRUIT OF THE LOOM Snap Terry Cardigan in Lavender",
-     "pct": 30,
-     "price": 116.0,
-     "compare": 165.0,
-     "url": "https://www.hommegirls.com/products/hgfotl023-100-cotton-terry-lavender",
-     "img": "https://cdn.shopify.com/s/files/1/0058/6517/7191/files/HGFOTL023_Lavender-Buttoned_1.jpg?v=1782246272&width=400"
-    },
-    {
-     "title": "HOMMEGIRLS X FRUIT OF THE LOOM Snap Terry Cardigan in Dark Navy",
-     "pct": 30,
-     "price": 116.0,
-     "compare": 165.0,
-     "url": "https://www.hommegirls.com/products/hgfotl023-100-cotton-terry-dark-navy",
-     "img": "https://cdn.shopify.com/s/files/1/0058/6517/7191/files/HGFOTL023_DarkNavy-Buttoned_1.jpg?v=1782246457&width=400"
+     "title": "Olga Goose Heart Candle",
+     "pct": 69,
+     "price": 11.0,
+     "compare": 35.0,
+     "url": "https://madhappy.com/products/olga-goose-heart-candle",
+     "img": "https://cdn.shopify.com/s/files/1/2554/3534/files/Madhappy-V-Day-Olga-Goosse-Candle-Flat-01.jpg?v=1769112351&width=400"
     }
    ]
   },
@@ -1247,26 +1283,6 @@
    ]
   },
   {
-   "brand": "Madhappy",
-   "domain": "madhappy.com",
-   "cat": "american",
-   "currency": "USD",
-   "checked": 807,
-   "on_sale": 1,
-   "max_pct": 75,
-   "median_pct": 75,
-   "top": [
-    {
-     "title": "Yankees Flannel Boxer Pant",
-     "pct": 75,
-     "price": 49.0,
-     "compare": 195.0,
-     "url": "https://madhappy.com/products/yankees-flannel-boxer-pant-navy",
-     "img": "https://cdn.shopify.com/s/files/1/2554/3534/files/Madhappy-Yankees-All-Over-Embr-Cargo-Pant-Flat-Navy-01.jpg?v=1757357605&width=400"
-    }
-   ]
-  },
-  {
    "brand": "AGOLDE",
    "domain": "www.agolde.com",
    "cat": "designer",
@@ -1282,7 +1298,7 @@
    "domain": "www.r13denim.com",
    "cat": "designer",
    "currency": "USD",
-   "checked": 487,
+   "checked": 855,
    "on_sale": 0,
    "max_pct": 0,
    "median_pct": 0,
