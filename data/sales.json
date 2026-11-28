@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-28T01:28:24+00:00",
+ "fetched_at": "2026-11-28T11:52:37+00:00",
  "min_pct": 20,
  "brands": [
   {
@@ -89,6 +89,14 @@
    "median_pct": 70,
    "top": [
     {
+     "title": "The Way-High® Skinny Jean | Mid Blue | 26 3/4\" Inseam",
+     "pct": 80,
+     "price": 18.0,
+     "compare": 88.0,
+     "url": "https://www.everlane.com/products/womens-mcj-way-high-skinny-jean-ankle-authentic-blue",
+     "img": "https://cdn.shopify.com/s/files/1/0623/7916/3734/files/bb0ebfba_e3db.jpg?v=1753411440&width=400"
+    },
+    {
      "title": "Ultrasoft Polo Sweater | Heather Mid Charcoal",
      "pct": 80,
      "price": 30.0,
@@ -143,14 +151,6 @@
      "compare": 148.0,
      "url": "https://www.everlane.com/products/mens-90s-baggy-cargo-pant-olive",
      "img": "https://cdn.shopify.com/s/files/1/0623/7916/3734/files/bc7b7312_3eff.jpg?v=1762190904&width=400"
-    },
-    {
-     "title": "'90s Baggy Cargo Pant | Washed Black",
-     "pct": 80,
-     "price": 30.0,
-     "compare": 148.0,
-     "url": "https://www.everlane.com/products/mens-90s-baggy-cargo-pant-washed-black",
-     "img": "https://cdn.shopify.com/s/files/1/0623/7916/3734/files/73d40a48_1a9c.jpg?v=1763510419&width=400"
     }
    ]
   },
@@ -160,7 +160,7 @@
    "cat": "multi",
    "currency": "USD",
    "checked": 2000,
-   "on_sale": 1468,
+   "on_sale": 1470,
    "max_pct": 80,
    "median_pct": 40,
    "top": [
@@ -311,8 +311,8 @@
    "domain": "www.faithfullthebrand.com",
    "cat": "american",
    "currency": "USD",
-   "checked": 852,
-   "on_sale": 713,
+   "checked": 851,
+   "on_sale": 712,
    "max_pct": 81,
    "median_pct": 50,
    "top": [
@@ -323,14 +323,6 @@
      "compare": 89.0,
      "url": "https://www.faithfullthebrand.com/products/cala-bianca-crochet-hat-black",
      "img": "https://cdn.shopify.com/s/files/1/1130/9504/files/S23-FFA191-BLK-24024-FaithfullTheBrand-1151_e85bca47-c7d9-421e-9848-2d4d866fcad3.webp?v=1711519011&width=400"
-    },
-    {
-     "title": "Eilish Top Black - Final Sale",
-     "pct": 81,
-     "price": 31.0,
-     "compare": 159.0,
-     "url": "https://www.faithfullthebrand.com/products/eilish-top-black",
-     "img": "https://cdn.shopify.com/s/files/1/1130/9504/files/S22-FF2678-BLK-23634-FaithfullTheBrand-D2-0271_4abf3699-87ac-42fa-8efe-7cb77d32bc6a.webp?v=1711000650&width=400"
     },
     {
      "title": "Managua Shirt White - Final Sale",
@@ -379,6 +371,14 @@
      "compare": 65.0,
      "url": "https://www.faithfullthebrand.com/products/loasis-souvenir-cap-cocoa",
      "img": "https://cdn.shopify.com/s/files/1/1130/9504/files/S10-exclusive_cap-23788-FaithfullTheBrand-0590.webp?v=1704429253&width=400"
+    },
+    {
+     "title": "Lena Blazer Black - Final Sale",
+     "pct": 80,
+     "price": 92.0,
+     "compare": 460.0,
+     "url": "https://www.faithfullthebrand.com/products/lena-blazer-black",
+     "img": "https://cdn.shopify.com/s/files/1/1130/9504/files/S154-FF3203-BLK-24079-FaithfullTheBrand-D3-0436.webp?v=1722212306&width=400"
     }
    ]
   },
@@ -1315,7 +1315,7 @@
    "domain": "www.sportyandrich.com",
    "cat": "american",
    "currency": "USD",
-   "checked": 990,
+   "checked": 988,
    "on_sale": 0,
    "max_pct": 0,
    "median_pct": 0,

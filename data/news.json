@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-28T01:31:24+00:00",
+ "fetched_at": "2026-11-28T11:55:36+00:00",
  "articles": [
   {
    "title": "Victoria Beckham Pre-Fall 2027",
    "source": "Vogue",
    "url": "https://www.vogue.com/fashion-shows/pre-fall-2027/victoria-beckham",
-   "date": "2026-11-28T01:27:05+00:00",
+   "date": "2026-11-28T11:51:21+00:00",
    "brands": [],
    "topics": []
   },
@@ -13,7 +13,107 @@
    "title": "McQueen Pre-Fall 2027",
    "source": "Vogue",
    "url": "https://www.vogue.com/fashion-shows/pre-fall-2027/alexander-mcqueen",
-   "date": "2026-11-28T01:27:05+00:00",
+   "date": "2026-11-28T11:51:21+00:00",
+   "brands": [],
+   "topics": []
+  },
+  {
+   "title": "The Street Style Way to Do Sunday Night Football",
+   "source": "Vogue",
+   "url": "https://www.vogue.com/article/the-street-style-way-to-do-sunday-night-football",
+   "date": "2026-11-28T11:00:00+00:00",
+   "brands": [],
+   "topics": []
+  },
+  {
+   "title": "Inside the Making of Dolly Alderton’s Lavish New ‘Pride and Prejudice’",
+   "source": "Vogue",
+   "url": "https://www.vogue.com/article/inside-the-making-of-dolly-aldertons-pride-and-prejudice",
+   "date": "2026-11-28T11:00:00+00:00",
+   "brands": [],
+   "topics": []
+  },
+  {
+   "title": "David Koma Steps Down at Blumarine",
+   "source": "Vogue",
+   "url": "https://www.vogue.com/article/david-koma-steps-down-at-blumarine",
+   "date": "2026-11-28T10:52:49+00:00",
+   "brands": [],
+   "topics": []
+  },
+  {
+   "title": "Apple TV Officially Picks up 'Ted Lasso' for a Fifth Season Following Record-Breaking Revival",
+   "source": "Hypebeast",
+   "url": "https://hypebeast.com/2026/11/apple-tv-ted-lasso-fifth-season-jason-sudeikis-return-announcement",
+   "date": "2026-11-28T10:00:24+00:00",
+   "brands": [],
+   "topics": []
+  },
+  {
+   "title": "EXCLUSIVE: Blumarine and David Koma Part Ways",
+   "source": "WWD",
+   "url": "https://wwd.com/fashion-news/designer-luxury/blumarine-david-koma-creative-director-designer-exit-brand-1239395298/",
+   "date": "2026-11-28T09:15:35+00:00",
+   "brands": [],
+   "topics": []
+  },
+  {
+   "title": "Steven Spielberg and Paul Thomas Anderson Team up for Focus Features Western 'The Heart in Winter'",
+   "source": "Hypebeast",
+   "url": "https://hypebeast.com/2026/11/steven-spielberg-paul-thomas-anderson-focus-features-western-the-heart-in-winter-cillian-murphy-jessie-buckley-mark-rylance-release-announcement",
+   "date": "2026-11-28T08:00:52+00:00",
+   "brands": [],
+   "topics": []
+  },
+  {
+   "title": "Cozy Winter Shoe Styling Inspiration From Jennifer Lawrence, Timothée Chalamet and More Celebrities",
+   "source": "WWD",
+   "url": "https://wwd.com/footwear-news/shoe-trends/cozy-winter-shoe-inspiration-celebrity-style-1239464883/",
+   "date": "2026-11-28T07:00:00+00:00",
+   "brands": [],
+   "topics": []
+  },
+  {
+   "title": "Jun Takahashi’s UNDERCOVER and Nike Return With a Minimalist GYAKUSOU Capsule",
+   "source": "Hypebeast",
+   "url": "https://hypebeast.com/2026/11/nike-undercover-gyakusou-collab-release-info",
+   "date": "2026-11-28T06:00:51+00:00",
+   "brands": [
+    "Nike"
+   ],
+   "topics": [
+    "collab"
+   ]
+  },
+  {
+   "title": "‘The Secret Lives of Mormon Wives’ Beauty Evolution: From Utah Curls to Bouncy Blowouts",
+   "source": "WWD",
+   "url": "https://wwd.com/pop-culture/celebrity-news/the-secret-lives-of-mormon-wives-beauty-evolution-1239405032/",
+   "date": "2026-11-28T06:00:00+00:00",
+   "brands": [],
+   "topics": []
+  },
+  {
+   "title": "Holiday shopping trends: TikTok Shop, AI search and glitzy celebrity ads",
+   "source": "Modern Retail",
+   "url": "https://www.modernretail.co/podcasts/holiday-shopping-trends-tiktok-shop-ai-search-and-glitzy-celebrity-ads/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+   "date": "2026-11-28T05:00:00+00:00",
+   "brands": [],
+   "topics": []
+  },
+  {
+   "title": "Denim Tears Wraps Timberland's 6-Inch Boot and Field Boot in Cotton Wreaths and Denim",
+   "source": "Hypebeast",
+   "url": "https://hypebeast.com/2026/11/denim-tears-timberland-6-inch-boot-field-boot-tb0a5rnwa5k-tb0a5pkm06i-release-info",
+   "date": "2026-11-28T04:00:24+00:00",
+   "brands": [],
+   "topics": []
+  },
+  {
+   "title": "‘Starboy’ Turns 10, and The Weeknd's Decade Collection Is Built for Collectors",
+   "source": "Hypebeast",
+   "url": "https://hypebeast.com/2026/11/the-weeknd-starboy-decade-collection-announcement-release-info",
+   "date": "2026-11-28T04:00:15+00:00",
    "brands": [],
    "topics": []
   },
@@ -156,16 +256,6 @@
    "topics": []
   },
   {
-   "title": "Salomon’s Secret Black Friday Sale Includes the Sneakers That Defined Street Style This Year (Even Gore-Tex Models)",
-   "source": "WWD",
-   "url": "https://wwd.com/shop/shop-shoes/salomon-black-friday-sale-gore-tex-sneakers-buy-deals-2026-1239467702/",
-   "date": "2026-11-27T19:14:35+00:00",
-   "brands": [],
-   "topics": [
-    "sale"
-   ]
-  },
-  {
    "title": "Models Off-Duty Love a Salmon Sneaker—Black Friday 2026 Lets You Get a Pair for Less",
    "source": "Vogue",
    "url": "https://www.vogue.com/article/salomon-sneakers-black-friday-sale-2026",
@@ -199,24 +289,6 @@
    "brands": [
     "Adidas"
    ],
-   "topics": []
-  },
-  {
-   "title": "Lola Blankets’ Black Friday Sale Has Us Shopping for the Chicest Winter Home Essentials at 50% Off",
-   "source": "WWD",
-   "url": "https://wwd.com/shop/shop-home/lola-blankets-black-friday-sale-discount-code-2026-1239467535/",
-   "date": "2026-11-27T17:25:42+00:00",
-   "brands": [],
-   "topics": [
-    "sale"
-   ]
-  },
-  {
-   "title": "Where to Watch the (Postponed) 2026 Macy’s Thanksgiving Day Parade Online for Free",
-   "source": "WWD",
-   "url": "https://wwd.com/shop/shop-fashion/how-to-watch-2026-macys-thanksgiving-day-parade-online-free-1239465042/",
-   "date": "2026-11-27T17:21:02+00:00",
-   "brands": [],
    "topics": []
   },
   {
@@ -348,17 +420,17 @@
    "topics": []
   },
   {
-   "title": "Shop Our Favorite Celebrity Looks of the Week",
+   "title": "Cameron Diaz in ‘The Holiday’ Is My Winter Style Inspiration",
    "source": "Vogue",
-   "url": "https://www.vogue.com/article/best-celebrity-outfits",
+   "url": "https://www.vogue.com/article/cameron-diaz-the-holiday-style-inspiration",
    "date": "2026-11-27T11:00:00+00:00",
    "brands": [],
    "topics": []
   },
   {
-   "title": "Cameron Diaz in ‘The Holiday’ Is My Winter Style Inspiration",
+   "title": "Shop Our Favorite Celebrity Looks of the Week",
    "source": "Vogue",
-   "url": "https://www.vogue.com/article/cameron-diaz-the-holiday-style-inspiration",
+   "url": "https://www.vogue.com/article/best-celebrity-outfits",
    "date": "2026-11-27T11:00:00+00:00",
    "brands": [],
    "topics": []
@@ -388,17 +460,17 @@
    "topics": []
   },
   {
-   "title": "The Vogue Business Beauty Trend Tracker",
+   "title": "The Rise, Fall, and Future of Makeup Artist-Led Brands",
    "source": "Vogue",
-   "url": "https://www.vogue.com/article/the-vogue-business-beauty-tracker",
+   "url": "https://www.vogue.com/article/the-rise-fall-and-future-of-makeup-artist-led-brands",
    "date": "2026-11-27T10:30:00+00:00",
    "brands": [],
    "topics": []
   },
   {
-   "title": "The Rise, Fall, and Future of Makeup Artist-Led Brands",
+   "title": "The Vogue Business Beauty Trend Tracker",
    "source": "Vogue",
-   "url": "https://www.vogue.com/article/the-rise-fall-and-future-of-makeup-artist-led-brands",
+   "url": "https://www.vogue.com/article/the-vogue-business-beauty-tracker",
    "date": "2026-11-27T10:30:00+00:00",
    "brands": [],
    "topics": []
@@ -534,59 +606,6 @@
    "topics": []
   },
   {
-   "title": "Madhappy x Disney Launches a New Collection Inspired by Vintage Archives",
-   "source": "Hypebeast",
-   "url": "https://hypebeast.com/2026/11/madhappy-x-disney-aw26-collaboration-collection-release-info",
-   "date": "2026-11-27T06:16:03+00:00",
-   "brands": [
-    "Madhappy"
-   ],
-   "topics": [
-    "collab"
-   ]
-  },
-  {
-   "title": "Salomon Launches Fall/Winter 2026 Holiday Capsule Featuring All-Weather Models",
-   "source": "Hypebeast",
-   "url": "https://hypebeast.com/2026/11/salomon-2026-autumn-winter-holiday-xt-6-relese-info",
-   "date": "2026-11-27T06:11:13+00:00",
-   "brands": [],
-   "topics": [
-    "collab"
-   ]
-  },
-  {
-   "title": "ROA x C.P. Company Announce First Collaboration",
-   "source": "Hypebeast",
-   "url": "https://hypebeast.com/2026/11/roa-c-p-company-collabo-collection-release-info",
-   "date": "2026-11-27T06:10:41+00:00",
-   "brands": [],
-   "topics": [
-    "collab"
-   ]
-  },
-  {
-   "title": "Kith x UNITED ARROWS & SONS x New Balance Unveil the 990v3 Made in USA",
-   "source": "Hypebeast",
-   "url": "https://hypebeast.com/2026/11/kith-united-arrows-sons-new-balance-990v3-made-in-usa-release-info",
-   "date": "2026-11-27T06:10:09+00:00",
-   "brands": [
-    "Kith",
-    "New Balance"
-   ],
-   "topics": [
-    "collab"
-   ]
-  },
-  {
-   "title": "TOGA Drops Limited-Edition Sweatshirts Reimagining Champion's Reverse Weave",
-   "source": "Hypebeast",
-   "url": "https://hypebeast.com/2026/11/toga-champion-reverse-weave-exclusive-collection-info",
-   "date": "2026-11-27T06:09:34+00:00",
-   "brands": [],
-   "topics": []
-  },
-  {
    "title": "The Scoop with Kolor’s Taro Horiuchi: On His Zara Collab",
    "source": "Vogue",
    "url": "https://www.vogue.com/article/the-scoop-with-kolors-taro-horiuchi-on-his-zara-collab",
@@ -665,30 +684,6 @@
    "source": "Vogue",
    "url": "https://www.vogue.com/article/the-body-and-the-teen-drama-fashion-machine",
    "date": "2026-11-26T17:20:04+00:00",
-   "brands": [],
-   "topics": []
-  },
-  {
-   "title": "The Art of Being Veruschka: Fashion Pays Tribute to a Legend",
-   "source": "Vogue",
-   "url": "https://www.vogue.com/article/veruschka-tributes",
-   "date": "2026-11-26T17:11:22+00:00",
-   "brands": [],
-   "topics": []
-  },
-  {
-   "title": "Kim and Khloé Kardashian’s Beauty Trip Didn’t Quite Go to Plan—Here’s What to Know Before Booking Yours",
-   "source": "Vogue",
-   "url": "https://www.vogue.com/article/kim-khloe-kardashian-beauty-vacation-tourism-tips",
-   "date": "2026-11-26T17:04:29+00:00",
-   "brands": [],
-   "topics": []
-  },
-  {
-   "title": "The Hardest-Working Jacket in Kate Middleton’s Wardrobe Was the Late Queen’s Favorite, Too",
-   "source": "Vogue",
-   "url": "https://www.vogue.com/article/kate-middleton-barbour-jacket-queens-favorite",
-   "date": "2026-11-26T16:43:36+00:00",
    "brands": [],
    "topics": []
   },
@@ -1053,19 +1048,6 @@
    "date": "2026-11-21T05:00:00+00:00",
    "brands": [],
    "topics": []
-  },
-  {
-   "title": "Must Read: Gap Inc. Names New Athleta Brand President and CEO, Nike Enters Long-Term Formula One Apparel Partnership",
-   "source": "Fashionista",
-   "url": "https://fashionista.com/2026/11/gap-inc-athleta-brand-president-ceo-announcement",
-   "date": "2026-11-20T17:00:00+00:00",
-   "brands": [
-    "Nike"
-   ],
-   "topics": [
-    "collab",
-    "business"
-   ]
   }
  ],
  "failed": [
