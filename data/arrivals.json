@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-27T16:44:11+00:00",
+ "fetched_at": "2026-11-28T01:28:24+00:00",
  "per_brand": 24,
  "brands": [
   {
@@ -2214,6 +2214,207 @@
    ]
   },
   {
+   "brand": "Madhappy",
+   "domain": "madhappy.com",
+   "cat": "american",
+   "currency": "USD",
+   "collection": "https://madhappy.com/collections/new-arrivals",
+   "items": [
+    {
+     "title": "Dodgers Stars Fleece Hoodie",
+     "price": 195.0,
+     "compare": null,
+     "type": "Hoodie",
+     "url": "https://madhappy.com/products/dodgers-stars-fleece-hoodie-white",
+     "img": "https://cdn.shopify.com/s/files/1/2554/3534/files/Madhappy-Dodgers-Stars-Hoodie-Flat-White-01.jpg?v=1774629709&width=400"
+    },
+    {
+     "title": "Washed Dodgers '47 Clean Up",
+     "price": 70.0,
+     "compare": null,
+     "type": "Hat",
+     "url": "https://madhappy.com/products/washed-dodgers-47-clean-up-olive",
+     "img": "https://cdn.shopify.com/s/files/1/2554/3534/files/Madhappy-Dodgers-Dad-Hat-47-Brand-Flat-Olive-01.jpg?v=1774546389&width=400"
+    },
+    {
+     "title": "Hanes Everyday Tee 3-Pack",
+     "price": 95.0,
+     "compare": null,
+     "type": "T-Shirt",
+     "url": "https://madhappy.com/products/hanes-everyday-tee-3-pack-monochrome",
+     "img": "https://cdn.shopify.com/s/files/1/2554/3534/files/010126-Madhappy-Flats29181.jpg?v=1770339797&width=400"
+    },
+    {
+     "title": "Dodgers Oval Fleece Crewneck",
+     "price": 185.0,
+     "compare": null,
+     "type": "Crewneck",
+     "url": "https://madhappy.com/products/dodgers-oval-fleece-crewneck-lemon-grove",
+     "img": "https://cdn.shopify.com/s/files/1/2554/3534/files/Madhappy-Dodgers-Oval-Crewneck-Flat-Lemon-Grove-01.jpg?v=1774396378&width=400"
+    },
+    {
+     "title": "Dodgers Heart Cardigan Sweater",
+     "price": 275.0,
+     "compare": null,
+     "type": "Sweater",
+     "url": "https://madhappy.com/products/dodgers-heart-cardigan-sweater-dark-gray-heather",
+     "img": "https://cdn.shopify.com/s/files/1/2554/3534/files/Madhappy-Dodgers-Cardigan-Sweater-Flat-Dark-Grey-Heather-01.jpg?v=1774395334&width=400"
+    },
+    {
+     "title": "Dodgers Heart Cardigan Sweater",
+     "price": 275.0,
+     "compare": null,
+     "type": "Sweater",
+     "url": "https://madhappy.com/products/dodgers-heart-cardigan-sweater-blue-moon",
+     "img": "https://cdn.shopify.com/s/files/1/2554/3534/files/Madhappy-Dodgers-Cardigan-Sweater-Flat-Blue-Moon-01.jpg?v=1774395189&width=400"
+    },
+    {
+     "title": "Dodgers Oval Fleece Short",
+     "price": 130.0,
+     "compare": null,
+     "type": "Short",
+     "url": "https://madhappy.com/products/dodgers-oval-fleece-short-olive",
+     "img": "https://cdn.shopify.com/s/files/1/2554/3534/files/Madhappy-Dodgers-Oval-Short-Flat-Olive-01.jpg?v=1774396808&width=400"
+    },
+    {
+     "title": "Dodgers Heart Sweater Short",
+     "price": 175.0,
+     "compare": null,
+     "type": "Short",
+     "url": "https://madhappy.com/products/dodgers-sweater-short-dark-gray-heather",
+     "img": "https://cdn.shopify.com/s/files/1/2554/3534/files/Madhappy-Dodgers-Sweater-Shorts-Flat-Dark-Grey-Heather-01.jpg?v=1774399035&width=400"
+    },
+    {
+     "title": "Dodgers Heart Sweater Short",
+     "price": 175.0,
+     "compare": null,
+     "type": "Short",
+     "url": "https://madhappy.com/products/dodgers-sweater-short-blue-moon",
+     "img": "https://cdn.shopify.com/s/files/1/2554/3534/files/Madhappy-Dodgers-Sweater-Shorts-Flat-Dark-Blue-Moon-01.jpg?v=1774398947&width=400"
+    },
+    {
+     "title": "Dodgers Stars Fleece Hoodie",
+     "price": 195.0,
+     "compare": null,
+     "type": "Hoodie",
+     "url": "https://madhappy.com/products/dodgers-stars-fleece-hoodie-lemon-grove",
+     "img": "https://cdn.shopify.com/s/files/1/2554/3534/files/Madhappy-Dodgers-Stars-Hoodie-Flat-Lemon-Grove-01.jpg?v=1774397482&width=400"
+    },
+    {
+     "title": "Dodgers Stars Fleece Sweatpant",
+     "price": 185.0,
+     "compare": null,
+     "type": "Sweatpant",
+     "url": "https://madhappy.com/products/dodgers-stars-fleece-sweatpant-ravine",
+     "img": "https://cdn.shopify.com/s/files/1/2554/3534/files/Madhappy-Dodgers-Stars-Sweatpant-Flat-Ravine-01.jpg?v=1774398766&width=400"
+    },
+    {
+     "title": "Dodgers Stars Fleece Sweatpant",
+     "price": 185.0,
+     "compare": null,
+     "type": "Sweatpant",
+     "url": "https://madhappy.com/products/dodgers-stars-fleece-sweatpant-white",
+     "img": "https://cdn.shopify.com/s/files/1/2554/3534/files/Madhappy-Dodgers-Stars-Sweatpant-Flat-White-01.jpg?v=1774398640&width=400"
+    },
+    {
+     "title": "Classics Dad Hat",
+     "price": 55.0,
+     "compare": null,
+     "type": "Hat",
+     "url": "https://madhappy.com/products/classics-dad-hat-white",
+     "img": "https://cdn.shopify.com/s/files/1/2554/3534/files/Madhappy-47-Core-Wordmark-Dad-Hat-Flat-White-01.jpg?v=1771290582&width=400"
+    },
+    {
+     "title": "Dodgers Oval '47 Clean Up",
+     "price": 70.0,
+     "compare": null,
+     "type": "Hat",
+     "url": "https://madhappy.com/products/dodgers-oval-47-clean-up-lemon-grove",
+     "img": "https://cdn.shopify.com/s/files/1/2554/3534/files/Madhappy-Dodgers-Dad-Hat-47-Brand-Flat-Lemon-Grove-01.jpg?v=1774394712&width=400"
+    },
+    {
+     "title": "Dodgers Stars Heavyweight Tee",
+     "price": 85.0,
+     "compare": null,
+     "type": "T-Shirt",
+     "url": "https://madhappy.com/products/dodgers-stars-heavyweight-tee-ravine",
+     "img": "https://cdn.shopify.com/s/files/1/2554/3534/files/Madhappy-Dodgers-Stars-Heavyweight-Tee-Flat-Ravine-01.jpg?v=1774397328&width=400"
+    },
+    {
+     "title": "Dodgers Stars Heavyweight Tee",
+     "price": 85.0,
+     "compare": null,
+     "type": "T-Shirt",
+     "url": "https://madhappy.com/products/dodgers-stars-heavyweight-tee-white",
+     "img": "https://cdn.shopify.com/s/files/1/2554/3534/files/Madhappy-Dodgers-Stars-Heavyweight-Tee-Flat-White-01.jpg?v=1774397221&width=400"
+    },
+    {
+     "title": "Dodgers World Series Jacket",
+     "price": 350.0,
+     "compare": null,
+     "type": "Jacket",
+     "url": "https://madhappy.com/products/dodgers-world-series-jacket-ravine",
+     "img": "https://cdn.shopify.com/s/files/1/2554/3534/files/Madhappy-Dodgers-World-Series-Jacket-Flat-Ravine-01.jpg?v=1774399399&width=400"
+    },
+    {
+     "title": "Dodgers Oval Fleece Crewneck",
+     "price": 185.0,
+     "compare": null,
+     "type": "Crewneck",
+     "url": "https://madhappy.com/products/dodgers-oval-fleece-crewneck-olive",
+     "img": "https://cdn.shopify.com/s/files/1/2554/3534/files/Madhappy-Dodgers-Oval-Crewneck-Flat-Olive-01.jpg?v=1774396594&width=400"
+    },
+    {
+     "title": "Dodgers Oval Fleece Short",
+     "price": 130.0,
+     "compare": null,
+     "type": "Short",
+     "url": "https://madhappy.com/products/dodgers-oval-fleece-short-lemon-grove",
+     "img": "https://cdn.shopify.com/s/files/1/2554/3534/files/Madhappy-Dodgers-Oval-Short-Flat-Lemon-Grove-01.jpg?v=1774396896&width=400"
+    },
+    {
+     "title": "Dodgers Bowtie '47 Clean Up",
+     "price": 80.0,
+     "compare": null,
+     "type": "Hat",
+     "url": "https://madhappy.com/products/dodgers-bowtie-47-clean-up-ravine",
+     "img": "https://cdn.shopify.com/s/files/1/2554/3534/files/Madhappy-Dodgers-Bow-Hat-47-Brand-Flat-Ravine-03.jpg?v=1774570288&width=400"
+    },
+    {
+     "title": "Dodgers Stars Fleece Crewneck",
+     "price": 185.0,
+     "compare": null,
+     "type": "Crewneck",
+     "url": "https://madhappy.com/products/dodgers-star-fleece-crewneck-ash",
+     "img": "https://cdn.shopify.com/s/files/1/2554/3534/files/Madhappy-Dodgers-Stars-Crewneck-Flat-Ash-01.jpg?v=1774396693&width=400"
+    },
+    {
+     "title": "Dodgers Zip Up Sweater",
+     "price": 275.0,
+     "compare": null,
+     "type": "Sweater",
+     "url": "https://madhappy.com/products/dodgers-zip-up-sweater-navy",
+     "img": "https://cdn.shopify.com/s/files/1/2554/3534/files/Madhappy-Dodgers-Zip-Up-Sweater-Flat-Navy-01.jpg?v=1774399551&width=400"
+    },
+    {
+     "title": "Dodgers Heart Fleece Sweatpant",
+     "price": 185.0,
+     "compare": null,
+     "type": "Sweatpant",
+     "url": "https://madhappy.com/products/dodgers-heart-fleece-straight-sweatpant-ravine",
+     "img": "https://cdn.shopify.com/s/files/1/2554/3534/files/Madhappy-Dodgers-Heart-Straight-Sweatpant-Flat-Ravine-01.jpg?v=1774396180&width=400"
+    },
+    {
+     "title": "Pantry Strawberry Heavyweight Tee",
+     "price": 80.0,
+     "compare": null,
+     "type": "T-Shirt",
+     "url": "https://madhappy.com/products/pantry-core-heavyweight-tee-ash",
+     "img": "https://cdn.shopify.com/s/files/1/2554/3534/files/Madhappy-Pantry-Mid-Weight-Tee-Flat-Light-Grey-Heather-01.jpg?v=1770783469&width=400"
+    }
+   ]
+  },
+  {
    "brand": "Sporty & Rich",
    "domain": "www.sportyandrich.com",
    "cat": "american",
@@ -2824,14 +3025,6 @@
    "collection": "https://www.kith.com/collections/new-arrivals",
    "items": [
     {
-     "title": "STAR WARS™ | Kith Darth Vader Wall Clock - Multi",
-     "price": 90.0,
-     "compare": null,
-     "type": "Decor & Accessories",
-     "url": "https://www.kith.com/products/khla150274",
-     "img": "https://cdn.shopify.com/s/files/1/0094/2252/files/KHLA150274-Detail.jpg?v=1795212530&width=400"
-    },
-    {
      "title": "STAR WARS™ | Kith for Corkcicle Sport Canteen - White",
      "price": 55.0,
      "compare": null,
@@ -3014,6 +3207,14 @@
      "type": "Caps",
      "url": "https://www.kith.com/products/khma050176-001",
      "img": "https://cdn.shopify.com/s/files/1/0094/2252/files/KHMA050176-001-Detail.jpg?v=1795101375&width=400"
+    },
+    {
+     "title": "STAR WARS™ | Kith Order 66 Classic Cap - Black",
+     "price": 60.0,
+     "compare": null,
+     "type": "Caps",
+     "url": "https://www.kith.com/products/khma050175-001",
+     "img": "https://cdn.shopify.com/s/files/1/0094/2252/files/KHMA050175-001-Detail.jpg?v=1795214129&width=400"
     }
    ]
   },
@@ -3331,6 +3532,46 @@
    "collection": "https://www.allbirds.com/collections/womens-new-arrivals",
    "items": [
     {
+     "title": "Women's Dasher NZ - Medium Grey (Light Grey Sole)",
+     "price": 84.0,
+     "compare": 140.0,
+     "type": "Shoes",
+     "url": "https://www.allbirds.com/products/womens-dasher-nz-medium-grey",
+     "img": "https://cdn.shopify.com/s/files/1/1104/4168/files/A12568_26Q1_Dasher-NZ-Medium-Grey-Light-Grey_PDP_LEFT_d946c615-91e5-455e-b6df-46bf687f0c9b.png?v=1768948889&width=400"
+    },
+    {
+     "title": "Women's Dasher NZ Relay - Mushroom (Natural White Sole)",
+     "price": 81.0,
+     "compare": 135.0,
+     "type": "Shoes",
+     "url": "https://www.allbirds.com/products/womens-dasher-nz-relay-mushroom",
+     "img": "https://cdn.shopify.com/s/files/1/1104/4168/files/A12613_26Q1_Dasher-NZ-Relay-Mushroom-Natural-White_PDP_LEFT_cc2aa3ca-5b12-476a-b4f3-706bb28a2731.png?v=1768950872&width=400"
+    },
+    {
+     "title": "Women's Cruiser Slip On - Natural Black (Blizzard Sole)",
+     "price": 60.0,
+     "compare": 100.0,
+     "type": "Shoes",
+     "url": "https://www.allbirds.com/products/womens-cruiser-slip-on-natural-black",
+     "img": "https://cdn.shopify.com/s/files/1/1104/4168/files/A12649_26Q1_Cruiser-Slip-On-Natural-Black-Blizzard-Sole_PDP_LEFT_186aecff-d89f-4409-9d2a-dfff40f185fc.png?v=1768947506&width=400"
+    },
+    {
+     "title": "Women's Tree Breezer - Mushroom (Mushroom Sole)",
+     "price": 63.0,
+     "compare": 105.0,
+     "type": "Shoes",
+     "url": "https://www.allbirds.com/products/womens-tree-breezer-mushroom",
+     "img": "https://cdn.shopify.com/s/files/1/1104/4168/files/A12621_26Q1_Tree-Breezer-Mushroom-Mushroom_PDP_LEFT.png?v=1765243757&width=400"
+    },
+    {
+     "title": "Women's Tree Glider - Mushroom (Light Mushroom Sole)",
+     "price": 84.0,
+     "compare": 140.0,
+     "type": "Shoes",
+     "url": "https://www.allbirds.com/products/womens-tree-glider-mushroom",
+     "img": "https://cdn.shopify.com/s/files/1/1104/4168/files/A12587_26Q1_Tree-Glider-Mushroom-Light-Mushroom_PDP_LEFT.png?v=1765239838&width=400"
+    },
+    {
      "title": "Women's Allbirds Flip Flop - Natural Black",
      "price": 30.0,
      "compare": 50.0,
@@ -3435,6 +3676,22 @@
      "img": "https://cdn.shopify.com/s/files/1/1104/4168/files/A12650_26Q1_Allbirds-Slide-Natural-Black_PDP_LEFT_3ec961d2-c588-4a68-8a4a-b93aa44ecb42.png?v=1769463781&width=400"
     },
     {
+     "title": "Women's Cruiser - Natural Black (Natural Black Sole)",
+     "price": 90.0,
+     "compare": 105.0,
+     "type": "Shoes",
+     "url": "https://www.allbirds.com/products/womens-cruiser-natural-black",
+     "img": "https://cdn.shopify.com/s/files/1/1104/4168/files/A11793_25Q3_Cruiser_Natural_Black_Natural_Black_PDP_LEFT-2000x2000_1ef2ddbb-5638-47a1-b762-5805e751bbb5.png?v=1751901343&width=400"
+    },
+    {
+     "title": "Women's Breezer Mary Jane - Natural Black (Natural Black Sole)",
+     "price": 69.0,
+     "compare": 115.0,
+     "type": "Shoes",
+     "url": "https://www.allbirds.com/products/womens-breezer-mary-jane-natural-black",
+     "img": "https://cdn.shopify.com/s/files/1/1104/4168/files/A12122_25Q4_Breezer-Mary-Jane-Natural-Black-Natural-Black-Sole_PDP_LEFT.png?v=1761878804&width=400"
+    },
+    {
      "title": "Anytime No Show Heel Grip Sock - Spice (Blizzard Sole)",
      "price": 7.0,
      "compare": 14.0,
@@ -3465,62 +3722,6 @@
      "type": "Socks",
      "url": "https://www.allbirds.com/products/anytime-crew-sock-heathered-ochre",
      "img": "https://cdn.shopify.com/s/files/1/1104/4168/files/A12702_front_1600x1600_fcf2357e-0b8b-4d50-af4f-2b48f90e956c.png?v=1770399951&width=400"
-    },
-    {
-     "title": "Anytime Crew Sock - Spice (Blizzard Sole)",
-     "price": 9.0,
-     "compare": 18.0,
-     "type": "Socks",
-     "url": "https://www.allbirds.com/products/anytime-crew-sock-heathered-spice",
-     "img": "https://cdn.shopify.com/s/files/1/1104/4168/files/A12701_front_1600x1600_3883d7c1-2191-401d-9a48-062aa9343b2e.png?v=1770399757&width=400"
-    },
-    {
-     "title": "Women's Allbirds Slide - Mushroom",
-     "price": 16.5,
-     "compare": 55.0,
-     "type": "Shoes",
-     "url": "https://www.allbirds.com/products/womens-allbirds-slide-mushroom",
-     "img": "https://cdn.shopify.com/s/files/1/1104/4168/files/A12589_26Q1_Allbirds-Slide-Mushroom_PDP_LEFT_7c5fc76e-d7a3-45ac-bf42-c44de7032dd9.png?v=1769463783&width=400"
-    },
-    {
-     "title": "Women's Allbirds Slide - Anthracite",
-     "price": 16.5,
-     "compare": 55.0,
-     "type": "Shoes",
-     "url": "https://www.allbirds.com/products/womens-allbirds-slide-anthracite",
-     "img": "https://cdn.shopify.com/s/files/1/1104/4168/files/A12411_26Q1_Allbirds-Slide-Anthracite_PDP_LEFT.png?v=1769463781&width=400"
-    },
-    {
-     "title": "Women's Runner NZ Jersey - Light Grey/Anthracite (Blizzard Sole)",
-     "price": 77.0,
-     "compare": 110.0,
-     "type": "Shoes",
-     "url": "https://www.allbirds.com/products/womens-runner-nz-jersey-light-grey-anthracite",
-     "img": "https://cdn.shopify.com/s/files/1/1104/4168/files/A12561_26Q1_Runner-NZ-Jersey-Light-Grey-Anthracite-Blizzard-Sole_PDP_LEFT_6325abf4-1f99-49af-adde-63c95a8741c8.png?v=1774566541&width=400"
-    },
-    {
-     "title": "Women's Runner NZ Jersey - Light Grey/Verdant Green (Blizzard Sole)",
-     "price": 66.0,
-     "compare": 110.0,
-     "type": "Shoes",
-     "url": "https://www.allbirds.com/products/womens-runner-nz-jersey-light-grey-verdant-green",
-     "img": "https://cdn.shopify.com/s/files/1/1104/4168/files/A12554_26Q1_Runner-NZ-Jersey-Light-Grey-Verdant-Green-Blizzard-Sole_PDP_LEFT_6a0226a3-f1d8-41bd-ba3c-ddc930ae9809.png?v=1774566542&width=400"
-    },
-    {
-     "title": "Women's Runner NZ Jersey - Light Grey/Syrah (Blizzard Sole)",
-     "price": 66.0,
-     "compare": 110.0,
-     "type": "Shoes",
-     "url": "https://www.allbirds.com/products/womens-runner-nz-jersey",
-     "img": "https://cdn.shopify.com/s/files/1/1104/4168/files/A12548_26Q1_Runner-NZ-Jersey-Light-Grey-Syrah-Bizzard-Sole_PDP_LEFT_65c0d657-b972-4d15-8ddb-833d1d36d012.png?v=1774566542&width=400"
-    },
-    {
-     "title": "Women's Canvas Runner NZ - Deep Navy Stripes (Blizzard Sole)",
-     "price": 100.0,
-     "compare": null,
-     "type": "Shoes",
-     "url": "https://www.allbirds.com/products/womens-canvas-runner-nz",
-     "img": "https://cdn.shopify.com/s/files/1/1104/4168/files/A12500_26Q1_Runner-NZ-Canvas-Stripes-Deep-Navy-Blizzard-Sole_PDP_LEFT_bda73f01-c2a8-43d5-b680-0a4e86b8926f.png?v=1774550676&width=400"
     }
    ]
   },
@@ -4199,6 +4400,22 @@
      "img": "https://cdn.shopify.com/s/files/1/0181/8457/files/PDP-2026-10-28T103853.166BLACKBERRY_KISS.jpg?v=1793198491&width=400"
     },
     {
+     "title": "Toller Velvet and Lace Mini Dress",
+     "price": 395.0,
+     "compare": null,
+     "type": "Mini Dress",
+     "url": "https://www.loveshackfancy.com/products/toller-dress-d3306-3744",
+     "img": "https://cdn.shopify.com/s/files/1/0181/8457/files/PDP-2026-11-09T201451.538black.jpg?v=1794273337&width=400"
+    },
+    {
+     "title": "Dovato Jacquard Taffeta Bow Midi Dress",
+     "price": 795.0,
+     "compare": null,
+     "type": "Midi Dress",
+     "url": "https://www.loveshackfancy.com/products/dovato-dress-d3321-3673",
+     "img": "https://cdn.shopify.com/s/files/1/0181/8457/files/20261017_RE27_D1_Ecomm_SKomarovski_DOVATODRESS-BLACK-D3321-3673_017_8cac8b5c-23b0-499b-90e5-832c2f7bbfc8.jpg?v=1793294928&width=400"
+    },
+    {
      "title": "Coravyn Mixed Brocade Mini Dress",
      "price": 495.0,
      "compare": null,
@@ -4223,12 +4440,12 @@
      "img": "https://cdn.shopify.com/s/files/1/0181/8457/files/PDP-2026-11-09T174559.180REGAL_PINK.jpg?v=1794264414&width=400"
     },
     {
-     "title": "Toller Velvet and Lace Mini Dress",
-     "price": 395.0,
+     "title": "Cherlyn Sequin Halter Maxi Dress",
+     "price": 695.0,
      "compare": null,
-     "type": "Mini Dress",
-     "url": "https://www.loveshackfancy.com/products/toller-dress-d3306-3744",
-     "img": "https://cdn.shopify.com/s/files/1/0181/8457/files/PDP-2026-11-09T201451.538black.jpg?v=1794273337&width=400"
+     "type": "Maxi Dress",
+     "url": "https://www.loveshackfancy.com/products/cherlyn-dress-d3265-3734",
+     "img": "https://cdn.shopify.com/s/files/1/0181/8457/files/PDP-2026-11-05T173247.466black.jpg?v=1793917990&width=400"
     },
     {
      "title": "Misi Jacquard and Lace Top",
@@ -4263,14 +4480,6 @@
      "img": "https://cdn.shopify.com/s/files/1/0181/8457/files/20261017_RE27_D1_Ecomm_SKomarovski_SAFINATOP-GOLD-T1677-3902_138.jpg?v=1793134904&width=400"
     },
     {
-     "title": "Dovato Jacquard Taffeta Bow Midi Dress",
-     "price": 795.0,
-     "compare": null,
-     "type": "Midi Dress",
-     "url": "https://www.loveshackfancy.com/products/dovato-dress-d3321-3673",
-     "img": "https://cdn.shopify.com/s/files/1/0181/8457/files/20261017_RE27_D1_Ecomm_SKomarovski_DOVATODRESS-BLACK-D3321-3673_017_8cac8b5c-23b0-499b-90e5-832c2f7bbfc8.jpg?v=1793294928&width=400"
-    },
-    {
      "title": "Esper Sequin Mini Dress",
      "price": 595.0,
      "compare": null,
@@ -4293,14 +4502,6 @@
      "type": "Maxi Dress",
      "url": "https://www.loveshackfancy.com/products/orianna-dress-d2821-4060",
      "img": "https://cdn.shopify.com/s/files/1/0181/8457/files/20261017_RE27_D1_Ecomm_SKomarovski_ORIANNADRESS-CARNATIONRED-D2821-4060_007.jpg?v=1793135150&width=400"
-    },
-    {
-     "title": "Cherlyn Sequin Halter Maxi Dress",
-     "price": 695.0,
-     "compare": null,
-     "type": "Maxi Dress",
-     "url": "https://www.loveshackfancy.com/products/cherlyn-dress-d3265-3734",
-     "img": "https://cdn.shopify.com/s/files/1/0181/8457/files/PDP-2026-11-05T173247.466black.jpg?v=1793917990&width=400"
     },
     {
      "title": "Delmara Taffeta Bow Mini Dress",

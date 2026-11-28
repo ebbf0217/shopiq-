@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-27T16:44:11+00:00",
+ "fetched_at": "2026-11-28T01:28:24+00:00",
  "min_pct": 20,
  "brands": [
   {
@@ -160,7 +160,7 @@
    "cat": "multi",
    "currency": "USD",
    "checked": 2000,
-   "on_sale": 1474,
+   "on_sale": 1468,
    "max_pct": 80,
    "median_pct": 40,
    "top": [
@@ -235,8 +235,8 @@
    "domain": "www.loveshackfancy.com",
    "cat": "american",
    "currency": "USD",
-   "checked": 1899,
-   "on_sale": 964,
+   "checked": 1883,
+   "on_sale": 951,
    "max_pct": 86,
    "median_pct": 40,
    "top": [
@@ -387,8 +387,8 @@
    "domain": "www.ullajohnson.com",
    "cat": "designer",
    "currency": "USD",
-   "checked": 1311,
-   "on_sale": 511,
+   "checked": 1306,
+   "on_sale": 506,
    "max_pct": 60,
    "median_pct": 60,
    "top": [
@@ -763,91 +763,23 @@
    ]
   },
   {
-   "brand": "Alo Yoga",
-   "domain": "www.aloyoga.com",
-   "cat": "active",
-   "currency": "USD",
-   "checked": 228,
-   "on_sale": 213,
-   "max_pct": 61,
-   "median_pct": 31,
-   "top": [
-    {
-     "title": "Aces Tennis Skirt - Black",
-     "pct": 61,
-     "price": 29.0,
-     "compare": 74.0,
-     "url": "https://www.aloyoga.com/products/w6235r-aces-tennis-skirt-black",
-     "img": "https://cdn.shopify.com/s/files/1/2185/2813/files/W6235R_01_b1_s1_a1_1_m125.jpg?v=1704221494&width=400"
-    },
-    {
-     "title": "3\" ALO Softsculpt High-Waist Precision Short - Green Olive",
-     "pct": 61,
-     "price": 33.0,
-     "compare": 84.0,
-     "url": "https://www.aloyoga.com/products/w6495r-3-alo-softsculpt-high-waist-precision-short-green-olive",
-     "img": "https://cdn.shopify.com/s/files/1/2185/2813/files/W6495R_06464_b1_s1_a1_m207.jpg?v=1756826486&width=400"
-    },
-    {
-     "title": "Alosoft High-Waist 7/8 Relay Legging - Candy Red/White",
-     "pct": 61,
-     "price": 45.0,
-     "compare": 114.0,
-     "url": "https://www.aloyoga.com/products/w54177r-alosoft-high-waist-7-8-relay-legging-candy-red-white",
-     "img": "https://cdn.shopify.com/s/files/1/2185/2813/files/W54177R_06335_b2_s1_a1_m18.jpg?v=1745900940&width=400"
-    },
-    {
-     "title": "Washed Alosoft Crop Finesse Long Sleeve - Grey Sky Wash",
-     "pct": 61,
-     "price": 33.0,
-     "compare": 84.0,
-     "url": "https://www.aloyoga.com/products/w3930r-washed-alosoft-crop-finesse-long-sleeve-grey-sky-wash",
-     "img": "https://cdn.shopify.com/s/files/1/2185/2813/files/W3930R_06024_b1_s1_a1_1_m233.jpg?v=1741298005&width=400"
-    },
-    {
-     "title": "Light Weight Takeaway Track Pullover - Burgundy",
-     "pct": 60,
-     "price": 59.0,
-     "compare": 148.0,
-     "url": "https://www.aloyoga.com/products/m3259r-light-weight-takeaway-track-pullover-burgundy",
-     "img": "https://cdn.shopify.com/s/files/1/2185/2813/files/M3259R_06465_b1_s1_a1_m253_8b7bd98e-ca00-4a0f-98e7-b00b54ad1750.jpg?v=1766783062&width=400"
-    },
-    {
-     "title": "Denim Knit Sleeveless Full Zip Top - Black/Anthracite",
-     "pct": 60,
-     "price": 67.0,
-     "compare": 168.0,
-     "url": "https://www.aloyoga.com/products/w1459r-denim-knit-sleeveless-full-zip-top-black-anthracite",
-     "img": "https://cdn.shopify.com/s/files/1/2185/2813/files/W1459R_02620_b2_s1_a1_1_m227.jpg?v=1730392361&width=400"
-    },
-    {
-     "title": "Airlift Double Trouble Bra - Black",
-     "pct": 60,
-     "price": 27.0,
-     "compare": 68.0,
-     "url": "https://www.aloyoga.com/products/w9620r-airlift-double-trouble-bra-black",
-     "img": "https://cdn.shopify.com/s/files/1/2185/2813/files/W9782R_01_b1_s1_a2_dSP26_m191.jpg?v=1771617078&width=400"
-    },
-    {
-     "title": "Afterglow Wide Leg Track Pant - Black",
-     "pct": 60,
-     "price": 51.0,
-     "compare": 128.0,
-     "url": "https://www.aloyoga.com/products/w54151r-afterglow-wide-leg-track-pant-black",
-     "img": "https://cdn.shopify.com/s/files/1/2185/2813/files/W54151R_01_b1_s1_a1_1_m54.jpg?v=1732563367&width=400"
-    }
-   ]
-  },
-  {
    "brand": "Allbirds",
    "domain": "www.allbirds.com",
    "cat": "american",
    "currency": "USD",
-   "checked": 351,
-   "on_sale": 200,
-   "max_pct": 70,
+   "checked": 394,
+   "on_sale": 265,
+   "max_pct": 75,
    "median_pct": 40,
    "top": [
+    {
+     "title": "Women's Trino® Thong - Peppercorn",
+     "pct": 75,
+     "price": 4.0,
+     "compare": 16.0,
+     "url": "https://www.allbirds.com/products/womens-trino-thong-peppercorn",
+     "img": "https://cdn.shopify.com/s/files/1/1104/4168/files/UT1WPPC1_UNDERWEAR_FRONT_GLOBAL_THONG_PEPPERCORN.png?v=1781823399&width=400"
+    },
     {
      "title": "Men's Allbirds Slide - Verdant Green",
      "pct": 70,
@@ -903,14 +835,6 @@
      "compare": 75.0,
      "url": "https://www.allbirds.com/products/womens-cruiser-canvas-auburn",
      "img": "https://cdn.shopify.com/s/files/1/1104/4168/files/A12438_26Q1_Cruiser-Canvas-Auburn-Warm-White_PDP_LEFT_cceb74e2-4e2c-42cb-91b4-4b23348c9baa.png?v=1768946300&width=400"
-    },
-    {
-     "title": "Women's Tree Breezer - Jet Black (Black Sole)",
-     "pct": 70,
-     "price": 31.5,
-     "compare": 105.0,
-     "url": "https://www.allbirds.com/products/womens-tree-breezers-jet-black",
-     "img": "https://cdn.shopify.com/s/files/1/1104/4168/files/TB1WJBK_SHOE_LEFT_GLOBAL_WOMENS_TREE_BREEZER_JET_BLACK_BLACK.png?v=1751060487&width=400"
     }
    ]
   },
@@ -1063,6 +987,82 @@
      "compare": 270.0,
      "url": "https://www.apc.fr/products/jean-elisabeth-iab-cohoa-f09181",
      "img": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/COHOA-F09181IAB_00.jpg?v=1767634253&width=400"
+    }
+   ]
+  },
+  {
+   "brand": "Alo Yoga",
+   "domain": "www.aloyoga.com",
+   "cat": "active",
+   "currency": "USD",
+   "checked": 228,
+   "on_sale": 126,
+   "max_pct": 61,
+   "median_pct": 31,
+   "top": [
+    {
+     "title": "Aces Tennis Skirt - Black",
+     "pct": 61,
+     "price": 29.0,
+     "compare": 74.0,
+     "url": "https://www.aloyoga.com/products/w6235r-aces-tennis-skirt-black",
+     "img": "https://cdn.shopify.com/s/files/1/2185/2813/files/W6235R_01_b1_s1_a1_1_m125.jpg?v=1704221494&width=400"
+    },
+    {
+     "title": "3\" ALO Softsculpt High-Waist Precision Short - Green Olive",
+     "pct": 61,
+     "price": 33.0,
+     "compare": 84.0,
+     "url": "https://www.aloyoga.com/products/w6495r-3-alo-softsculpt-high-waist-precision-short-green-olive",
+     "img": "https://cdn.shopify.com/s/files/1/2185/2813/files/W6495R_06464_b1_s1_a1_m207.jpg?v=1756826486&width=400"
+    },
+    {
+     "title": "Alosoft High-Waist 7/8 Relay Legging - Candy Red/White",
+     "pct": 61,
+     "price": 45.0,
+     "compare": 114.0,
+     "url": "https://www.aloyoga.com/products/w54177r-alosoft-high-waist-7-8-relay-legging-candy-red-white",
+     "img": "https://cdn.shopify.com/s/files/1/2185/2813/files/W54177R_06335_b2_s1_a1_m18.jpg?v=1745900940&width=400"
+    },
+    {
+     "title": "Washed Alosoft Crop Finesse Long Sleeve - Grey Sky Wash",
+     "pct": 61,
+     "price": 33.0,
+     "compare": 84.0,
+     "url": "https://www.aloyoga.com/products/w3930r-washed-alosoft-crop-finesse-long-sleeve-grey-sky-wash",
+     "img": "https://cdn.shopify.com/s/files/1/2185/2813/files/W3930R_06024_b1_s1_a1_1_m233.jpg?v=1741298005&width=400"
+    },
+    {
+     "title": "Light Weight Takeaway Track Pullover - Burgundy",
+     "pct": 60,
+     "price": 59.0,
+     "compare": 148.0,
+     "url": "https://www.aloyoga.com/products/m3259r-light-weight-takeaway-track-pullover-burgundy",
+     "img": "https://cdn.shopify.com/s/files/1/2185/2813/files/M3259R_06465_b1_s1_a1_m253_8b7bd98e-ca00-4a0f-98e7-b00b54ad1750.jpg?v=1766783062&width=400"
+    },
+    {
+     "title": "Denim Knit Sleeveless Full Zip Top - Black/Anthracite",
+     "pct": 60,
+     "price": 67.0,
+     "compare": 168.0,
+     "url": "https://www.aloyoga.com/products/w1459r-denim-knit-sleeveless-full-zip-top-black-anthracite",
+     "img": "https://cdn.shopify.com/s/files/1/2185/2813/files/W1459R_02620_b2_s1_a1_1_m227.jpg?v=1730392361&width=400"
+    },
+    {
+     "title": "Airlift Double Trouble Bra - Black",
+     "pct": 60,
+     "price": 27.0,
+     "compare": 68.0,
+     "url": "https://www.aloyoga.com/products/w9620r-airlift-double-trouble-bra-black",
+     "img": "https://cdn.shopify.com/s/files/1/2185/2813/files/W9782R_01_b1_s1_a2_dSP26_m191.jpg?v=1771617078&width=400"
+    },
+    {
+     "title": "Afterglow Wide Leg Track Pant - Black",
+     "pct": 60,
+     "price": 51.0,
+     "compare": 128.0,
+     "url": "https://www.aloyoga.com/products/w54151r-afterglow-wide-leg-track-pant-black",
+     "img": "https://cdn.shopify.com/s/files/1/2185/2813/files/W54151R_01_b1_s1_a1_1_m54.jpg?v=1732563367&width=400"
     }
    ]
   },
@@ -1247,6 +1247,26 @@
    ]
   },
   {
+   "brand": "Madhappy",
+   "domain": "madhappy.com",
+   "cat": "american",
+   "currency": "USD",
+   "checked": 815,
+   "on_sale": 1,
+   "max_pct": 75,
+   "median_pct": 75,
+   "top": [
+    {
+     "title": "Yankees Flannel Boxer Pant",
+     "pct": 75,
+     "price": 49.0,
+     "compare": 195.0,
+     "url": "https://madhappy.com/products/yankees-flannel-boxer-pant-navy",
+     "img": "https://cdn.shopify.com/s/files/1/2554/3534/files/Madhappy-Yankees-All-Over-Embr-Cargo-Pant-Flat-Navy-01.jpg?v=1757357605&width=400"
+    }
+   ]
+  },
+  {
    "brand": "AGOLDE",
    "domain": "www.agolde.com",
    "cat": "designer",
@@ -1295,7 +1315,7 @@
    "domain": "www.sportyandrich.com",
    "cat": "american",
    "currency": "USD",
-   "checked": 991,
+   "checked": 990,
    "on_sale": 0,
    "max_pct": 0,
    "median_pct": 0,
@@ -1324,7 +1344,5 @@
    "top": []
   }
  ],
- "failed": [
-  "madhappy.com"
- ]
+ "failed": []
 }
